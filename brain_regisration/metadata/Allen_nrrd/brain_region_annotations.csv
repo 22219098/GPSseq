@@ -1,0 +1,1736 @@
+﻿order,ARA_Major Brain Division,ARA structure ID,ARA full structure name,ARA abbreviation,MBSC full structure name,MBSC abbreviation,Notes,New structure added to ARA ontology in CCFv3,"Structure is in the ARA ontology, but not currently annotated in CCFv3"
+0,root,997,root,root,n/a,n/a,,,included in CCFv3
+1,Basic cell groups and regions,8,Basic cell groups and regions,grey,n/a,n/a,,,included in CCFv3
+2,Cerebrum,567,Cerebrum,CH,n/a,n/a,,,included in CCFv3
+3,Cerebral cortex,688,Cerebral cortex,CTX,n/a,n/a,,,included in CCFv3
+4,Cortical plate,695,Cortical plate,CTXpl,n/a,n/a,,,included in CCFv3
+5,Isocortex,315,Isocortex,Isocortex,n/a,n/a,,,included in CCFv3
+6,Isocortex,184,"Frontal pole, cerebral cortex",FRP,Frontal association cortex,FrA,,,included in CCFv3
+7,Isocortex,68,"Frontal pole, layer 1",FRP1,n/a,n/a,,,included in CCFv3
+8,Isocortex,667,"Frontal pole, layer 2_3",FRP2_3,n/a,n/a,,,included in CCFv3
+9,Isocortex,526157192,"Frontal pole, layer 5",FRP5,n/a,n/a,,new in CCFv3,included in CCFv3
+10,Isocortex,526157196,"Frontal pole, layer 6a",FRP6a,n/a,n/a,,new in CCFv3,included in CCFv3
+11,Isocortex,526322264,"Frontal pole, layer 6b",FRP6b,n/a,n/a,,new in CCFv3,included in CCFv3
+12,Isocortex,n/a,n/a,n/a,"Frontal cortex, area 3",Fr3,,,
+13,Isocortex,500,Somatomotor areas,MO,n/a,n/a,,,included in CCFv3
+14,Isocortex,107,"Somatomotor areas, Layer 1",MO1,n/a,n/a,,,not annotated in CCFv3
+15,Isocortex,219,"Somatomotor areas, Layer 2_3",MO2_3,n/a,n/a,,,not annotated in CCFv3
+16,Isocortex,299,"Somatomotor areas, Layer 5",MO5,n/a,n/a,,,not annotated in CCFv3
+17,Isocortex,644,"Somatomotor areas, Layer 6a",MO6a,n/a,n/a,,,not annotated in CCFv3
+18,Isocortex,947,"Somatomotor areas, Layer 6b",MO6b,n/a,n/a,,,not annotated in CCFv3
+19,Isocortex,985,Primary motor area,MOp,Primary motor cortex,M1,,,included in CCFv3
+20,Isocortex,320,"Primary motor area, Layer 1",MOp1,layer 1,1,,,included in CCFv3
+21,Isocortex,943,"Primary motor area, Layer 2_3",MOp2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+22,Isocortex,648,"Primary motor area, Layer 5",MOp5,layer 5,5,,,included in CCFv3
+23,Isocortex,844,"Primary motor area, Layer 6a",MOp6a,layer 6a,6a,,,included in CCFv3
+24,Isocortex,882,"Primary motor area, Layer 6b",MOp6b,layer 6b,6b,,,included in CCFv3
+25,Isocortex,993,Secondary motor area,MOs,Secondary motor cortex,M2,,,included in CCFv3
+26,Isocortex,656,"Secondary motor area, layer 1",MOs1,layer 1,1,,,included in CCFv3
+27,Isocortex,962,"Secondary motor area, layer 2_3",MOs2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+28,Isocortex,767,"Secondary motor area, layer 5",MOs5,layer 5,5,,,included in CCFv3
+29,Isocortex,1021,"Secondary motor area, layer 6a",MOs6a,layer 6a,6a,,,included in CCFv3
+30,Isocortex,1085,"Secondary motor area, layer 6b",MOs6b,layer 6b,6b,,,included in CCFv3
+31,Isocortex,453,Somatosensory areas,SS,n/a,n/a,,,included in CCFv3
+32,Isocortex,12993,"Somatosensory areas, layer 1",SS1,n/a,n/a,,,not annotated in CCFv3
+33,Isocortex,12994,"Somatosensory areas, layer 2_3",SS2_3,n/a,n/a,,,not annotated in CCFv3
+34,Isocortex,12995,"Somatosensory areas, layer 4",SS4,n/a,n/a,,,not annotated in CCFv3
+35,Isocortex,12996,"Somatosensory areas, layer 5",SS5,n/a,n/a,,,not annotated in CCFv3
+36,Isocortex,12997,"Somatosensory areas, layer 6a",SS6a,n/a,n/a,,,not annotated in CCFv3
+37,Isocortex,12998,"Somatosensory areas, layer 6b",SS6b,n/a,n/a,,,not annotated in CCFv3
+38,Isocortex,322,Primary somatosensory area,SSp,Primary somatosensory cortex,S1,,,included in CCFv3
+39,Isocortex,793,"Primary somatosensory area, layer 1",SSp1,layer 1,1,,,not annotated in CCFv3
+40,Isocortex,346,"Primary somatosensory area, layer 2_3",SSp2_3,"layer 2, layer 3","2, 3",,,not annotated in CCFv3
+41,Isocortex,865,"Primary somatosensory area, layer 4",SSp4,layer 4,4,,,not annotated in CCFv3
+42,Isocortex,921,"Primary somatosensory area, layer 5",SSp5,layer 5,5,,,not annotated in CCFv3
+43,Isocortex,686,"Primary somatosensory area, layer 6a",SSp6a,layer 6a,6a,,,not annotated in CCFv3
+44,Isocortex,719,"Primary somatosensory area, layer 6b",SSp6b,layer 6b,6b,,,not annotated in CCFv3
+45,Isocortex,353,"Primary somatosensory area, nose",SSp-n,"Primary somatosensory cortex, upper lip region",S1ULp,,,included in CCFv3
+46,Isocortex,558,"Primary somatosensory area, nose, layer 1",SSp-n1,layer 1,1,,,included in CCFv3
+47,Isocortex,838,"Primary somatosensory area, nose, layer 2_3",SSp-n2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+48,Isocortex,654,"Primary somatosensory area, nose, layer 4",SSp-n4,layer 4,4,,,included in CCFv3
+49,Isocortex,702,"Primary somatosensory area, nose, layer 5",SSp-n5,layer 5,5,,,included in CCFv3
+50,Isocortex,889,"Primary somatosensory area, nose, layer 6a",SSp-n6a,layer 6a,6a,,,included in CCFv3
+51,Isocortex,929,"Primary somatosensory area, nose, layer 6b",SSp-n6b,layer 6b,6b,,,included in CCFv3
+52,Isocortex,329,"Primary somatosensory area, barrel field",SSp-bfd,"Primary somatosensory cortex, barrel field",S1BF,,,included in CCFv3
+53,Isocortex,981,"Primary somatosensory area, barrel field, layer 1",SSp-bfd1,layer 1,1,,,included in CCFv3
+54,Isocortex,201,"Primary somatosensory area, barrel field, layer 2_3",SSp-bfd2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+55,Isocortex,1047,"Primary somatosensory area, barrel field, layer 4",SSp-bfd4,layer 4,4,,,included in CCFv3
+56,Isocortex,1070,"Primary somatosensory area, barrel field, layer 5",SSp-bfd5,layer 5,5,,,included in CCFv3
+57,Isocortex,1038,"Primary somatosensory area, barrel field, layer 6a",SSp-bfd6a,layer 6a,6a,,,included in CCFv3
+58,Isocortex,1062,"Primary somatosensory area, barrel field, layer 6b",SSp-bfd6b,layer 6b,6b,,,included in CCFv3
+59,Isocortex,480149202,Rostrolateral lateral visual area,VISrll,n/a,n/a,,,not annotated in CCFv3
+60,Isocortex,480149206,"Rostrolateral lateral visual area, layer 1",VISrll1,n/a,n/a,,,not annotated in CCFv3
+61,Isocortex,480149210,"Rostrolateral lateral visual area, layer 2_3",VISrll2_3,n/a,n/a,,,not annotated in CCFv3
+62,Isocortex,480149214,"Rostrolateral lateral visual area, layer 4",VISrll4,n/a,n/a,,,not annotated in CCFv3
+63,Isocortex,480149218,"Rostrolateral lateral visual area,layer 5",VISrll5,n/a,n/a,,,not annotated in CCFv3
+64,Isocortex,480149222,"Rostrolateral lateral visual area, layer 6a",VISrll6a,n/a,n/a,,,not annotated in CCFv3
+65,Isocortex,480149226,"Rostrolateral lateral visual area, layer 6b",VISrll6b,n/a,n/a,,,not annotated in CCFv3
+66,Isocortex,337,"Primary somatosensory area, lower limb",SSp-ll,"Primary somatosensory cortex, hindlimb region",S1HL,,,included in CCFv3
+67,Isocortex,1030,"Primary somatosensory area, lower limb, layer 1",SSp-ll1,layer 1,1,,,included in CCFv3
+68,Isocortex,113,"Primary somatosensory area, lower limb, layer 2_3",SSp-ll2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+69,Isocortex,1094,"Primary somatosensory area, lower limb, layer 4",SSp-ll4,layer 4,4,,,included in CCFv3
+70,Isocortex,1128,"Primary somatosensory area, lower limb, layer 5",SSp-ll5,layer 5,5,,,included in CCFv3
+71,Isocortex,478,"Primary somatosensory area, lower limb, layer 6a",SSp-ll6a,layer 6a,6a,,,included in CCFv3
+72,Isocortex,510,"Primary somatosensory area, lower limb, layer 6b",SSp-ll6b,layer 6b,6b,,,included in CCFv3
+73,Isocortex,345,"Primary somatosensory area, mouth",SSp-m,"Primary somatosensory cortex, jaw region",S1J,,,included in CCFv3
+74,Isocortex,878,"Primary somatosensory area, mouth, layer 1",SSp-m1,layer 1,1,,,included in CCFv3
+75,Isocortex,657,"Primary somatosensory area, mouth, layer 2_3",SSp-m2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+76,Isocortex,950,"Primary somatosensory area, mouth, layer 4",SSp-m4,layer 4,4,,,included in CCFv3
+77,Isocortex,974,"Primary somatosensory area, mouth, layer 5",SSp-m5,layer 5,5,,,included in CCFv3
+78,Isocortex,1102,"Primary somatosensory area, mouth, layer 6a",SSp-m6a,layer 6a,6a,,,included in CCFv3
+79,Isocortex,2,"Primary somatosensory area, mouth, layer 6b",SSp-m6b,layer 6b,6b,,,included in CCFv3
+80,Isocortex,369,"Primary somatosensory area, upper limb",SSp-ul,"Primary somatosensory cortex, forelimb region",S1FL,,,included in CCFv3
+81,Isocortex,450,"Primary somatosensory area, upper limb, layer 1",SSp-ul1,layer 1,1,,,included in CCFv3
+82,Isocortex,854,"Primary somatosensory area, upper limb, layer 2_3",SSp-ul2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+83,Isocortex,577,"Primary somatosensory area, upper limb, layer 4",SSp-ul4,layer 4,4,,,included in CCFv3
+84,Isocortex,625,"Primary somatosensory area, upper limb, layer 5",SSp-ul5,layer 5,5,,,included in CCFv3
+85,Isocortex,945,"Primary somatosensory area, upper limb, layer 6a",SSp-ul6a,layer 6a,6a,,,included in CCFv3
+86,Isocortex,1026,"Primary somatosensory area, upper limb, layer 6b",SSp-ul6b,layer 6b,6b,,,included in CCFv3
+87,Isocortex,361,"Primary somatosensory area, trunk",SSp-tr,"Primary somatosensory cortex, trunk region",S1Tr,,,included in CCFv3
+88,Isocortex,1006,"Primary somatosensory area, trunk, layer 1",SSp-tr1,layer 1,1,,,included in CCFv3
+89,Isocortex,670,"Primary somatosensory area, trunk, layer 2_3",SSp-tr2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+90,Isocortex,1086,"Primary somatosensory area, trunk, layer 4",SSp-tr4,layer 4,4,,,included in CCFv3
+91,Isocortex,1111,"Primary somatosensory area, trunk, layer 5",SSp-tr5,layer 5,5,,,included in CCFv3
+92,Isocortex,9,"Primary somatosensory area, trunk, layer 6a",SSp-tr6a,layer 6a,6a,,,included in CCFv3
+93,Isocortex,461,"Primary somatosensory area, trunk, layer 6b",SSp-tr6b,layer 6b,6b,,,included in CCFv3
+94,Isocortex,182305689,"Primary somatosensory area, unassigned",SSp-un,"Primary somatosensory cortex, dysgranular region",S1DZ,,,included in CCFv3
+95,Isocortex,182305693,"Primary somatosensory area, unassigned, layer 1",SSp-un1,layer 1,1,,,included in CCFv3
+96,Isocortex,182305697,"Primary somatosensory area, unassigned, layer 2_3",SSp-un2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+97,Isocortex,182305701,"Primary somatosensory area, unassigned, layer 4",SSp-un4,layer 4,4,,,included in CCFv3
+98,Isocortex,182305705,"Primary somatosensory area, unassigned, layer 5",SSp-un5,layer 5,5,,,included in CCFv3
+99,Isocortex,182305709,"Primary somatosensory area, unassigned, layer 6a",SSp-un6a,layer 6a,6a,,,included in CCFv3
+100,Isocortex,182305713,"Primary somatosensory area, unassigned, layer 6b",SSp-un6b,layer 6b,6b,,,included in CCFv3
+101,Isocortex,n/a,n/a,n/a,"Primary somatosensory cortex, shoulder region",S1Sh,,,
+102,Isocortex,n/a,n/a,n/a,layer 1,1,,,
+103,Isocortex,n/a,n/a,n/a,"layer 2, layer 3","2, 3",,,
+104,Isocortex,n/a,n/a,n/a,layer 4,4,,,
+105,Isocortex,n/a,n/a,n/a,layer 5,5,,,
+106,Isocortex,n/a,n/a,n/a,layer 6a,6a,,,
+107,Isocortex,n/a,n/a,n/a,layer 6b,6b,,,
+108,Isocortex,378,Supplemental somatosensory area,SSs,Secondary somatosensory cortex,S2,,,included in CCFv3
+109,Isocortex,873,"Supplemental somatosensory area, layer 1",SSs1,layer 1,1,,,included in CCFv3
+110,Isocortex,806,"Supplemental somatosensory area, layer 2_3",SSs2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+111,Isocortex,1035,"Supplemental somatosensory area, layer 4",SSs4,layer 4,4,,,included in CCFv3
+112,Isocortex,1090,"Supplemental somatosensory area, layer 5",SSs5,layer 5,5,,,included in CCFv3
+113,Isocortex,862,"Supplemental somatosensory area, layer 6a",SSs6a,layer 6a,6a,,,included in CCFv3
+114,Isocortex,893,"Supplemental somatosensory area, layer 6b",SSs6b,layer 6b,6b,,,included in CCFv3
+115,Isocortex,1057,Gustatory areas,GU,Granular insular cortex,GI,,,included in CCFv3
+116,Isocortex,36,"Gustatory areas, layer 1",GU1,layer 1,1,,,included in CCFv3
+117,Isocortex,180,"Gustatory areas, layer 2_3",GU2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+118,Isocortex,148,"Gustatory areas, layer 4",GU4,layer 4,4,,,included in CCFv3
+119,Isocortex,187,"Gustatory areas, layer 5",GU5,layer 5,5,,,included in CCFv3
+120,Isocortex,638,"Gustatory areas, layer 6a",GU6a,layer 6a,6a,,,included in CCFv3
+121,Isocortex,662,"Gustatory areas, layer 6b",GU6b,layer 6b,6b,,,included in CCFv3
+122,Isocortex,677,Visceral area,VISC,Dysgranular insular cortex,DI,,,included in CCFv3
+123,Isocortex,897,"Visceral area, layer 1",VISC1,layer 1,1,,,included in CCFv3
+124,Isocortex,1106,"Visceral area, layer 2_3",VISC2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+125,Isocortex,1010,"Visceral area, layer 4",VISC4,layer 4,4,,,included in CCFv3
+126,Isocortex,1058,"Visceral area, layer 5",VISC5,layer 5,5,,,included in CCFv3
+127,Isocortex,857,"Visceral area, layer 6a",VISC6a,layer 6a,6a,,,included in CCFv3
+128,Isocortex,849,"Visceral area, layer 6b",VISC6b,layer 6b,6b,,,included in CCFv3
+129,Isocortex,247,Auditory areas,AUD,n/a,n/a,,,included in CCFv3
+130,Isocortex,1011,Dorsal auditory area,AUDd,"Secondary auditory cortex, dorsal area ",AuD,,,included in CCFv3
+131,Isocortex,527,"Dorsal auditory area, layer 1",AUDd1,layer 1,1,,,included in CCFv3
+132,Isocortex,600,"Dorsal auditory area, layer 2_3",AUDd2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+133,Isocortex,678,"Dorsal auditory area, layer 4",AUDd4,layer 4,4,,,included in CCFv3
+134,Isocortex,252,"Dorsal auditory area, layer 5",AUDd5,layer 5,5,,,included in CCFv3
+135,Isocortex,156,"Dorsal auditory area, layer 6a",AUDd6a,layer 6a,6a,,,included in CCFv3
+136,Isocortex,243,"Dorsal auditory area, layer 6b",AUDd6b,layer 6b,6b,,,included in CCFv3
+137,Isocortex,480149230,Laterolateral anterior visual area,VISlla,n/a,n/a,,,not annotated in CCFv3
+138,Isocortex,480149234,"Laterolateral anterior visual area, layer 1",VISlla1,n/a,n/a,,,not annotated in CCFv3
+139,Isocortex,480149238,"Laterolateral anterior visual area, layer 2_3",VISlla2_3,n/a,n/a,,,not annotated in CCFv3
+140,Isocortex,480149242,"Laterolateral anterior visual area, layer 4",VISlla4,n/a,n/a,,,not annotated in CCFv3
+141,Isocortex,480149246,"Laterolateral anterior visual area, layer 5",VISlla5,n/a,n/a,,,not annotated in CCFv3
+142,Isocortex,480149250,"Laterolateral anterior visual area, layer 6a",VISlla6a,n/a,n/a,,,not annotated in CCFv3
+143,Isocortex,480149254,"Laterolateral anterior visual area, layer 6b",VISlla6b,n/a,n/a,,,not annotated in CCFv3
+144,Isocortex,1002,Primary auditory area,AUDp,Primary auditory cortex,Au1,,,included in CCFv3
+145,Isocortex,735,"Primary auditory area, layer 1",AUDp1,layer 1,1,,,included in CCFv3
+146,Isocortex,251,"Primary auditory area, layer 2_3",AUDp2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+147,Isocortex,816,"Primary auditory area, layer 4",AUDp4,layer 4,4,,,included in CCFv3
+148,Isocortex,847,"Primary auditory area, layer 5",AUDp5,layer 5,5,,,included in CCFv3
+149,Isocortex,954,"Primary auditory area, layer 6a",AUDp6a,layer 6a,6a,,,included in CCFv3
+150,Isocortex,1005,"Primary auditory area, layer 6b",AUDp6b,layer 6b,6b,,,included in CCFv3
+151,Isocortex,1027,Posterior auditory area,AUDpo,n/a,n/a,,,included in CCFv3
+152,Isocortex,696,"Posterior auditory area, layer 1",AUDpo1,n/a,n/a,,,included in CCFv3
+153,Isocortex,643,"Posterior auditory area, layer 2_3",AUDpo2_3,n/a,n/a,,,included in CCFv3
+154,Isocortex,759,"Posterior auditory area, layer 4",AUDpo4,n/a,n/a,,,included in CCFv3
+155,Isocortex,791,"Posterior auditory area, layer 5",AUDpo5,n/a,n/a,,,included in CCFv3
+156,Isocortex,249,"Posterior auditory area, layer 6a",AUDpo6a,n/a,n/a,,,included in CCFv3
+157,Isocortex,456,"Posterior auditory area, layer 6b",AUDpo6b,n/a,n/a,,,included in CCFv3
+158,Isocortex,1018,Ventral auditory area,AUDv,"Secondary auditory cortex, ventral area",AuV,,,included in CCFv3
+159,Isocortex,959,"Ventral auditory area, layer 1",AUDv1,layer 1,1,,,included in CCFv3
+160,Isocortex,755,"Ventral auditory area, layer 2_3",AUDv2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+161,Isocortex,990,"Ventral auditory area, layer 4",AUDv4,layer 4,4,,,included in CCFv3
+162,Isocortex,1023,"Ventral auditory area, layer 5",AUDv5,layer 5,5,,,included in CCFv3
+163,Isocortex,520,"Ventral auditory area, layer 6a",AUDv6a,layer 6a,6a,,,included in CCFv3
+164,Isocortex,598,"Ventral auditory area, layer 6b",AUDv6b,layer 6b,6b,,,included in CCFv3
+165,Isocortex,669,Visual areas,VIS,n/a,n/a,,,included in CCFv3
+166,Isocortex,801,"Visual areas, layer 1",VIS1,n/a,n/a,,,not annotated in CCFv3
+167,Isocortex,561,"Visual areas, layer 2_3",VIS2_3,n/a,n/a,,,not annotated in CCFv3
+168,Isocortex,913,"Visual areas, layer 4",VIS4,n/a,n/a,,,not annotated in CCFv3
+169,Isocortex,937,"Visual areas, layer 5",VIS5,n/a,n/a,,,not annotated in CCFv3
+170,Isocortex,457,"Visual areas, layer 6a",VIS6a,n/a,n/a,,,not annotated in CCFv3
+171,Isocortex,497,"Visual areas, layer 6b",VIS6b,n/a,n/a,,,not annotated in CCFv3
+172,Isocortex,402,Anterolateral visual area,VISal,"Secondary visual cortex, lateral area ",V2L ,,,included in CCFv3
+173,Isocortex,1074,"Anterolateral visual area, layer 1",VISal1,layer 1,1,,,included in CCFv3
+174,Isocortex,905,"Anterolateral visual area, layer 2_3",VISal2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+175,Isocortex,1114,"Anterolateral visual area, layer 4",VISal4,layer 4,4,,,included in CCFv3
+176,Isocortex,233,"Anterolateral visual area, layer 5",VISal5,layer 5,5,,,included in CCFv3
+177,Isocortex,601,"Anterolateral visual area, layer 6a",VISal6a,layer 6a,6a,,,included in CCFv3
+178,Isocortex,649,"Anterolateral visual area, layer 6b",VISal6b,layer 6b,6b,,,included in CCFv3
+179,Isocortex,394,Anteromedial visual area,VISam,"Secondary visual cortex, mediolateral area",V2ML,,,included in CCFv3
+180,Isocortex,281,"Anteromedial visual area, layer 1",VISam1,layer 1,1,,,included in CCFv3
+181,Isocortex,1066,"Anteromedial visual area, layer 2_3",VISam2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+182,Isocortex,401,"Anteromedial visual area, layer 4",VISam4,layer 4,4,,,included in CCFv3
+183,Isocortex,433,"Anteromedial visual area, layer 5",VISam5,layer 5,5,,,included in CCFv3
+184,Isocortex,1046,"Anteromedial visual area, layer 6a",VISam6a,layer 6a,6a,,,included in CCFv3
+185,Isocortex,441,"Anteromedial visual area, layer 6b",VISam6b,layer 6b,6b,,,included in CCFv3
+186,Isocortex,409,Lateral visual area,VISl,"Secondary visual cortex, lateral area ",V2L ,,,included in CCFv3
+187,Isocortex,421,"Lateral visual area, layer 1",VISl1,layer 1,1,,,included in CCFv3
+188,Isocortex,973,"Lateral visual area, layer 2_3",VISl2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+189,Isocortex,573,"Lateral visual area, layer 4",VISl4,layer 4,4,,,included in CCFv3
+190,Isocortex,613,"Lateral visual area, layer 5",VISl5,layer 5,5,,,included in CCFv3
+191,Isocortex,74,"Lateral visual area, layer 6a",VISl6a,layer 6a,6a,,,included in CCFv3
+192,Isocortex,121,"Lateral visual area, layer 6b",VISl6b,layer 6b,6b,,,included in CCFv3
+193,Isocortex,385,Primary visual area,VISp,Primary visual cortex,V1,,,included in CCFv3
+194,Isocortex,593,"Primary visual area, layer 1",VISp1,layer 1,1,,,included in CCFv3
+195,Isocortex,821,"Primary visual area, layer 2_3",VISp2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+196,Isocortex,721,"Primary visual area, layer 4",VISp4,layer 4,4,,,included in CCFv3
+197,Isocortex,778,"Primary visual area, layer 5",VISp5,layer 5,5,,,included in CCFv3
+198,Isocortex,33,"Primary visual area, layer 6a",VISp6a,layer 6a,6a,,,included in CCFv3
+199,Isocortex,305,"Primary visual area, layer 6b",VISp6b,layer 6b,6b,,,included in CCFv3
+200,Isocortex,425,Posterolateral visual area,VISpl,"Secondary visual cortex, lateral area ",V2L ,VISpl+VISli in CCFv3,,included in CCFv3
+201,Isocortex,750,"Posterolateral visual area, layer 1",VISpl1,layer 1,1,,,included in CCFv3
+202,Isocortex,269,"Posterolateral visual area, layer 2_3",VISpl2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+203,Isocortex,869,"Posterolateral visual area, layer 4",VISpl4,layer 4,4,,,included in CCFv3
+204,Isocortex,902,"Posterolateral visual area, layer 5",VISpl5,layer 5,5,,,included in CCFv3
+205,Isocortex,377,"Posterolateral visual area, layer 6a",VISpl6a,layer 6a,6a,,,included in CCFv3
+206,Isocortex,393,"Posterolateral visual area, layer 6b",VISpl6b,layer 6b,6b,,,included in CCFv3
+207,Isocortex,533,posteromedial visual area,VISpm,"Secondary visual cortex, mediolateral area",V2ML,,,included in CCFv3
+208,Isocortex,805,"posteromedial visual area, layer 1",VISpm1,layer 1,1,,,included in CCFv3
+209,Isocortex,41,"posteromedial visual area, layer 2_3",VISpm2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+210,Isocortex,501,"posteromedial visual area, layer 4",VISpm4,layer 4,4,,,included in CCFv3
+211,Isocortex,565,"posteromedial visual area, layer 5",VISpm5,layer 5,5,,,included in CCFv3
+212,Isocortex,257,"posteromedial visual area, layer 6a",VISpm6a,layer 6a,6a,,,included in CCFv3
+213,Isocortex,469,"posteromedial visual area, layer 6b",VISpm6b,layer 6b,6b,,,included in CCFv3
+214,Isocortex,312782574,Laterointermediate area,VISli,"Secondary visual cortex, lateral area ",V2L ,,new in CCFv3,included in CCFv3
+215,Isocortex,312782578,"Laterointermediate area, layer 1",VISli1,layer 1,1,,new in CCFv3,included in CCFv3
+216,Isocortex,312782582,"Laterointermediate area, layer 2_3",VISli2_3,"layer 2, layer 3","2, 3",,new in CCFv3,included in CCFv3
+217,Isocortex,312782586,"Laterointermediate area, layer 4",VISli4,layer 4,4,,new in CCFv3,included in CCFv3
+218,Isocortex,312782590,"Laterointermediate area, layer 5",VISli5,layer 5,5,,new in CCFv3,included in CCFv3
+219,Isocortex,312782594,"Laterointermediate area, layer 6a",VISli6a,layer 6a,6a,,new in CCFv3,included in CCFv3
+220,Isocortex,312782598,"Laterointermediate area, layer 6b",VISli6b,layer 6b,6b,,new in CCFv3,included in CCFv3
+221,Isocortex,312782628,Postrhinal area,VISpor,postrhinal cortex,PoRh,"Not annotated in MBSC yet, but name exists in ontology",new in CCFv3,included in CCFv3
+222,Isocortex,312782632,"Postrhinal area, layer 1",VISpor1,n/a,n/a,,new in CCFv3,included in CCFv3
+223,Isocortex,312782636,"Postrhinal area, layer 2_3",VISpor2_3,n/a,n/a,,new in CCFv3,included in CCFv3
+224,Isocortex,312782640,"Postrhinal area, layer 4",VISpor4,n/a,n/a,,new in CCFv3,included in CCFv3
+225,Isocortex,312782644,"Postrhinal area, layer 5",VISpor5,n/a,n/a,,new in CCFv3,included in CCFv3
+226,Isocortex,312782648,"Postrhinal area, layer 6a",VISpor6a,n/a,n/a,,new in CCFv3,included in CCFv3
+227,Isocortex,312782652,"Postrhinal area, layer 6b",VISpor6b,n/a,n/a,,new in CCFv3,included in CCFv3
+228,Isocortex,31,Anterior cingulate area,ACA,n/a,n/a,,,included in CCFv3
+229,Isocortex,572,"Anterior cingulate area, layer 1",ACA1,n/a,n/a,,,not annotated in CCFv3
+230,Isocortex,1053,"Anterior cingulate area, layer 2_3",ACA2_3,n/a,n/a,,,not annotated in CCFv3
+231,Isocortex,739,"Anterior cingulate area, layer 5",ACA5,n/a,n/a,,,not annotated in CCFv3
+232,Isocortex,179,"Anterior cingulate area, layer 6a",ACA6a,n/a,n/a,,,not annotated in CCFv3
+233,Isocortex,227,"Anterior cingulate area, layer 6b",ACA6b,n/a,n/a,,,not annotated in CCFv3
+234,Isocortex,39,"Anterior cingulate area, dorsal part",ACAd,"Cingulate cortex, area 24",A24b(Cg1),,,included in CCFv3
+235,Isocortex,935,"Anterior cingulate area, dorsal part, layer 1",ACAd1,layer 1,1,,,included in CCFv3
+236,Isocortex,211,"Anterior cingulate area, dorsal part, layer 2_3",ACAd2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+237,Isocortex,1015,"Anterior cingulate area, dorsal part, layer 5",ACAd5,layer 5,5,,,included in CCFv3
+238,Isocortex,919,"Anterior cingulate area, dorsal part, layer 6a",ACAd6a,layer 6a,6a,,,included in CCFv3
+239,Isocortex,927,"Anterior cingulate area, dorsal part, layer 6b",ACAd6b,layer 6b,6b,,,included in CCFv3
+240,Isocortex,n/a,n/a,n/a,"Cingulate cortex, area 24b'",A24b',,,
+241,Isocortex,n/a,n/a,n/a,layer 1,1,,,
+242,Isocortex,n/a,n/a,n/a,"layer 2, layer 3","2, 3",,,
+243,Isocortex,n/a,n/a,n/a,layer 5,5,,,
+244,Isocortex,n/a,n/a,n/a,layer 6a,6a,,,
+245,Isocortex,n/a,n/a,n/a,layer 6b,6b,,,
+246,Isocortex,48,"Anterior cingulate area, ventral part",ACAv,"Cingulate cortex, area 24a",A24a(Cg2),,,included in CCFv3
+247,Isocortex,588,"Anterior cingulate area, ventral part, layer 1",ACAv1,layer 1,1,,,included in CCFv3
+248,Isocortex,296,"Anterior cingulate area, ventral part, layer 2_3",ACAv2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+249,Isocortex,772,"Anterior cingulate area, ventral part, layer 5",ACAv5,layer 5,5,,,included in CCFv3
+250,Isocortex,810,"Anterior cingulate area, ventral part, 6a",ACAv6a,layer 6a,6a,,,included in CCFv3
+251,Isocortex,819,"Anterior cingulate area, ventral part, 6b",ACAv6b,layer 6b,6b,,,included in CCFv3
+252,Isocortex,n/a,n/a,n/a,"Cingulate cortex, area 24a'",A24a'(Cg2),,,
+253,Isocortex,n/a,n/a,n/a,layer 1,1,,,
+254,Isocortex,n/a,n/a,n/a,"layer 2, layer 3","2, 3",,,
+255,Isocortex,n/a,n/a,n/a,layer 5,5,,,
+256,Isocortex,n/a,n/a,n/a,layer 6a,6a,,,
+257,Isocortex,n/a,n/a,n/a,layer 6b,6b,,,
+258,Isocortex,972,Prelimbic area,PL,Cingulate cortex area 32 ,A32 ,,,included in CCFv3
+259,Isocortex,171,"Prelimbic area, layer 1",PL1,layer 1,1,,,included in CCFv3
+260,Isocortex,195,"Prelimbic area, layer 2",PL2,layer 2,2,,,not annotated in CCFv3
+261,Isocortex,304,"Prelimbic area, layer 2_3",PL2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+262,Isocortex,363,"Prelimbic area, layer 5",PL5,layer 5,5,,,included in CCFv3
+263,Isocortex,84,"Prelimbic area, layer 6a",PL6a,layer 6a,6a,,,included in CCFv3
+264,Isocortex,132,"Prelimbic area, layer 6b",PL6b,layer 6b,6b,,,included in CCFv3
+265,Isocortex,44,Infralimbic area,ILA,"Cingulate cortex, area 25 ",A25 ,,,included in CCFv3
+266,Isocortex,707,"Infralimbic area, layer 1",ILA1,layer 1,1,,,included in CCFv3
+267,Isocortex,747,"Infralimbic area, layer 2",ILA2,layer 2,2,,,not annotated in CCFv3
+268,Isocortex,556,"Infralimbic area, layer 2_3",ILA2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+269,Isocortex,827,"Infralimbic area, layer 5",ILA5,layer 5,5,,,included in CCFv3
+270,Isocortex,1054,"Infralimbic area, layer 6a",ILA6a,layer 6a,6a,,,included in CCFv3
+271,Isocortex,1081,"Infralimbic area, layer 6b",ILA6b,layer 6b,6b,,,included in CCFv3
+272,Isocortex,714,Orbital area,ORB,n/a,n/a,,,included in CCFv3
+273,Isocortex,264,"Orbital area, layer 1",ORB1,n/a,n/a,,,not annotated in CCFv3
+274,Isocortex,492,"Orbital area, layer 2_3",ORB2_3,n/a,n/a,,,not annotated in CCFv3
+275,Isocortex,352,"Orbital area, layer 5",ORB5,n/a,n/a,,,not annotated in CCFv3
+276,Isocortex,476,"Orbital area, layer 6a",ORB6a,n/a,n/a,,,not annotated in CCFv3
+277,Isocortex,516,"Orbital area, layer 6b",ORB6b,n/a,n/a,,,not annotated in CCFv3
+278,Isocortex,723,"Orbital area, lateral part",ORBl,Lateral orbital cortex,LO,,,included in CCFv3
+279,Isocortex,448,"Orbital area, lateral part, layer 1",ORBl1,n/a,n/a,,,included in CCFv3
+280,Isocortex,412,"Orbital area, lateral part, layer 2_3",ORBl2_3,n/a,n/a,,,included in CCFv3
+281,Isocortex,630,"Orbital area, lateral part, layer 5",ORBl5,n/a,n/a,,,included in CCFv3
+282,Isocortex,440,"Orbital area, lateral part, layer 6a",ORBl6a,n/a,n/a,,,included in CCFv3
+283,Isocortex,488,"Orbital area, lateral part, layer 6b",ORBl6b,n/a,n/a,,,included in CCFv3
+284,Isocortex,731,"Orbital area, medial part",ORBm,Medial orbital cortex ,MO,,,included in CCFv3
+285,Isocortex,484,"Orbital area, medial part, layer 1",ORBm1,n/a,n/a,,,included in CCFv3
+286,Isocortex,524,"Orbital area, medial part, layer 2",ORBm2,n/a,n/a,,,not annotated in CCFv3
+287,Isocortex,582,"Orbital area, medial part, layer 2_3",ORBm2_3,n/a,n/a,,,included in CCFv3
+288,Isocortex,620,"Orbital area, medial part, layer 5",ORBm5,n/a,n/a,,,included in CCFv3
+289,Isocortex,910,"Orbital area, medial part, layer 6a",ORBm6a,n/a,n/a,,,included in CCFv3
+290,Isocortex,527696977,"Orbital area, medial part, layer 6b",ORBm6b,n/a,n/a,,,included in CCFv3
+291,Isocortex,738,"Orbital area, ventral part",ORBv,n/a,n/a,,,not annotated in CCFv3
+292,Isocortex,746,"Orbital area, ventrolateral part",ORBvl,Ventral orbital cortex,VO ,,,included in CCFv3
+293,Isocortex,969,"Orbital area, ventrolateral part, layer 1",ORBvl1,n/a,n/a,,,included in CCFv3
+294,Isocortex,288,"Orbital area, ventrolateral part, layer 2_3",ORBvl2_3,n/a,n/a,,,included in CCFv3
+295,Isocortex,1125,"Orbital area, ventrolateral part, layer 5",ORBvl5,n/a,n/a,,,included in CCFv3
+296,Isocortex,608,"Orbital area, ventrolateral part, layer 6a",ORBvl6a,n/a,n/a,,,included in CCFv3
+297,Isocortex,680,"Orbital area, ventrolateral part, layer 6b",ORBvl6b,n/a,n/a,,,included in CCFv3
+298,Isocortex,n/a,n/a,n/a,Dorsolateral orbital cortex,DLO,,,
+299,Isocortex,n/a,n/a,n/a,Dorsal transition zone,DTr,,,
+300,Isocortex,95,Agranular insular area,AI,Agranular insular cortex,AI ,,,included in CCFv3
+301,Isocortex,104,"Agranular insular area, dorsal part",AId,"Agranular insular cortex, dorsal part",AID,,,included in CCFv3
+302,Isocortex,996,"Agranular insular area, dorsal part, layer 1",AId1,n/a,n/a,,,included in CCFv3
+303,Isocortex,328,"Agranular insular area, dorsal part, layer 2_3",AId2_3,n/a,n/a,,,included in CCFv3
+304,Isocortex,1101,"Agranular insular area, dorsal part, layer 5",AId5,n/a,n/a,,,included in CCFv3
+305,Isocortex,783,"Agranular insular area, dorsal part, layer 6a",AId6a,n/a,n/a,,,included in CCFv3
+306,Isocortex,831,"Agranular insular area, dorsal part, layer 6b",AId6b,n/a,n/a,,,included in CCFv3
+307,Isocortex,111,"Agranular insular area, posterior part",AIp,"Agranular insular cortex, posterior part",AIP ,,,included in CCFv3
+308,Isocortex,120,"Agranular insular area, posterior part, layer 1",AIp1,n/a,n/a,,,included in CCFv3
+309,Isocortex,163,"Agranular insular area, posterior part, layer 2_3",AIp2_3,n/a,n/a,,,included in CCFv3
+310,Isocortex,344,"Agranular insular area, posterior part, layer 5",AIp5,n/a,n/a,,,included in CCFv3
+311,Isocortex,314,"Agranular insular area, posterior part, layer 6a",AIp6a,n/a,n/a,,,included in CCFv3
+312,Isocortex,355,"Agranular insular area, posterior part, layer 6b",AIp6b,n/a,n/a,,,included in CCFv3
+313,Isocortex,119,"Agranular insular area, ventral part",AIv,"Agranular insular cortex, ventral part",AIV ,,,included in CCFv3
+314,Isocortex,704,"Agranular insular area, ventral part, layer 1",AIv1,n/a,n/a,,,included in CCFv3
+315,Isocortex,694,"Agranular insular area, ventral part, layer 2_3",AIv2_3,n/a,n/a,,,included in CCFv3
+316,Isocortex,800,"Agranular insular area, ventral part, layer 5",AIv5,n/a,n/a,,,included in CCFv3
+317,Isocortex,675,"Agranular insular area, ventral part, layer 6a",AIv6a,n/a,n/a,,,included in CCFv3
+318,Isocortex,699,"Agranular insular area, ventral part, layer 6b",AIv6b,n/a,n/a,,,included in CCFv3
+319,Isocortex,254,Retrosplenial area,RSP,n/a,n/a,,,included in CCFv3
+320,Isocortex,894,"Retrosplenial area, lateral agranular part",RSPagl,"Secondary visual cortex, mediomedial area",V2MM ,,,included in CCFv3
+321,Isocortex,671,"Retrosplenial area, lateral agranular part, layer 1",RSPagl1,layer 1,1,,,included in CCFv3
+322,Isocortex,965,"Retrosplenial area, lateral agranular part, layer 2_3",RSPagl2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+323,Isocortex,774,"Retrosplenial area, lateral agranular part, layer 5",RSPagl5,layer 5,5,,,included in CCFv3
+324,Isocortex,906,"Retrosplenial area, lateral agranular part, layer 6a",RSPagl6a,layer 6a,6a,,,included in CCFv3
+325,Isocortex,279,"Retrosplenial area, lateral agranular part, layer 6b",RSPagl6b,layer 6b,6b,,,included in CCFv3
+326,Isocortex,480149258,Mediomedial anterior visual area,VISmma,n/a,n/a,,,not annotated in CCFv3
+327,Isocortex,480149262,"Mediomedial anterior visual area, layer 1",VISmma1,n/a,n/a,,,not annotated in CCFv3
+328,Isocortex,480149266,"Mediomedial anterior visual area, layer 2_3",VISmma2_3,n/a,n/a,,,not annotated in CCFv3
+329,Isocortex,480149270,"Mediomedial anterior visual area, layer 4",VISmma4,n/a,n/a,,,not annotated in CCFv3
+330,Isocortex,480149274,"Mediomedial anterior visual area,layer 5",VISmma5,n/a,n/a,,,not annotated in CCFv3
+331,Isocortex,480149278,"Mediomedial anterior visual area, layer 6a",VISmma6a,n/a,n/a,,,not annotated in CCFv3
+332,Isocortex,480149282,"Mediomedial anterior visual area, layer 6b",VISmma6b,n/a,n/a,,,not annotated in CCFv3
+333,Isocortex,480149286,Mediomedial posterior visual area,VISmmp,n/a,n/a,,,not annotated in CCFv3
+334,Isocortex,480149290,"Mediomedial posterior visual area, layer 1",VISmmp1,n/a,n/a,,,not annotated in CCFv3
+335,Isocortex,480149294,"Mediomedial posterior visual area, layer 2_3",VISmmp2_3,n/a,n/a,,,not annotated in CCFv3
+336,Isocortex,480149298,"Mediomedial posterior visual area, layer 4",VISmmp4,n/a,n/a,,,not annotated in CCFv3
+337,Isocortex,480149302,"Mediomedial posterior visual area,layer 5",VISmmp5,n/a,n/a,,,not annotated in CCFv3
+338,Isocortex,480149306,"Mediomedial posterior visual area, layer 6a",VISmmp6a,n/a,n/a,,,not annotated in CCFv3
+339,Isocortex,480149310,"Mediomedial posterior visual area, layer 6b",VISmmp6b,n/a,n/a,,,not annotated in CCFv3
+340,Isocortex,480149314,Medial visual area,VISm,n/a,n/a,,,not annotated in CCFv3
+341,Isocortex,480149318,"Medial visual area, layer 1",VISm1,n/a,n/a,,,not annotated in CCFv3
+342,Isocortex,480149322,"Medial visual area, layer 2_3",VISm2_3,n/a,n/a,,,not annotated in CCFv3
+343,Isocortex,480149326,"Medial visual area, layer 4",VISm4,n/a,n/a,,,not annotated in CCFv3
+344,Isocortex,480149330,"Medial visual area,layer 5",VISm5,n/a,n/a,,,not annotated in CCFv3
+345,Isocortex,480149334,"Medial visual area, layer 6a",VISm6a,n/a,n/a,,,not annotated in CCFv3
+346,Isocortex,480149338,"Medial visual area, layer 6b",VISm6b,n/a,n/a,,,not annotated in CCFv3
+347,Isocortex,879,"Retrosplenial area, dorsal part",RSPd,Cingulate cortex area 30 (retrosplenial agranular cortex),A30 (RSA),,,included in CCFv3
+348,Isocortex,442,"Retrosplenial area, dorsal part, layer 1",RSPd1,layer 1,1,,,included in CCFv3
+349,Isocortex,434,"Retrosplenial area, dorsal part, layer 2_3",RSPd2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+350,Isocortex,545,"Retrosplenial area, dorsal part, layer 4",RSPd4,layer 4,4,,,not annotated in CCFv3
+351,Isocortex,610,"Retrosplenial area, dorsal part, layer 5",RSPd5,layer 5,5,,,included in CCFv3
+352,Isocortex,274,"Retrosplenial area, dorsal part, layer 6a",RSPd6a,layer 6a,6a,,,included in CCFv3
+353,Isocortex,330,"Retrosplenial area, dorsal part, layer 6b",RSPd6b,layer 6b,6b,,,included in CCFv3
+354,Isocortex,886,"Retrosplenial area, ventral part",RSPv,"Cingulate cortex, area 29c ",A29c ,,,included in CCFv3
+355,Isocortex,542,"Retrosplenial area, ventral part, layer 1",RSPv1,layer 1,1,,,included in CCFv3
+356,Isocortex,606,"Retrosplenial area, ventral part, layer 2",RSPv2,layer 2,2,,,not annotated in CCFv3
+357,Isocortex,430,"Retrosplenial area, ventral part, layer 2_3",RSPv2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+358,Isocortex,687,"Retrosplenial area, ventral part, layer 5",RSPv5,layer 5,5,,,included in CCFv3
+359,Isocortex,590,"Retrosplenial area, ventral part, layer 6a",RSPv6a,layer 6a,6a,,,included in CCFv3
+360,Isocortex,622,"Retrosplenial area, ventral part, layer 6b",RSPv6b,layer 6b,6b,,,included in CCFv3
+361,Isocortex,n/a,n/a,n/a,"Cingulate cortex, area 29b",A29b ,,,
+362,Isocortex,n/a,n/a,n/a,layer 1,1,,,
+363,Isocortex,n/a,n/a,n/a,"layer 2, layer 3","2, 3",,,
+365,Isocortex,n/a,n/a,n/a,layer 5,5,,,
+366,Isocortex,n/a,n/a,n/a,layer 6a,6a,,,
+367,Isocortex,n/a,n/a,n/a,layer 6b,6b,,,
+368,Isocortex,n/a,n/a,n/a,"Cingulate cortex, area 29a",A29a ,,,
+369,Isocortex,n/a,n/a,n/a,layer 1,1,,,
+370,Isocortex,n/a,n/a,n/a,"layer 2, layer 3","2, 3",,,
+371,Isocortex,n/a,n/a,n/a,layer 5,5,,,
+372,Isocortex,n/a,n/a,n/a,layer 6a,6a,,,
+373,Isocortex,n/a,n/a,n/a,layer 6b,6b,,,
+375,Isocortex,22,Posterior parietal association areas,PTLp,n/a,n/a,,,included in CCFv3
+376,Isocortex,532,"Posterior parietal association areas, layer 1",PTLp1,n/a,n/a,,,not annotated in CCFv3
+377,Isocortex,241,"Posterior parietal association areas, layer 2_3",PTLp2_3,n/a,n/a,,,not annotated in CCFv3
+378,Isocortex,635,"Posterior parietal association areas, layer 4",PTLp4,n/a,n/a,,,not annotated in CCFv3
+379,Isocortex,683,"Posterior parietal association areas, layer 5",PTLp5,n/a,n/a,,,not annotated in CCFv3
+380,Isocortex,308,"Posterior parietal association areas, layer 6a",PTLp6a,n/a,n/a,,,not annotated in CCFv3
+381,Isocortex,340,"Posterior parietal association areas, layer 6b",PTLp6b,n/a,n/a,,,not annotated in CCFv3
+382,Isocortex,312782546,Anterior area,VISa,Medial parietal association cortex ,MPtA,,new in CCFv3,included in CCFv3
+383,Isocortex,312782550,"Anterior area, layer 1",VISa1,layer 1,1,,new in CCFv3,included in CCFv3
+384,Isocortex,312782554,"Anterior area, layer 2_3",VISa2_3,"layer 2, layer 3","2, 3",,new in CCFv3,included in CCFv3
+385,Isocortex,312782558,"Anterior area, layer 4",VISa4,layer 4,4,,new in CCFv3,included in CCFv3
+386,Isocortex,312782562,"Anterior area, layer 5",VISa5,layer 5,5,,new in CCFv3,included in CCFv3
+387,Isocortex,312782566,"Anterior area, layer 6a",VISa6a,layer 6a,6a,,new in CCFv3,included in CCFv3
+388,Isocortex,312782570,"Anterior area, layer 6b",VISa6b,layer 6b,6b,,new in CCFv3,included in CCFv3
+389,Isocortex,n/a,n/a,n/a,Lateral parietal association cortex ,LPtA,,,
+390,Isocortex,n/a,n/a,n/a,layer 1,1,,,
+391,Isocortex,n/a,n/a,n/a,"layer 2, layer 3","2, 3",,,
+392,Isocortex,n/a,n/a,n/a,layer 4,4,,,
+393,Isocortex,n/a,n/a,n/a,layer 5,5,,,
+394,Isocortex,n/a,n/a,n/a,layer 6a,6a,,,
+395,Isocortex,n/a,n/a,n/a,layer 6b,6b,,,
+396,Isocortex,417,Rostrolateral visual area,VISrl,"Posterior parietal cortex, rostral part",PtPR,,new in CCFv3,included in CCFv3
+397,Isocortex,312782604,"Rostrolateral area, layer 1",VISrl1,layer 1,1,,new in CCFv3,included in CCFv3
+398,Isocortex,312782608,"Rostrolateral area, layer 2_3",VISrl2_3,"layer 2, layer 3","2, 3",,new in CCFv3,included in CCFv3
+399,Isocortex,312782612,"Rostrolateral area, layer 4",VISrl4,layer 4,4,,new in CCFv3,included in CCFv3
+400,Isocortex,312782616,"Rostrolateral area, layer 5",VISrl5,layer 5,5,,new in CCFv3,included in CCFv3
+401,Isocortex,312782620,"Rostrolateral area, layer 6a",VISrl6a,layer 6a,6a,,new in CCFv3,included in CCFv3
+402,Isocortex,312782624,"Rostrolateral area, layer 6b",VISrl6b,layer 6b,6b,,new in CCFv3,included in CCFv3
+403,Isocortex,n/a,n/a,n/a,"Posterior parietal cortex, dorsal part",PtPD,,,
+404,Isocortex,n/a,n/a,n/a,layer 1,1,,,
+405,Isocortex,n/a,n/a,n/a,"layer 2, layer 3","2, 3",,,
+406,Isocortex,n/a,n/a,n/a,layer 4,4,,,
+407,Isocortex,n/a,n/a,n/a,layer 5,5,,,
+408,Isocortex,n/a,n/a,n/a,layer 6a,6a,,,
+409,Isocortex,n/a,n/a,n/a,layer 6b,6b,,,
+410,Isocortex,n/a,n/a,n/a,Parietal area PG,PG,,,
+411,Isocortex,541,Temporal association areas,TEa,Temporal association cortex ,TeA,,,included in CCFv3
+412,Isocortex,97,"Temporal association areas, layer 1",TEa1,layer 1,1,,,included in CCFv3
+413,Isocortex,1127,"Temporal association areas, layer 2_3",TEa2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+414,Isocortex,234,"Temporal association areas, layer 4",TEa4,layer 4,4,,,included in CCFv3
+415,Isocortex,289,"Temporal association areas, layer 5",TEa5,layer 5,5,,,included in CCFv3
+416,Isocortex,729,"Temporal association areas, layer 6a",TEa6a,layer 6a,6a,,,included in CCFv3
+417,Isocortex,786,"Temporal association areas, layer 6b",TEa6b,layer 6b,6b,,,included in CCFv3
+418,Isocortex,922,Perirhinal area,PERI,Perirhinal cortex,PRh,,,included in CCFv3
+419,Isocortex,540,"Perirhinal area, layer 1",PERI1,layer 1,1,,,included in CCFv3
+420,Isocortex,888,"Perirhinal area, layer 2_3",PERI2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+421,Isocortex,692,"Perirhinal area, layer 5",PERI5,layer 5,5,,,included in CCFv3
+422,Isocortex,335,"Perirhinal area, layer 6a",PERI6a,layer 6a,6a,,,included in CCFv3
+423,Isocortex,368,"Perirhinal area, layer 6b",PERI6b,layer 6b,6b,,,included in CCFv3
+424,Isocortex,895,Ectorhinal area,ECT,Ectorhinal cortex,Ect,,,included in CCFv3
+425,Isocortex,836,Ectorhinal area/Layer 1,ECT1,layer 1,1,,,included in CCFv3
+426,Isocortex,427,Ectorhinal area/Layer 2_3,ECT2_3,"layer 2, layer 3","2, 3",,,included in CCFv3
+427,Isocortex,988,Ectorhinal area/Layer 5,ECT5,layer 5,5,,,included in CCFv3
+428,Isocortex,977,Ectorhinal area/Layer 6a,ECT6a,layer 6a,6a,,,included in CCFv3
+429,Isocortex,1045,Ectorhinal area/Layer 6b,ECT6b,layer 6b,6b,,,included in CCFv3
+430,Olfactory areas,698,Olfactory areas,OLF,n/a,n/a,,,included in CCFv3
+431,Olfactory areas,507,Main olfactory bulb,MOB,Olfactory bulb,OB,,,included in CCFv3
+432,Olfactory areas,212,"Main olfactory bulb, glomerular layer",MOBgl,Glomerular layer of the olfactory bulb,Gl,,,not annotated in CCFv3
+433,Olfactory areas,220,"Main olfactory bulb, granule layer",MOBgr,Granular cell layer of the olfactory bulb,GrO,,,not annotated in CCFv3
+434,Olfactory areas,228,"Main olfactory bulb, inner plexiform layer",MOBipl,Internal plexiform layer of the olfactory bulb,IPl,,,not annotated in CCFv3
+435,Olfactory areas,236,"Main olfactory bulb, mitral layer",MOBmi,Mitral cell layer of the olfactory bulb ,Mi,,,not annotated in CCFv3
+436,Olfactory areas,244,"Main olfactory bulb, outer plexiform layer",MOBopl,External plexiform layer of the olfactory bulb,EPl,,,not annotated in CCFv3
+437,Olfactory areas,151,Accessory olfactory bulb,AOB,Accessory olfactory bulb,AOB ,,,included in CCFv3
+438,Olfactory areas,188,"Accessory olfactory bulb, glomerular layer",AOBgl,Glomerular layer of the accessory olfactory bulb,GlA,,,included in CCFv3
+439,Olfactory areas,196,"Accessory olfactory bulb, granular layer",AOBgr,Granule cell layer of the accessory olfactory bulb,GrA,,,included in CCFv3
+440,Olfactory areas,204,"Accessory olfactory bulb, mitral layer",AOBmi,Mitral cell layer of the accessory olfactory bulb,MiA,,,included in CCFv3
+441,Olfactory areas,n/a,n/a,n/a,External plexiform layer of the accessory olfactory bulb,EPlA,,,
+442,Olfactory areas,159,Anterior olfactory nucleus,AON,Anterior olfactory nucleus,AO,,,included in CCFv3
+443,Olfactory areas,167,"Anterior olfactory nucleus, dorsal part",AONd,"Anterior olfactory nucleus, dorsal part",AOD ,,,not annotated in CCFv3
+444,Olfactory areas,175,"Anterior olfactory nucleus, external part",AONe,"Anterior olfactory nucleus, external part",AOE ,,,not annotated in CCFv3
+445,Olfactory areas,183,"Anterior olfactory nucleus, lateral part",AONl,"Anterior olfactory nucleus, lateral part",AOL,,,not annotated in CCFv3
+446,Olfactory areas,191,"Anterior olfactory nucleus, medial part",AONm,"Anterior olfactory nucleus, medial part",AOM ,,,not annotated in CCFv3
+447,Olfactory areas,199,"Anterior olfactory nucleus, posteroventral part",AONpv,"Anterior olfactory nucleus, posterior part",AOP ,,,not annotated in CCFv3
+448,Olfactory areas,n/a,n/a,n/a,"Anterior olfactory nucleus, ventral part",AOV ,,,
+449,Olfactory areas,160,"Anterior olfactory nucleus, layer 1",AON1,n/a,n/a,,,not annotated in CCFv3
+450,Olfactory areas,168,"Anterior olfactory nucleus, layer 2",AON2,n/a,n/a,,,not annotated in CCFv3
+451,Olfactory areas,589,Taenia tecta,TT,Tenia tecta,TT,,,included in CCFv3
+452,Olfactory areas,597,"Taenia tecta, dorsal part",TTd,Dorsal tenia tecta,DTT,,,included in CCFv3
+453,Olfactory areas,297,"Taenia tecta, dorsal part, layers 1-4",TTd1-4,n/a,n/a,,,not annotated in CCFv3
+454,Olfactory areas,1034,"Taenia tecta, dorsal part, layer 1",TTd1,"Taenia tecta, dorsal part, layer 1",,,,not annotated in CCFv3
+455,Olfactory areas,1042,"Taenia tecta, dorsal part, layer 2",TTd2,"Taenia tecta, dorsal part, layer 2",,,,not annotated in CCFv3
+456,Olfactory areas,1050,"Taenia tecta, dorsal part, layer 3",TTd3,"Taenia tecta, dorsal part, layer 3",,,,not annotated in CCFv3
+457,Olfactory areas,1059,"Taenia tecta, dorsal part, layer 4",TTd4,n/a,n/a,,,not annotated in CCFv3
+458,Olfactory areas,605,"Taenia tecta, ventral part",TTv,Ventral tenia tecta ,VTT ,,,included in CCFv3
+459,Olfactory areas,306,"Taenia tecta, ventral part, layers 1-3",TTv1-3,n/a,n/a,,,not annotated in CCFv3
+460,Olfactory areas,1067,"Taenia tecta, ventral part, layer 1",TTv1,"Taenia tecta, ventral part, layer 1",,,,not annotated in CCFv3
+461,Olfactory areas,1075,"Taenia tecta, ventral part, layer 2",TTv2,"Taenia tecta, ventral part, layer 2",,,,not annotated in CCFv3
+462,Olfactory areas,1082,"Taenia tecta, ventral part, layer 3",TTv3,"Taenia tecta, ventral part, layer 3",,,,not annotated in CCFv3
+463,Olfactory areas,814,Dorsal peduncular area,DP,dorsal peduncular cortex,DP,DP is 2nd edition MBSC. It is A25 (one subdivision of cingulate area) in 3rd edition MBSC.,,included in CCFv3
+464,Olfactory areas,496,"Dorsal peduncular area, layer 1",DP1,n/a,n/a,,,not annotated in CCFv3
+465,Olfactory areas,535,"Dorsal peduncular area, layer 2",DP2,n/a,n/a,,,not annotated in CCFv3
+466,Olfactory areas,360,"Dorsal peduncular area, layer 2_3",DP2_3,n/a,n/a,,,not annotated in CCFv3
+467,Olfactory areas,646,"Dorsal peduncular area, layer 5",DP5,n/a,n/a,,,not annotated in CCFv3
+468,Olfactory areas,267,"Dorsal peduncular area, layer 6a",DP6a,n/a,n/a,,,not annotated in CCFv3
+469,Olfactory areas,961,Piriform area,PIR,Piriform cortex,Pir,,,included in CCFv3
+470,Olfactory areas,152,"Piriform area, layers 1-3",PIR1-3,n/a,n/a,,,not annotated in CCFv3
+471,Olfactory areas,276,"Piriform area, molecular layer",PIR1,"Piriform cortex, layer 1",Pir1,,,not annotated in CCFv3
+472,Olfactory areas,284,"Piriform area, pyramidal layer",PIR2,"Piriform cortex, layer 2",Pir2,,,not annotated in CCFv3
+473,Olfactory areas,291,"Piriform area, polymorph layer",PIR3,"Piriform cortex, layer 3",Pir3,,,not annotated in CCFv3
+474,Olfactory areas,619,Nucleus of the lateral olfactory tract,NLOT,Nucleus of the lateral olfactory tract,LOT,,,included in CCFv3
+475,Olfactory areas,392,"Nucleus of the lateral olfactory tract, layers 1-3",NLOT1-3,n/a,n/a,,,not annotated in CCFv3
+476,Olfactory areas,260,"Nucleus of the lateral olfactory tract, molecular layer",NLOT1,layer 1,1,,,included in CCFv3
+477,Olfactory areas,268,"Nucleus of the lateral olfactory tract, pyramidal layer",NLOT2,layer 2,2,,,included in CCFv3
+478,Olfactory areas,1139,"Nucleus of the lateral olfactory tract, layer 3",NLOT3,layer 3,3,,,included in CCFv3
+479,Olfactory areas,631,Cortical amygdalar area,COA,n/a,n/a,,,included in CCFv3
+480,Olfactory areas,639,"Cortical amygdalar area, anterior part",COAa,Anterior cortical amygdaloid nucleus,ACo ,,,included in CCFv3
+481,Olfactory areas,192,"Cortical amygdalar area, anterior part, layer 1",COAa1,n/a,n/a,,,not annotated in CCFv3
+482,Olfactory areas,200,"Cortical amygdalar area, anterior part, layer 2",COAa2,n/a,n/a,,,not annotated in CCFv3
+483,Olfactory areas,208,"Cortical amygdalar area, anterior part, layer 3",COAa3,n/a,n/a,,,not annotated in CCFv3
+484,Olfactory areas,647,"Cortical amygdalar area, posterior part",COAp,Posterior cortical amygdaloid nucleus,PCo,,,included in CCFv3
+485,Olfactory areas,655,"Cortical amygdalar area, posterior part, lateral zone",COApl,Posterolateral cortical amygdaloid nucleus ,PLCo,,,included in CCFv3
+486,Olfactory areas,584,"Cortical amygdalar area, posterior part, lateral zone, layers 1-2",COApl1-2,n/a,n/a,,,not annotated in CCFv3
+487,Olfactory areas,376,"Cortical amygdalar area, posterior part, lateral zone, layers 1-3",COApl1-3,n/a,n/a,,,not annotated in CCFv3
+488,Olfactory areas,216,"Cortical amygdalar area, posterior part, lateral zone, layer 1",COApl1,layer 1,1,,,not annotated in CCFv3
+489,Olfactory areas,224,"Cortical amygdalar area, posterior part, lateral zone, layer 2",COApl2,layer 2,2,,,not annotated in CCFv3
+490,Olfactory areas,232,"Cortical amygdalar area, posterior part, lateral zone, layer 3",COApl3,layer 3,3,,,not annotated in CCFv3
+491,Olfactory areas,663,"Cortical amygdalar area, posterior part, medial zone",COApm,Posteromedial cortical amygdaloid nucleus ,PMCo,,,included in CCFv3
+492,Olfactory areas,592,"Cortical amygdalar area, posterior part, medial zone, layers 1-2",COApm1-2,n/a,n/a,,,not annotated in CCFv3
+493,Olfactory areas,383,"Cortical amygdalar area, posterior part, medial zone, layers 1-3",COApm1-3,n/a,n/a,,,not annotated in CCFv3
+494,Olfactory areas,240,"Cortical amygdalar area, posterior part, medial zone, layer 1",COApm1,n/a,n/a,,,not annotated in CCFv3
+495,Olfactory areas,248,"Cortical amygdalar area, posterior part, medial zone, layer 2",COApm2,n/a,n/a,,,not annotated in CCFv3
+496,Olfactory areas,256,"Cortical amygdalar area, posterior part, medial zone, layer 3",COApm3,n/a,n/a,,,not annotated in CCFv3
+497,Olfactory areas,788,Piriform-amygdalar area,PAA,Cortex-amygdala transition zone,CxA,The MBSC structure CxA appears to be contained in the PAA of CCFv3.,,included in CCFv3
+498,Olfactory areas,400,"Piriform-amygdalar area, layers 1-3",PAA1-3,n/a,n/a,,,not annotated in CCFv3
+499,Olfactory areas,408,"Piriform-amygdalar area, molecular layer",PAA1,n/a,n/a,,,not annotated in CCFv3
+500,Olfactory areas,416,"Piriform-amygdalar area, pyramidal layer",PAA2,n/a,n/a,,,not annotated in CCFv3
+501,Olfactory areas,424,"Piriform-amygdalar area, polymorph layer",PAA3,n/a,n/a,,,not annotated in CCFv3
+502,Olfactory areas,n/a,n/a,n/a,rostral amygdalopiriform area,RAPir,,,
+503,Olfactory areas,566,Postpiriform transition area,TR,Amygdalopiriform transition area,APir ,,,included in CCFv3
+504,Olfactory areas,517,"Postpiriform transition area, layers 1-3",TR1-3,n/a,n/a,,,not annotated in CCFv3
+505,Olfactory areas,1140,"Postpiriform transition area, layers 1",TR1,n/a,n/a,,,not annotated in CCFv3
+506,Olfactory areas,1141,"Postpiriform transition area, layers 2",TR2,n/a,n/a,,,not annotated in CCFv3
+507,Olfactory areas,1142,"Postpiriform transition area, layers 3",TR3,n/a,n/a,,,not annotated in CCFv3
+508,Hippocampal formation,1089,Hippocampal formation,HPF,n/a,n/a,,,included in CCFv3
+509,Hippocampal formation,1080,Hippocampal region,HIP,n/a,n/a,,,included in CCFv3
+510,Hippocampal formation,375,Ammon's horn,CA,n/a,n/a,,,included in CCFv3
+511,Hippocampal formation,382,Field CA1,CA1,Field CA1 of hippocampus,CA1,,,included in CCFv3
+512,Hippocampal formation,391,"Field CA1, stratum lacunosum-moleculare",CA1slm,Lacunosum moleculare layer of the hippocampus,LMol,,,not annotated in CCFv3
+513,Hippocampal formation,399,"Field CA1, stratum oriens",CA1so,Oriens layer of the hippocampus ,Or,,,not annotated in CCFv3
+514,Hippocampal formation,407,"Field CA1, pyramidal layer",CA1sp,Pyramidal cell layer of the hippocampus,Py,,,not annotated in CCFv3
+515,Hippocampal formation,415,"Field CA1, stratum radiatum",CA1sr,Stratum radiatum of the hippocampus,Rad,,,not annotated in CCFv3
+516,Hippocampal formation,423,Field CA2,CA2,Field CA2 of hippocampus,CA2,,,included in CCFv3
+517,Hippocampal formation,431,"Field CA2, stratum lacunosum-moleculare",CA2slm,Lacunosum moleculare layer of the hippocampus,LMol,,,not annotated in CCFv3
+518,Hippocampal formation,438,"Field CA2, stratum oriens",CA2so,Oriens layer of the hippocampus ,Or,,,not annotated in CCFv3
+519,Hippocampal formation,446,"Field CA2, pyramidal layer",CA2sp,Pyramidal cell layer of the hippocampus,Py,,,not annotated in CCFv3
+520,Hippocampal formation,454,"Field CA2, stratum radiatum",CA2sr,Stratum radiatum of the hippocampus,Rad,,,not annotated in CCFv3
+521,Hippocampal formation,463,Field CA3,CA3,Field CA3 of hippocampus,CA3,,,included in CCFv3
+522,Hippocampal formation,471,"Field CA3, stratum lacunosum-moleculare",CA3slm,Lacunosum moleculare layer of the hippocampus,LMol,,,not annotated in CCFv3
+523,Hippocampal formation,479,"Field CA3, stratum lucidum",CA3slu,Stratum lucidum of the hippocampus,SLu,,,not annotated in CCFv3
+524,Hippocampal formation,486,"Field CA3, stratum oriens",CA3so,Oriens layer of the hippocampus ,Or,,,not annotated in CCFv3
+525,Hippocampal formation,495,"Field CA3, pyramidal layer",CA3sp,Pyramidal cell layer of the hippocampus,Py,,,not annotated in CCFv3
+526,Hippocampal formation,504,"Field CA3, stratum radiatum",CA3sr,Stratum radiatum of the hippocampus,Rad,,,not annotated in CCFv3
+527,Hippocampal formation,726,Dentate gyrus,DG,Dentate gyrus,DG,,,included in CCFv3
+528,Hippocampal formation,10703,"Dentate gyrus, molecular layer",DG-mo,Molecular layer of the dentate gyrus ,MoDG,,,included in CCFv3
+529,Hippocampal formation,10704,"Dentate gyrus, polymorph layer",DG-po,Polymorph layer of the dentate gyrus,PoDG,,,included in CCFv3
+530,Hippocampal formation,632,"Dentate gyrus, granule cell layer",DG-sg,Granular layer of the dentate gyrus,GrDG,,,included in CCFv3
+531,Hippocampal formation,10702,"Dentate gyrus, subgranular zone",DG-sgz,n/a,n/a,,,not annotated in CCFv3
+532,Hippocampal formation,734,Dentate gyrus crest,DGcr,n/a,n/a,,,not annotated in CCFv3
+533,Hippocampal formation,742,"Dentate gyrus crest, molecular layer",DGcr-mo,n/a,n/a,,,not annotated in CCFv3
+534,Hippocampal formation,751,"Dentate gyrus crest, polymorph layer",DGcr-po,n/a,n/a,,,not annotated in CCFv3
+535,Hippocampal formation,758,"Dentate gyrus crest, granule cell layer",DGcr-sg,n/a,n/a,,,not annotated in CCFv3
+536,Hippocampal formation,766,Dentate gyrus lateral blade,DGlb,n/a,n/a,,,not annotated in CCFv3
+537,Hippocampal formation,775,"Dentate gyrus lateral blade, molecular layer",DGlb-mo,n/a,n/a,,,not annotated in CCFv3
+538,Hippocampal formation,782,"Dentate gyrus lateral blade, polymorph layer",DGlb-po,n/a,n/a,,,not annotated in CCFv3
+539,Hippocampal formation,790,"Dentate gyrus lateral blade, granule cell layer",DGlb-sg,n/a,n/a,,,not annotated in CCFv3
+540,Hippocampal formation,799,Dentate gyrus medial blade,DGmb,n/a,n/a,,,not annotated in CCFv3
+541,Hippocampal formation,807,"Dentate gyrus medial blade, molecular layer",DGmb-mo,n/a,n/a,,,not annotated in CCFv3
+542,Hippocampal formation,815,"Dentate gyrus medial blade, polymorph layer",DGmb-po,n/a,n/a,,,not annotated in CCFv3
+543,Hippocampal formation,823,"Dentate gyrus medial blade, granule cell layer",DGmb-sg,n/a,n/a,,,not annotated in CCFv3
+544,Hippocampal formation,982,Fasciola cinerea,FC,Fasciola cinereum,FC,,,included in CCFv3
+545,Hippocampal formation,19,Induseum griseum,IG,Indusium griseum,IG,,,included in CCFv3
+546,Hippocampal formation,822,Retrohippocampal region,RHP,n/a,n/a,,,included in CCFv3
+547,Hippocampal formation,909,Entorhinal area,ENT,Entorhinal cortex,Ent,,,included in CCFv3
+548,Hippocampal formation,918,"Entorhinal area, lateral part",ENTl,Lateral entorhinal cortex; Dorsolateral entorhinal cx; Dorsal intermediate entorhinal; Ventral intermediate entorhinal,LEnt; DLEnt; DIEnt; VIEnt,,,included in CCFv3
+549,Hippocampal formation,1121,"Entorhinal area, lateral part, layer 1",ENTl1,n/a,n/a,,,included in CCFv3
+550,Hippocampal formation,20,"Entorhinal area, lateral part, layer 2",ENTl2,n/a,n/a,,,included in CCFv3
+551,Hippocampal formation,999,"Entorhinal area, lateral part, layer 2_3",ENTl2_3,n/a,n/a,,,not annotated in CCFv3
+552,Hippocampal formation,715,"Entorhinal area, lateral part, layer 2a",ENTl2a,n/a,n/a,,,not annotated in CCFv3
+553,Hippocampal formation,764,"Entorhinal area, lateral part, layer 2b",ENTl2b,n/a,n/a,,,not annotated in CCFv3
+554,Hippocampal formation,52,"Entorhinal area, lateral part, layer 3",ENTl3,n/a,n/a,,,included in CCFv3
+555,Hippocampal formation,92,"Entorhinal area, lateral part, layer 4",ENTl4,Lamina dissecans of the entorhinal cortex,Dsc,,,not annotated in CCFv3
+556,Hippocampal formation,312,"Entorhinal area, lateral part, layer 4/5",ENTl4/5,n/a,n/a,,,not annotated in CCFv3
+557,Hippocampal formation,139,"Entorhinal area, lateral part, layer 5",ENTl5,n/a,n/a,,,included in CCFv3
+558,Hippocampal formation,387,"Entorhinal area, lateral part, layer 5/6",ENTl5/6,n/a,n/a,,,not annotated in CCFv3
+559,Hippocampal formation,28,"Entorhinal area, lateral part, layer 6a",ENTl6a,n/a,n/a,,,included in CCFv3
+560,Hippocampal formation,60,"Entorhinal area, lateral part, layer 6b",ENTl6b,n/a,n/a,,,not annotated in CCFv3
+561,Hippocampal formation,926,"Entorhinal area, medial part, dorsal zone",ENTm,Medial entorhinal cortex; Caudomedial entorhinal cortex,Ment; Cent,Ment+Cent = ENTm in CCFv3,,included in CCFv3
+562,Hippocampal formation,526,"Entorhinal area, medial part, dorsal zone, layer 1",ENTm1,n/a,n/a,,,included in CCFv3
+563,Hippocampal formation,543,"Entorhinal area, medial part, dorsal zone, layer 2",ENTm2,n/a,n/a,,,included in CCFv3
+564,Hippocampal formation,468,"Entorhinal area, medial part, dorsal zone, layer 2a",ENTm2a,n/a,n/a,,,not annotated in CCFv3
+565,Hippocampal formation,508,"Entorhinal area, medial part, dorsal zone, layer 2b",ENTm2b,n/a,n/a,,,not annotated in CCFv3
+566,Hippocampal formation,664,"Entorhinal area, medial part, dorsal zone, layer 3",ENTm3,n/a,n/a,,,included in CCFv3
+567,Hippocampal formation,712,"Entorhinal area, medial part, dorsal zone, layer 4",ENTm4,Lamina dissecans of the entorhinal cortex,Dsc,,,not annotated in CCFv3
+568,Hippocampal formation,727,"Entorhinal area, medial part, dorsal zone, layer 5",ENTm5,n/a,n/a,,,included in CCFv3
+569,Hippocampal formation,550,"Entorhinal area, medial part, dorsal zone, layer 5/6",ENTm5/6,n/a,n/a,,,not annotated in CCFv3
+570,Hippocampal formation,743,"Entorhinal area, medial part, dorsal zone, layer 6",ENTm6,n/a,n/a,,,included in CCFv3
+571,Hippocampal formation,934,"Entorhinal area, medial part, ventral zone",ENTmv,n/a,n/a,,,not annotated in CCFv3
+572,Hippocampal formation,259,"Entorhinal area, medial part, ventral zone, layer 1",ENTmv1,n/a,n/a,,,not annotated in CCFv3
+573,Hippocampal formation,324,"Entorhinal area, medial part, ventral zone, layer 2",ENTmv2,n/a,n/a,,,not annotated in CCFv3
+574,Hippocampal formation,371,"Entorhinal area, medial part, ventral zone, layer 3",ENTmv3,n/a,n/a,,,not annotated in CCFv3
+575,Hippocampal formation,419,"Entorhinal area, medial part, ventral zone, layer 4",ENTmv4,n/a,n/a,,,not annotated in CCFv3
+576,Hippocampal formation,1133,"Entorhinal area, medial part, ventral zone, layer 5/6",ENTmv5/6,n/a,n/a,,,not annotated in CCFv3
+577,Hippocampal formation,843,Parasubiculum,PAR,Parasubiculum,PaS,,,included in CCFv3
+578,Hippocampal formation,10693,"Parasubiculum, layer 1",PAR1,n/a,n/a,,,not annotated in CCFv3
+579,Hippocampal formation,10694,"Parasubiculum, layer 2",PAR2,n/a,n/a,,,not annotated in CCFv3
+580,Hippocampal formation,10695,"Parasubiculum, layer 3",PAR3,n/a,n/a,,,not annotated in CCFv3
+581,Hippocampal formation,1037,Postsubiculum,POST,Postsubiculum,Post,,,included in CCFv3
+582,Hippocampal formation,10696,"Postsubiculum, layer 1",POST1,n/a,n/a,,,not annotated in CCFv3
+583,Hippocampal formation,10697,"Postsubiculum, layer 2",POST2,n/a,n/a,,,not annotated in CCFv3
+584,Hippocampal formation,10698,"Postsubiculum, layer 3",POST3,n/a,n/a,,,not annotated in CCFv3
+585,Hippocampal formation,1084,Presubiculum,PRE,Presubiculum,PrS,,,included in CCFv3
+586,Hippocampal formation,10699,"Presubiculum, layer 1",PRE1,n/a,n/a,,,not annotated in CCFv3
+587,Hippocampal formation,10700,"Presubiculum, layer 2",PRE2,n/a,n/a,,,not annotated in CCFv3
+588,Hippocampal formation,10701,"Presubiculum, layer 3",PRE3,n/a,n/a,,,not annotated in CCFv3
+589,Hippocampal formation,502,Subiculum,SUB,Subiculum,S,,,included in CCFv3
+590,Hippocampal formation,509,"Subiculum, dorsal part",SUBd,Dorsal subiculum,DS,,,not annotated in CCFv3
+591,Hippocampal formation,829,"Subiculum, dorsal part, molecular layer",SUBd-m,n/a,n/a,,,not annotated in CCFv3
+592,Hippocampal formation,845,"Subiculum, dorsal part, pyramidal layer",SUBd-sp,n/a,n/a,,,not annotated in CCFv3
+593,Hippocampal formation,837,"Subiculum, dorsal part, stratum radiatum",SUBd-sr,n/a,n/a,,,not annotated in CCFv3
+594,Hippocampal formation,518,"Subiculum, ventral part",SUBv,Ventral subiculum,VS,,,not annotated in CCFv3
+595,Hippocampal formation,853,"Subiculum, ventral part, molecular layer",SUBv-m,n/a,n/a,,,not annotated in CCFv3
+596,Hippocampal formation,870,"Subiculum, ventral part, pyramidal layer",SUBv-sp,n/a,n/a,,,not annotated in CCFv3
+597,Hippocampal formation,861,"Subiculum, ventral part, stratum radiatum",SUBv-sr,n/a,n/a,,,not annotated in CCFv3
+598,Hippocampal formation,484682470,Prosubiculum,ProS,n/a,n/a,,,included in CCFv3
+599,Hippocampal formation,484682475,"Prosubiculum, dorsal part",ProSd,n/a,n/a,,,not annotated in CCFv3
+600,Hippocampal formation,484682479,"Prosubiculum, dorsal part, molecular layer",ProSd-m,n/a,n/a,,,not annotated in CCFv3
+601,Hippocampal formation,484682483,"Prosubiculum, dorsal part, pyramidal layer",ProSd-sp,n/a,n/a,,,not annotated in CCFv3
+602,Hippocampal formation,484682487,"Prosubiculum, dorsal part, stratum radiatum",ProSd-sr,n/a,n/a,,,not annotated in CCFv3
+603,Hippocampal formation,484682492,"Prosubiculum, ventral part",ProSv,n/a,n/a,,,not annotated in CCFv3
+604,Hippocampal formation,484682496,"Prosubiculum, ventral part, molecular layer",ProSv-m,n/a,n/a,,,not annotated in CCFv3
+605,Hippocampal formation,484682500,"Prosubiculum, ventral part, pyramidal layer",ProSv-sp,n/a,n/a,,,not annotated in CCFv3
+606,Hippocampal formation,484682504,"Prosubiculum, ventral part, stratum radiatum",Prosv-sr,n/a,n/a,,,not annotated in CCFv3
+607,Hippocampal formation,n/a,n/a,n/a,"Subiculum, transition area",STr,,,
+608,Hippocampal formation,n/a,n/a,n/a,Supracallosal subiculum,SS,,,
+609,Hippocampal formation,589508447,Hippocampo-amygdalar transition area,HATA,n/a,n/a,,new in CCFv3,included in CCFv3
+610,Hippocampal formation,484682508,Area prostriata,APr,Prostriate area,ProSt,"Not annotated in MBSC yet, but name exists in ontology",new in CCFv3,included in CCFv3
+611,Cortical subplate,703,Cortical subplate,CTXsp,n/a,n/a,,,included in CCFv3
+612,Cortical subplate,16,"Layer 6b, isocortex",6b,n/a,n/a,,,not annotated in CCFv3
+613,Cortical subplate,583,Claustrum,CLA,Claustrum,Cl,,,included in CCFv3
+614,Cortical subplate,n/a,n/a,n/a,Dorsal claustrum,DCl,,,
+615,Cortical subplate,n/a,n/a,n/a,Ventral claustrum,VCl,,,
+616,Cortical subplate,942,Endopiriform nucleus,EP,Endopiriform nucleus,En,,,included in CCFv3
+617,Cortical subplate,952,"Endopiriform nucleus, dorsal part",EPd,Dorsal endopiriform nucleus,DEn,,,included in CCFv3
+618,Cortical subplate,n/a,n/a,n/a,Intermediate endopiriform nu,IEn,,,
+619,Cortical subplate,966,"Endopiriform nucleus, ventral part",EPv,Ventral endopiriform nucleus,VEn ,,,included in CCFv3
+620,Cortical subplate,131,Lateral amygdalar nucleus,LA,Lateral amygdaloid nucleus,La,,,included in CCFv3
+621,Cortical subplate,n/a,n/a,n/a,"Lateral amygdaloid nucleus, dorsolateral part",LaDL,,,
+622,Cortical subplate,n/a,n/a,n/a,"Lateral amygdaloid nucleus, ventrolateral part",LaVL,,,
+623,Cortical subplate,n/a,n/a,n/a,"Lateral amygdaloid nucleus, ventrornedial part",LaVM,,,
+624,Cortical subplate,295,Basolateral amygdalar nucleus,BLA,Basolateral amygdaloid nucleus,BL,,,included in CCFv3
+625,Cortical subplate,303,"Basolateral amygdalar nucleus, anterior part",BLAa,"Basolateral amygdaloid nucleus, anterior part",BLA,,,included in CCFv3
+626,Cortical subplate,311,"Basolateral amygdalar nucleus, posterior part",BLAp,"Basolateral arnygdaloid nucleus, posterior part",BLP,,,included in CCFv3
+627,Cortical subplate,451,"Basolateral amygdalar nucleus, ventral part",BLAv,"Basolateral amygdaloid nucleus, ventral part",BLV,,,included in CCFv3
+628,Cortical subplate,319,Basomedial amygdalar nucleus,BMA,Basomedial amygdaloid nucleus,BM,,,included in CCFv3
+629,Cortical subplate,327,"Basomedial amygdalar nucleus, anterior part",BMAa,"Basomedial amygdaloid nucleus, anterior part",BMA,,,included in CCFv3
+630,Cortical subplate,334,"Basomedial amygdalar nucleus, posterior part",BMAp,"Basomedial amygdaloid nucleus, posterior part",BMP,,,included in CCFv3
+631,Cortical subplate,780,Posterior amygdalar nucleus,PA,Amygdalohippocampal area,AHi,,,included in CCFv3
+632,Cortical subplate,n/a,n/a,n/a,"Amygdalohippocampal area, anterolateral part",AHiAL ,,,
+633,Cortical subplate,n/a,n/a,n/a,"Amygdalohippocampal area, posterolateral",AHiPL,,,
+634,Cortical subplate,n/a,n/a,n/a,"Amygdalohippocampal area, posteromedial part",AHiPM,,,
+635,Cortical subplate,n/a,n/a,n/a,"Amygdalohippocampal area, magnocellular part",AHiMC,,,
+636,Cortical subplate,n/a,n/a,n/a,"Amygdalohippocampal area, parvicellular part",AHiPC,,,
+637,Cerebral nuclei,623,Cerebral nuclei,CNU,n/a,n/a,,,included in CCFv3
+638,Striatum,477,Striatum,STR,n/a,n/a,,,included in CCFv3
+639,Striatum,485,Striatum dorsal region,STRd,n/a,n/a,,,included in CCFv3
+640,Striatum,672,Caudoputamen,CP,Caudate putamen (striatum),CPu,,,included in CCFv3
+641,Striatum,493,Striatum ventral region,STRv,n/a,n/a,,,included in CCFv3
+642,Striatum,56,Nucleus accumbens,ACB,Accumbens nucleus,Acb,,,included in CCFv3
+643,Striatum,n/a,n/a,n/a,"Accumbens nucleus, core",AcbC ,,,
+644,Striatum,n/a,n/a,n/a,"Accumbens nucleus, shell",AcbSh ,,,
+645,Striatum,n/a,n/a,n/a,"Lateral accumbens, shell region",LAcbSh,,,
+646,Striatum,n/a,n/a,n/a,Cell bridges of the ventral striatum,CB,,,
+647,Striatum,998,Fundus of striatum,FS,Interstitial nucleus of the posterior limb of the anterior commissure,IPAC,,,included in CCFv3
+648,Striatum,n/a,n/a,n/a,"Interstitial nucleus of the posterior limb of the anterior commissure, lateral part",IPACL,,,
+649,Striatum,n/a,n/a,n/a,"Interstitial nucleus of the posterior limb of the anterior commissure, medial part",IPACM,,,
+650,Striatum,754,Olfactory tubercle,OT,Olfactory tubercle ,Tu,,,included in CCFv3
+651,Striatum,481,Islands of Calleja,isl,Islands of Calleja,ICj,,,not annotated in CCFv3
+652,Striatum,489,Major island of Calleja,islm,"Islands of Calleja, major island",ICjM,,,not annotated in CCFv3
+653,Striatum,144,"Olfactory tubercle, layers 1-3",OT1-3,n/a,n/a,,,not annotated in CCFv3
+654,Striatum,458,"Olfactory tubercle, molecular layer",OT1,layer 1,1,,,not annotated in CCFv3
+655,Striatum,465,"Olfactory tubercle, pyramidal layer",OT2,layer 2,2,,,not annotated in CCFv3
+656,Striatum,473,"Olfactory tubercle, polymorph layer",OT3,layer 3,3,,,not annotated in CCFv3
+657,Striatum,549009199,Lateral strip of striatum,LSS,Lateral stripe of the striatum,LSS,,,not annotated in CCFv3
+658,Striatum,275,Lateral septal complex,LSX,n/a,n/a,,,included in CCFv3
+659,Striatum,242,Lateral septal nucleus,LS,Lateral septal nucleus,LS,,,included in CCFv3
+660,Striatum,250,"Lateral septal nucleus, caudal (caudodorsal) part",LSc,"Lateral septal nucleus, dorsal part",LSD,,,included in CCFv3
+661,Striatum,258,"Lateral septal nucleus, rostral (rostroventral) part",LSr,"Lateral septal nucleus, intermediate part",LSI,,,included in CCFv3
+662,Striatum,266,"Lateral septal nucleus, ventral part",LSv,"Lateral septal nucleus, ventral part",LSV,,,included in CCFv3
+663,Striatum,n/a,n/a,n/a,Lambdoid septal zone,Ld,,,
+664,Striatum,n/a,n/a,n/a,Paralambdoid septal nucleus,PLd,,,
+665,Striatum,310,Septofimbrial nucleus,SF,Septofimbrial nucleus,SFi,,,included in CCFv3
+666,Striatum,333,Septohippocampal nucleus,SH,Septohippocampal nucleus,SHi,,,included in CCFv3
+667,Striatum,n/a,n/a,n/a,Amygdalostriatal transition area,ASt,,,
+668,Striatum,278,Striatum-like amygdalar nuclei,sAMY,n/a,n/a,,,included in CCFv3
+669,Striatum,23,Anterior amygdalar area,AAA,Anterior amygdaloid area,AA,,,included in CCFv3
+670,Striatum,292,Bed nucleus of the accessory olfactory tract,BA,Bed nucleus of the accessory olfactory tract,BAOT,,,included in CCFv3
+671,Striatum,536,Central amygdalar nucleus,CEA,Central amygdaloid nucleus,Ce,,,included in CCFv3
+672,Striatum,544,"Central amygdalar nucleus, capsular part",CEAc,"Central amygdaloid nucleus, capsular part",CeC,,,included in CCFv3
+673,Striatum,551,"Central amygdalar nucleus, lateral part",CEAl,"Central amygdaloid nucleus, lateral division",CeL,,,included in CCFv3
+674,Striatum,559,"Central amygdalar nucleus, medial part",CEAm,"Central amygdaloid nucleus, medial division",CeM,,,included in CCFv3
+675,Striatum,n/a,n/a,n/a,Amygdaloid intramedullary gray,IMG,,,
+676,Striatum,n/a,n/a,n/a,Extension of the amygdala,EA,,,
+677,Striatum,n/a,n/a,n/a,"Extension of the amygdala, central part",EAC,,,
+678,Striatum,n/a,n/a,n/a,"Extension of the amygdala, medial part",EAM,,,
+679,Striatum,1105,Intercalated amygdalar nucleus,IA,Intercalated amygdaloid nucleus,I,,,included in CCFv3
+680,Striatum,n/a,n/a,n/a,"Intercalated amygdaloid nucleus, main part",IM,,,
+681,Striatum,403,Medial amygdalar nucleus,MEA,Medial amygdaloid nucleus,Me,,,included in CCFv3
+682,Striatum,n/a,n/a,n/a,"Medial amygdaloid nucleus, anterior part",MeA,,,
+683,Striatum,411,"Medial amygdalar nucleus, anterodorsal part",MEAad,"Medial amygdaloid nucleus, anterior dorsal",MeAD,,,not annotated in CCFv3
+684,Striatum,418,"Medial amygdalar nucleus, anteroventral part",MEAav,"Medial amygdaloid nucleus, anteroventral part",MeAV,,,not annotated in CCFv3
+685,Striatum,426,"Medial amygdalar nucleus, posterodorsal part",MEApd,"Medial amygdaloid nucleus, posterodorsal part",MePD,,,not annotated in CCFv3
+686,Striatum,472,"Medial amygdalar nucleus, posterodorsal part, sublayer a",MEApd-a,n/a,n/a,,,not annotated in CCFv3
+687,Striatum,480,"Medial amygdalar nucleus, posterodorsal part, sublayer b",MEApd-b,n/a,n/a,,,not annotated in CCFv3
+688,Striatum,487,"Medial amygdalar nucleus, posterodorsal part, sublayer c",MEApd-c,n/a,n/a,,,not annotated in CCFv3
+689,Striatum,435,"Medial amygdalar nucleus, posteroventral part",MEApv,"Medial amygdaloid nucleus, posteroventral part",MePV,,,not annotated in CCFv3
+690,Pallidum,803,Pallidum,PAL,n/a,n/a,,,included in CCFv3
+691,Pallidum,818,"Pallidum, dorsal region",PALd,n/a,n/a,,,included in CCFv3
+692,Pallidum,1022,"Globus pallidus, external segment",GPe,Globus pallidus,GP,,,included in CCFv3
+693,Pallidum,1031,"Globus pallidus, internal segment",GPi,Entopeduncular nucleus,EP,,,included in CCFv3
+694,Pallidum,835,"Pallidum, ventral region",PALv,n/a,n/a,,,included in CCFv3
+695,Pallidum,342,Substantia innominata,SI,"Substantia innominata, basal part",SIB,,,included in CCFv3
+696,Pallidum,n/a,n/a,n/a,Basal nucleus (Meynert),B,,,
+697,Pallidum,n/a,n/a,n/a,Ventral pallidum,VP,,,
+698,Pallidum,n/a,n/a,n/a,Nucleus of the ansa lenticularis,AL ,,,
+699,Pallidum,298,Magnocellular nucleus,MA,Lateral nucleus of the diagonal band,LDB,,,included in CCFv3
+700,Pallidum,826,"Pallidum, medial region",PALm,n/a,n/a,,,included in CCFv3
+701,Pallidum,904,Medial septal complex,MSC,n/a,n/a,,,included in CCFv3
+702,Pallidum,564,Medial septal nucleus,MS,Medial septal nucleus ,MS,,,included in CCFv3
+703,Pallidum,596,Diagonal band nucleus,NDB,Nucleus of the horizontal limb of the diagonal band; Nucleus of the vertical limb of the diagonal band,HDB; VDB,HDB+VDB = NDB in CCFv3,,included in CCFv3
+705,Pallidum,n/a,n/a,n/a,Zona limitans,ZL,,,
+706,Pallidum,n/a,n/a,n/a,Navicular nucleus of the basal forebrain,Nv,,,
+707,Pallidum,n/a,n/a,n/a,Paradiagonal zone,PDZ,,,
+708,Pallidum,581,Triangular nucleus of septum,TRS,Triangular septal nucleus,TS,,,included in CCFv3
+709,Pallidum,809,"Pallidum, caudal region",PALc,n/a,n/a,,,included in CCFv3
+710,Pallidum,351,Bed nuclei of the stria terminalis,BST,Bed nucleus of the stria terminalis,ST,,,included in CCFv3
+711,Pallidum,359,"Bed nuclei of the stria terminalis, anterior division",BSTa,"Bed nucleus of the stria terminalis, intraamygdaloid division",STIA,,,not annotated in CCFv3
+712,Pallidum,537,"Bed nuclei of the stria terminalis, anterior division, anterolateral area",BSTal,"Bed nucleus of the stria terminalis, lateral division, dorsal part",STLD,,,not annotated in CCFv3
+713,Pallidum,498,"Bed nuclei of the stria terminalis, anterior division, anteromedial area",BSTam,"Bed nucleus of the stria terminalis, medial division, anterior part",STMA,,,not annotated in CCFv3
+714,Pallidum,505,"Bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus",BSTdm,"Bed nucleus of the stria terminalis, medial division, anterolateral part",STMAL,,,not annotated in CCFv3
+715,Pallidum,513,"Bed nuclei of the stria terminalis, anterior division, fusiform nucleus",BSTfu,"Bed nucleus of the stria terminalis, medial division, anteromedial part",STMAM,,,not annotated in CCFv3
+716,Pallidum,546,"Bed nuclei of the stria terminalis, anterior division, juxtacapsular nucleus",BSTju,"Bed nucleus of the stria terminalis, lateral division, intermediate part",STLI,,,not annotated in CCFv3
+717,Pallidum,521,"Bed nuclei of the stria terminalis, anterior division, magnocellular nucleus",BSTmg,"Bed nucleus of stria terminalis, fusiform part",Fu,,,not annotated in CCFv3
+718,Pallidum,554,"Bed nuclei of the stria terminalis, anterior division, oval nucleus",BSTov,"Bed nucleus of the stria terminalis, lateral division, juxtacapsular part",STLJ,,,not annotated in CCFv3
+719,Pallidum,562,"Bed nuclei of the stria terminalis, anterior division, rhomboid nucleus",BSTrh,"Bed nucleus of the stria terminalis, lateral division, posterior part",STLP,,,not annotated in CCFv3
+720,Pallidum,529,"Bed nuclei of the stria terminalis, anterior division, ventral nucleus",BSTv,"Bed nucleus of the stria terminalis, lateral division, ventral part",STLV,,,not annotated in CCFv3
+721,Pallidum,367,"Bed nuclei of the stria terminalis, posterior division",BSTp,"Bed nucleus of the stria terminalis, medial division, posterior part",STMP,,,not annotated in CCFv3
+722,Pallidum,569,"Bed nuclei of the stria terminalis, posterior division, dorsal nucleus",BSTd,"Bed nucleus of the stria terminalis, medial division, posterointermediate part",STMPI,,,not annotated in CCFv3
+723,Pallidum,578,"Bed nuclei of the stria terminalis, posterior division, principal nucleus",BSTpr,"Bed nucleus of the stria terminalis, medial division, posterolateral part",STMPL,,,not annotated in CCFv3
+724,Pallidum,585,"Bed nuclei of the stria terminalis, posterior division, interfascicular nucleus",BSTif,"Bed nucleus of the stria terminalis, medial division, posteromedial part",STMPM,,,not annotated in CCFv3
+725,Pallidum,594,"Bed nuclei of the stria terminalis, posterior division, transverse nucleus",BSTtr,"Bed nucleus of the stria terminalis, medial division, ventral part",STMV,,,not annotated in CCFv3
+726,Pallidum,602,"Bed nuclei of the stria terminalis, posterior division, strial extension",BSTse,"Bed nucleus of stria terminalis, supracapsular part",STS,,,not annotated in CCFv3
+727,Pallidum,287,Bed nucleus of the anterior commissure,BAC,Bed nucleus of the anterior comrnissure,BAC,,,included in CCFv3
+728,Pallidum,n/a,n/a,n/a,Striohypothalamic nucleus,StHy,,,
+729,Pallidum,n/a,n/a,n/a,Nucleus of the stria medullaris,SM,,,
+730,Brain stem,343,Brain stem,BS,n/a,n/a,,,included in CCFv3
+731,Interbrain,1129,Interbrain,IB,n/a,n/a,,,included in CCFv3
+732,Thalamus,549,Thalamus,TH,n/a,n/a,,,included in CCFv3
+733,Thalamus,864,"Thalamus, sensory-motor cortex related",DORsm,n/a,n/a,,,included in CCFv3
+734,Thalamus,637,Ventral group of the dorsal thalamus,VENT,n/a,n/a,,,included in CCFv3
+735,Thalamus,629,Ventral anterior-lateral complex of the thalamus,VAL,"Ventral anterior thalamic nucleus, lateral part; Ventrolateral thalamic nucleus; Ventral anterior thalamic nucleus",VAL; VL; VA,,,included in CCFv3
+738,Thalamus,n/a,n/a,n/a,"Ventral anterior thalamic nucleus, medial part",VAM,,,
+739,Thalamus,n/a,n/a,n/a,"Ventral anterior thalamic nucleus, magnocellular part",VAMC,,,
+740,Thalamus,685,Ventral medial nucleus of the thalamus,VM,Ventromedial thalamic nucleus ,VM ,,,included in CCFv3
+741,Thalamus,709,Ventral posterior complex of the thalamus,VP,n/a,n/a,,,included in CCFv3
+742,Thalamus,718,Ventral posterolateral nucleus of the thalamus,VPL,Ventral posterolateral thalamic nucleus ,VPL ,,,included in CCFv3
+743,Thalamus,725,"Ventral posterolateral nucleus of the thalamus, parvicellular part",VPLpc,"Ventral posterior nucleus of the thalamus, parvicellular",VPPC,,,included in CCFv3
+744,Thalamus,733,Ventral posteromedial nucleus of the thalamus,VPM,Ventral posteromedial thalamic nucleus ,VPM ,,,included in CCFv3
+745,Thalamus,741,"Ventral posteromedial nucleus of the thalamus, parvicellular part",VPMpc,"Ventral posterior nucleus of the thalamus, parvicellular",VPPC,,,included in CCFv3
+746,Thalamus,563807435,Posterior triangular thalamic nucleus,PoT,"Posterior thalamic nuclear group, triangular part",PoT,,new in CCFv3,included in CCFv3
+747,Thalamus,406,Subparafascicular nucleus,SPF,Subparafascicular thalamic nucleus ,SPF,,,included in CCFv3
+748,Thalamus,414,"Subparafascicular nucleus, magnocellular part",SPFm,n/a,n/a,,,included in CCFv3
+749,Thalamus,422,"Subparafascicular nucleus, parvicellular part",SPFp,"Subparafascicular thalamic nucleus, parvicellular part",SPFPC,,,included in CCFv3
+750,Thalamus,609,Subparafascicular area,SPA,Periventricular gray,PVG,,,included in CCFv3
+751,Thalamus,1044,Peripeduncular nucleus,PP,Peripeduncular nucleus,PP,,,included in CCFv3
+752,Thalamus,1008,"Geniculate group, dorsal thalamus",GENd,n/a,n/a,,,included in CCFv3
+753,Thalamus,475,Medial geniculate complex,MG,Medial geniculate nucleus ,MG,,,included in CCFv3
+754,Thalamus,1072,"Medial geniculate complex, dorsal part",MGd,"Medial geniculate nucleus, dorsal part ",MGD,,,included in CCFv3
+755,Thalamus,1079,"Medial geniculate complex, ventral part",MGv,"Medial geniculate nucleus, vetral part ",MGV,,,included in CCFv3
+756,Thalamus,1088,"Medial geniculate complex, medial part",MGm,"Medial geniculate nucleus, medial part ",MGM,,,included in CCFv3
+757,Thalamus,n/a,n/a,n/a,Marginal zone of medial geniculate,MZMG,,,
+758,Thalamus,n/a,n/a,n/a,Lateral geniculate,LG,,,
+759,Thalamus,170,Dorsal part of the lateral geniculate complex,LGd,Dorsal lateral geniculate nucleus,DLG,,,included in CCFv3
+760,Thalamus,496345664,"Dorsal part of the lateral geniculate complex, shell",LGd-sh,n/a,n/a,,new in CCFv3,included in CCFv3
+761,Thalamus,496345668,"Dorsal part of the lateral geniculate complex, core",LGd-co,n/a,n/a,,new in CCFv3,included in CCFv3
+762,Thalamus,496345672,"Dorsal part of the lateral geniculate complex, ipsilateral zone",LGd-ip,n/a,n/a,,new in CCFv3,included in CCFv3
+763,Thalamus,856,"Thalamus, polymodal association cortex related",DORpm,n/a,n/a,,,included in CCFv3
+764,Thalamus,138,Lateral group of the dorsal thalamus,LAT,n/a,n/a,,,included in CCFv3
+765,Thalamus,218,Lateral posterior nucleus of the thalamus,LP,Lateral posterior  nucleus,LP,,,included in CCFv3
+766,Thalamus,n/a,n/a,n/a,"Lateral posterior thalamic nucleus, laterocaudal part",LPLC,,,
+767,Thalamus,n/a,n/a,n/a,"Lateral posterior thalami c nucleus, laterorostral part",LPLR,,,
+768,Thalamus,n/a,n/a,n/a,"Lateral posterior thalamic nucleus, mediocaudal part",LPMC,,,
+769,Thalamus,n/a,n/a,n/a,"Lateral posterior thalamic nucleus, mediorostral part",LPMR,,,
+770,Thalamus,n/a,n/a,n/a,Intramedullary thalamic area,IMA,,,
+771,Thalamus,1020,Posterior complex of the thalamus,PO,Posterior thalamic nuclear group,Po,,,included in CCFv3
+772,Thalamus,1029,Posterior limiting nucleus of the thalamus,POL,Posterior limitans thalamic nucleus,Pli,,,included in CCFv3
+773,Thalamus,325,Suprageniculate nucleus,SGN,Suprageniculate thalamic nucleus,SG,,,included in CCFv3
+774,Thalamus,560581551,Ethmoid nucleus of the thalamus,Eth,Ethmoid thalamic nucleus,Eth,,new in CCFv3,included in CCFv3
+775,Thalamus,560581555,Retroethmoid nucleus,REth,Retroethmoid nucleus,REth,,,not annotated in CCFv3
+776,Thalamus,239,Anterior group of the dorsal thalamus,ATN,n/a,n/a,,,included in CCFv3
+777,Thalamus,255,Anteroventral nucleus of thalamus,AV,Anteroventral thalamic nucleus,AV,,,included in CCFv3
+778,Thalamus,n/a,n/a,n/a,"Anteroventral thalamic nucleus, dorsomedial",AVDM,,,
+779,Thalamus,n/a,n/a,n/a,"Anteroventral thalamic nucleus, ventrolateral",AVVL,,,
+780,Thalamus,127,Anteromedial nucleus,AM,n/a,n/a,,,included in CCFv3
+781,Thalamus,1096,"Anteromedial nucleus, dorsal part",AMd,Anteromedial thalamic nucleus,AM ,,,included in CCFv3
+782,Thalamus,1104,"Anteromedial nucleus, ventral part",AMv,"Anteromedial thalamic nucleus, ventral part",AMV ,,,included in CCFv3
+783,Thalamus,64,Anterodorsal nucleus,AD,Anterodorsal thalamic nucleus,AD ,,,included in CCFv3
+784,Thalamus,1120,Interanteromedial nucleus of the thalamus,IAM,Interanteromedial thalamic nucleus,IAM,,,included in CCFv3
+785,Thalamus,1113,Interanterodorsal nucleus of the thalamus,IAD,Interanterodorsal thalamic nucleus,IAD,,,included in CCFv3
+786,Thalamus,155,Lateral dorsal nucleus of thalamus,LD,Laterodorsal thalamic nucleus,LD,,,included in CCFv3
+787,Thalamus,n/a,n/a,n/a,"Laterodorsal thalamic nucleus, dorsomedial part",LDDM,,,
+788,Thalamus,n/a,n/a,n/a,"Laterodorsal thalamic nucleus, ventrolateral part",LDVL,,,
+789,Thalamus,444,Medial group of the dorsal thalamus,MED,n/a,n/a,,,included in CCFv3
+790,Thalamus,59,Intermediodorsal nucleus of the thalamus,IMD,Intermediodorsal thalamic nucleus,IMD,,,included in CCFv3
+791,Thalamus,362,Mediodorsal nucleus of thalamus,MD,Mediodorsal thalamic nucleus,MD,,,included in CCFv3
+792,Thalamus,617,"Mediodorsal nucleus of the thalamus, central part",MDc,"Mediodorsal thalamic nucleus, central part",MDC,,,not annotated in CCFv3
+793,Thalamus,626,"Mediodorsal nucleus of the thalamus, lateral part",MDl,"Mediodorsal thalamic nucleus, lateral part",MDL,,,not annotated in CCFv3
+794,Thalamus,636,"Mediodorsal nucleus of the thalamus, medial part",MDm,"Mediodorsal thalamic nucleus, medial part",MDM,,,not annotated in CCFv3
+795,Thalamus,n/a,n/a,n/a,"Mediodorsal thalamic nucleus, dorsal part",MDD,,,
+796,Thalamus,366,Submedial nucleus of the thalamus,SMT,Submedius thalamic nucleus ,Sub,,,included in CCFv3
+797,Thalamus,n/a,n/a,n/a,"Submedius thalamic nucleus, dorsal part",SubD,,,
+798,Thalamus,n/a,n/a,n/a,"Submedius thalamic nucleus, ventral part ",SubV,,,
+799,Thalamus,1077,Perireunensis nucleus,PR,Ventral reuniens thalamic nucleus,VRe,,,included in CCFv3
+800,Thalamus,571,Midline group of the dorsal thalamus,MTN,n/a,n/a,,,included in CCFv3
+801,Thalamus,149,Paraventricular nucleus of the thalamus,PVT,Paraventricular thalamic nucleus,PV,,,included in CCFv3
+802,Thalamus,n/a,n/a,n/a,"Paraventricular thalamic nucleus, anterior part",PVA,,,
+803,Thalamus,n/a,n/a,n/a,"Paraventricular thalamic nucleus, posterior part",PVP,,,
+804,Thalamus,15,Parataenial nucleus,PT,Paratenial thalamic nucleus,PT,,,included in CCFv3
+805,Thalamus,181,Nucleus of reuniens,RE,Reuniens thalamic nucleus,Re,,,included in CCFv3
+806,Thalamus,560581559,Xiphoid thalamic nucleus,Xi,Xiphoid thalamic nucleus,Xi ,,new in CCFv3,included in CCFv3
+807,Thalamus,51,Intralaminar nuclei of the dorsal thalamus,ILM,n/a,n/a,,,included in CCFv3
+808,Thalamus,189,Rhomboid nucleus,RH,Rhomboid thalamic nucleus,Rh,,,included in CCFv3
+809,Thalamus,599,Central medial nucleus of the thalamus,CM,Central medial thalamic nucleus,CM,,,included in CCFv3
+810,Thalamus,907,Paracentral nucleus,PCN,Paracentral thalamic nucleus,PC,,,included in CCFv3
+811,Thalamus,575,Central lateral nucleus of the thalamus,CL,Centrolateral thalamic nucleus,CL,,,included in CCFv3
+812,Thalamus,930,Parafascicular nucleus,PF,Parafascicular thalamic nucleus,PaF,,,included in CCFv3
+813,Thalamus,560581563,Posterior intralaminar thalamic nucleus,PIL,Posterior intralaminar thalamic nucleus,PIL,,new in CCFv3,included in CCFv3
+814,Thalamus,262,Reticular nucleus of the thalamus,RT,Reticular nucleus (prethalamus),Rt,,,included in CCFv3
+815,Thalamus,1014,"Geniculate group, ventral thalamus",GENv,n/a,n/a,,,included in CCFv3
+816,Thalamus,27,Intergeniculate leaflet of the lateral geniculate complex,IGL,Intergeniculate leaf,IGL,,,included in CCFv3
+817,Thalamus,563807439,Intermediate geniculate nucleus,IntG,n/a,n/a,,new in CCFv3,included in CCFv3
+818,Thalamus,178,Ventral part of the lateral geniculate complex,LGv,Pregeniculate nucleus of the prethalamus,PrG,,,included in CCFv3
+819,Thalamus,300,"Ventral part of the lateral geniculate complex, lateral zone",LGvl,"Pregeniculate nucleus of the prethalamus, magnocellular part",PrGMC,,,not annotated in CCFv3
+820,Thalamus,316,"Ventral part of the lateral geniculate complex, medial zone",LGvm,"Pregeniculate nucleus of the prethalamus, parvicellular part",PrGPC,,,not annotated in CCFv3
+821,Thalamus,321,Subgeniculate nucleus,SubG,Subgeniculate nucleus of prethalamus,SubG,,,included in CCFv3
+822,Thalamus,958,Epithalamus,EPI,n/a,n/a,,,included in CCFv3
+823,Thalamus,n/a,n/a,n/a,Habenula nucleus,Hb,,,
+824,Thalamus,483,Medial habenula,MH,Medial habenular nucleus ,MHb,,,included in CCFv3
+825,Thalamus,186,Lateral habenula,LH,Lateral habenular nucleus,LHb,,,included in CCFv3
+826,Thalamus,n/a,n/a,n/a,"Lateral habenular nucleus, lateral part",LHbL,,,
+827,Thalamus,n/a,n/a,n/a,"Lateral habenular nucleus, medial part",LHbM,,,
+828,Thalamus,953,Pineal body,PIN,Pineal gland,Pi,,,not annotated in CCFv3
+829,Thalamus,n/a,n/a,n/a,Angular thalamic nucleus,Ang ,,,
+830,Thalamus,n/a,n/a,n/a,Oval paracentral thalamic nucleus ,OPC,,,
+831,Thalamus,n/a,n/a,n/a,Posteromedian thalamic nucleus,PoMn,,,
+832,Thalamus,n/a,n/a,n/a,Scaphoid thalamic nucleus,Sc,,,
+833,Thalamus,n/a,n/a,n/a,Paraxiphoid nucleus of thalamus,PaXi,,,
+834,Thalamus,n/a,n/a,n/a,Retroreuniens nucleus,RRe,,,
+835,Thalamus,n/a,n/a,n/a,Ventral linear nucleus of the thalamus,VLi,,,
+836,Thalamus,n/a,n/a,n/a,"Ventrolateral thalamic nucleus, dorsal part",VLD,,,
+837,Thalamus,n/a,n/a,n/a,"Ventral lateral thalamic nucleus, lateral part",VLLa,,,
+838,Hypothalamus,1097,Hypothalamus,HY,n/a,n/a,,,included in CCFv3
+839,Hypothalamus,157,Periventricular zone,PVZ,n/a,n/a,,,included in CCFv3
+840,Hypothalamus,390,Supraoptic nucleus,SO,Supraoptic nucleus,SO,,,included in CCFv3
+841,Hypothalamus,n/a,n/a,n/a,"Supraoptic nucleus, retrochiasmatic part",SOR,,,
+842,Hypothalamus,n/a,n/a,n/a,Episupraoptic nucleus,ESO,,,
+843,Hypothalamus,332,Accessory supraoptic group,ASO,n/a,n/a,,,included in CCFv3
+844,Hypothalamus,432,Nucleus circularis,NC,Circular nucleus,Cir,,,not annotated in CCFv3
+845,Hypothalamus,38,Paraventricular hypothalamic nucleus,PVH,Paraventricular hypothalamic nucleus,Pa,,,included in CCFv3
+846,Hypothalamus,71,"Paraventricular hypothalamic nucleus, magnocellular division",PVHm,"Paraventricular hypothalamic nucleus, ventral part",PaV,,,not annotated in CCFv3
+847,Hypothalamus,47,"Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part",PVHam,n/a,n/a,,,not annotated in CCFv3
+848,Hypothalamus,79,"Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part",PVHmm,"Paraventricular hypothalamic nucleus, medial magnocellular part",PaMM,,,not annotated in CCFv3
+849,Hypothalamus,103,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part",PVHpm,"Paraventricular hypothalamic nucleus, magnocellular part, dorsal division",PaMD,,,not annotated in CCFv3
+850,Hypothalamus,652,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone",PVHpml,"Paraventricular hypothalamic nucleus, lateral magnocellular part",PaLM,,,not annotated in CCFv3
+851,Hypothalamus,660,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone",PVHpmm,n/a,n/a,,,not annotated in CCFv3
+852,Hypothalamus,94,"Paraventricular hypothalamic nucleus, parvicellular division",PVHp,"Paraventricular hypothalamic nucleus, parvicellular part, dorsal division",PaPD,,,not annotated in CCFv3
+853,Hypothalamus,55,"Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part",PVHap,"Paraventricular hypothalamic nucleus, anterior parvicellular part",PaAP,,,not annotated in CCFv3
+854,Hypothalamus,87,"Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone",PVHmpd,"Paraventricular hypothalamic nucleus, medial parvicellular part",PaMP,,,not annotated in CCFv3
+855,Hypothalamus,110,"Paraventricular hypothalamic nucleus, parvicellular division, periventricular part",PVHpv,"Paraventricular hypothalamic nucleus, parvicellular part, ventral part",PaPV,,,not annotated in CCFv3
+856,Hypothalamus,30,"Periventricular hypothalamic nucleus, anterior part",PVa,Periventricular hypothalamic nucleus,Pe,,,included in CCFv3
+857,Hypothalamus,118,"Periventricular hypothalamic nucleus, intermediate part",PVi,Periventricular hypothalamic nucleus,Pe,,,included in CCFv3
+858,Hypothalamus,223,Arcuate hypothalamic nucleus,ARH,Arcuate hypothalamic nucleus,Arc,,,included in CCFv3
+859,Hypothalamus,n/a,n/a,n/a,"Arcuate hypothalamic nucleus, dorsal part",ArcD,,,
+860,Hypothalamus,n/a,n/a,n/a,"Arcuate hypothalamic nucleus, lateral part",ArcL,,,
+861,Hypothalamus,n/a,n/a,n/a,"Arcuate hypothalamic nucleus, medial part",ArcM,,,
+862,Hypothalamus,141,Periventricular region,PVR,n/a,n/a,,,included in CCFv3
+863,Hypothalamus,72,Anterodorsal preoptic nucleus,ADP,septohypothalamic nucleus,SHy,,,included in CCFv3
+864,Hypothalamus,80,Anterior hypothalamic area,AHA,n/a,n/a,,,not annotated in CCFv3
+865,Hypothalamus,263,Anteroventral preoptic nucleus,AVP,n/a,n/a,,,included in CCFv3
+866,Hypothalamus,272,Anteroventral periventricular nucleus,AVPV,Anteroventral periventricular nucleus,AVPe,,,included in CCFv3
+867,Hypothalamus,830,Dorsomedial nucleus of the hypothalamus,DMH,Dorsornedial hypothalamic nucleus,DM,,,included in CCFv3
+868,Hypothalamus,668,"Dorsomedial nucleus of the hypothalamus, anterior part",DMHa,"Dorsomedial hypothalamic nucleus, dorsal part",DMD,,,not annotated in CCFv3
+869,Hypothalamus,676,"Dorsomedial nucleus of the hypothalamus, posterior part",DMHp,"Dorsomedial hypothalamic nucleus, compact part",DMC,,,not annotated in CCFv3
+870,Hypothalamus,684,"Dorsomedial nucleus of the hypothalamus, ventral part",DMHv,"Dorsomedial hypothalamic nucleus, ventral part",DMV,,,not annotated in CCFv3
+871,Hypothalamus,452,Median preoptic nucleus,MEPO,Median preoptic nucleus,MnPO,,,included in CCFv3
+872,Hypothalamus,523,Medial preoptic area,MPO,Medial preoptic area ,MPA,,,included in CCFv3
+873,Hypothalamus,763,Vascular organ of the lamina terminalis,OV,Vascular organ of the lamina terminalis,VOLT,,,included in CCFv3
+874,Hypothalamus,914,Posterodorsal preoptic nucleus,PD,n/a,n/a,,,included in CCFv3
+875,Hypothalamus,1109,Parastrial nucleus,PS,Parastrial nucleus,PS,,,included in CCFv3
+876,Hypothalamus,1124,Suprachiasmatic preoptic nucleus,PSCH,n/a,n/a,,,not annotated in CCFv3
+877,Hypothalamus,126,"Periventricular hypothalamic nucleus, posterior part",PVp,"Arcuate hypothalamic nucleus, lateroposterior part",ArcLP,,,included in CCFv3
+878,Hypothalamus,n/a,n/a,n/a,"Arcuate hypothalamic nucleus, medial posterior part",ArcMP,,,
+879,Hypothalamus,133,"Periventricular hypothalamic nucleus, preoptic part",PVpo,Periventricular hypothalamic nucleus,Pe,,,included in CCFv3
+880,Hypothalamus,347,Subparaventricular zone,SBPV,Subparaventricular zone of the hypothalamus ,SPa,,,included in CCFv3
+881,Hypothalamus,286,Suprachiasmatic nucleus,SCH,Suprachiasmatic nucleus,SCh,,,included in CCFv3
+882,Hypothalamus,n/a,n/a,n/a,"Suprachiasmatic nucleus, dorsomedial part",SChDM,,,
+883,Hypothalamus,n/a,n/a,n/a,"Suprachiasmatic nucleus, ventrolateral part",SChVL,,,
+884,Hypothalamus,338,Subfornical organ,SFO,Subfornical organ,SFO,,,included in CCFv3
+885,Hypothalamus,576073699,Ventromedial preoptic nucleus,VMPO,Ventromedial preoptic nucleus ,VMPO ,,new in CCFv3,included in CCFv3
+886,Hypothalamus,689,Ventrolateral preoptic nucleus,VLPO,Ventrolateral preoptic nucleus,VLPO ,,,included in CCFv3
+887,Hypothalamus,467,Hypothalamic medial zone,MEZ,n/a,n/a,,,included in CCFv3
+888,Hypothalamus,88,Anterior hypothalamic nucleus,AHN,Anterior hypothalamic nucleus,AH,,,included in CCFv3
+889,Hypothalamus,700,"Anterior hypothalamic nucleus, anterior part",AHNa,"Anterior hypothalamic area, anterior part",AHA,,,not annotated in CCFv3
+890,Hypothalamus,708,"Anterior hypothalamic nucleus, central part",AHNc,"Anterior hypothalamic area, central part",AHC,,,not annotated in CCFv3
+891,Hypothalamus,716,"Anterior hypothalamic nucleus, dorsal part",AHNd,n/a,n/a,,,not annotated in CCFv3
+892,Hypothalamus,724,"Anterior hypothalamic nucleus, posterior part",AHNp,"Anterior hypothalamic area, posterior part",AHP,,,not annotated in CCFv3
+893,Hypothalamus,331,Mammillary body,MBO,Mamillary body,MB,,,included in CCFv3
+894,Hypothalamus,210,Lateral mammillary nucleus,LM,Lateral mammillary nucleus,LM,,,included in CCFv3
+895,Hypothalamus,491,Medial mammillary nucleus,MM,n/a,n/a,,,included in CCFv3
+896,Hypothalamus,732,"Medial mammillary nucleus, median part",MMme,"Medial mammillary nucleus, median",MMn,,,included in CCFv3
+897,Hypothalamus,606826647,"Medial mammillary nucleus, lateral part",MMl,"Medial mammillary nucleus, lateral part ",ML,,new in CCFv3,included in CCFv3
+898,Hypothalamus,606826651,"Medial mammillary nucleus, medial part",MMm,"Medial mammillary nucleus, medial part ",MM,,new in CCFv3,included in CCFv3
+899,Hypothalamus,606826655,"Medial mammillary nucleus, posterior part",MMp,n/a,n/a,,new in CCFv3,included in CCFv3
+900,Hypothalamus,606826659,"Medial mammillary nucleus, dorsal part",MMd,n/a,n/a,,new in CCFv3,included in CCFv3
+901,Hypothalamus,525,Supramammillary nucleus,SUM,Retromamillary nucleus,RM,,,included in CCFv3
+902,Hypothalamus,1110,"Supramammillary nucleus, lateral part",SUMl,"Retromamillary nucleus, lateral part",RML,,,not annotated in CCFv3
+903,Hypothalamus,1118,"Supramammillary nucleus, medial part",SUMm,"Retromammillary nucleus, medial part",RMM,,,not annotated in CCFv3
+904,Hypothalamus,557,Tuberomammillary nucleus,TM,Tuberomamillary nucleus,TM,,,included in CCFv3
+905,Hypothalamus,1126,"Tuberomammillary nucleus, dorsal part",TMd,Dorsal tuberomammillary nucleus,DTM,,,included in CCFv3
+906,Hypothalamus,1,"Tuberomammillary nucleus, ventral part",TMv,Ventral tuberomammillary nucleus ,VTM ,,,included in CCFv3
+907,Hypothalamus,515,Medial preoptic nucleus,MPN,Medial preoptic nucleus ,MPO,,,included in CCFv3
+908,Hypothalamus,740,"Medial preoptic nucleus, central part",MPNc,n/a,n/a,,,not annotated in CCFv3
+909,Hypothalamus,748,"Medial preoptic nucleus, lateral part",MPNl,"Medial preoptic nucleus, lateral part ",MPOL,,,not annotated in CCFv3
+910,Hypothalamus,756,"Medial preoptic nucleus, medial part",MPNm,"Medial preoptic nucleus, medial part ",MPOM,,,not annotated in CCFv3
+911,Hypothalamus,980,Dorsal premammillary nucleus,PMd,"Premammillary nucleus, dorsal part",PMD,,,included in CCFv3
+912,Hypothalamus,1004,Ventral premammillary nucleus,PMv,"Premammillary nucleus, ventral part",PMV,,,included in CCFv3
+913,Hypothalamus,63,"Paraventricular hypothalamic nucleus, descending division",PVHd,n/a,n/a,,,included in CCFv3
+914,Hypothalamus,439,"Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part",PVHdp,"Paraventricular hypothalamic nucleus, dorsal cap",PaDC,,,not annotated in CCFv3
+915,Hypothalamus,447,"Paraventricular hypothalamic nucleus, descending division, forniceal part",PVHf,n/a,n/a,,,not annotated in CCFv3
+916,Hypothalamus,455,"Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part",PVHlp,"Paraventricular hypothalamic nucleus, posterior part",PaPo,,,not annotated in CCFv3
+917,Hypothalamus,464,"Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone",PVHmpv,n/a,n/a,,,not annotated in CCFv3
+918,Hypothalamus,693,Ventromedial hypothalamic nucleus,VMH,Ventromedial hypothalamic nucleus ,VMH ,,,included in CCFv3
+919,Hypothalamus,761,"Ventromedial hypothalamic nucleus, anterior part",VMHa,n/a,n/a,,,not annotated in CCFv3
+920,Hypothalamus,769,"Ventromedial hypothalamic nucleus, central part",VMHc,"Ventromedial hypothalamic nucleus, central part ",VMHC ,,,not annotated in CCFv3
+921,Hypothalamus,777,"Ventromedial hypothalamic nucleus, dorsomedial part",VMHdm,"Ventromedial hypothalamic nucleus, dorsomedial part",VMHDM ,,,not annotated in CCFv3
+922,Hypothalamus,785,"Ventromedial hypothalamic nucleus, ventrolateral part",VMHvl,"Ventromedial hypothalamic nucleus, ventrolateral part ",VMHVL ,,,not annotated in CCFv3
+923,Hypothalamus,n/a,n/a,n/a,"Ventromedial hypothalamic nucleus, shell region",VMHSh,,,
+924,Hypothalamus,946,Posterior hypothalamic nucleus,PH,Posterior hypothalamic nucleus,PH,,,included in CCFv3
+925,Hypothalamus,n/a,n/a,n/a,Posterior hypothalamic area,PHA,,,
+926,Hypothalamus,n/a,n/a,n/a,"Posterior hypothalamic area, dorsal part",PHD,,,
+927,Hypothalamus,290,Hypothalamic lateral zone,LZ,n/a,n/a,,,included in CCFv3
+928,Hypothalamus,194,Lateral hypothalamic area,LHA,Lateral hypothalamic area,LH,,,included in CCFv3
+929,Hypothalamus,n/a,n/a,n/a,Ventrolateral hypothalamic nucleus ,VLH ,,,
+930,Hypothalamus,n/a,n/a,n/a,Peduncular lateral hypothalamus,PLH,,,
+931,Hypothalamus,n/a,n/a,n/a,Tuberal region of lateral hypothalamus,TuLH,,,
+932,Hypothalamus,n/a,n/a,n/a,Perifornical part of lateral hypothalamus,PeFLH,,,
+933,Hypothalamus,226,Lateral preoptic area,LPO,Lateral preoptic area,LPO,,,included in CCFv3
+934,Hypothalamus,356,Preparasubthalamic nucleus,PST,n/a,n/a,,,included in CCFv3
+935,Hypothalamus,364,Parasubthalamic nucleus,PSTN,Parasubthalamic nucleus,PSTh,,,included in CCFv3
+936,Hypothalamus,576073704,Perifornical nucleus,PeF,Perifornical nucleus,PeF,,new in CCFv3,included in CCFv3
+937,Hypothalamus,n/a,n/a,n/a,"Perifornical nucleus, lateral part",PeFL,,,
+938,Hypothalamus,n/a,n/a,n/a,"Perifornical nucleus, medial part",PeFM,,,
+939,Hypothalamus,n/a,n/a,n/a,Anterior perifornical nucleus,APF,,,
+940,Hypothalamus,173,Retrochiasmatic area,RCH,Retrochiasmatic area,RCh,,,included in CCFv3
+941,Hypothalamus,n/a,n/a,n/a,"Retrochiasmatic area, lateral part",RChL,,,
+942,Hypothalamus,470,Subthalamic nucleus,STN,Subthalamic nucleus ,STh,,,included in CCFv3
+943,Hypothalamus,614,Tuberal nucleus,TU,Medial tuberal nucleus ,MTu,,,included in CCFv3
+944,Hypothalamus,n/a,n/a,n/a,Lateral tuberal nucleus,LTu,,,
+945,Hypothalamus,n/a,n/a,n/a,Tuber cinereum area ,TC,,,
+946,Hypothalamus,n/a,n/a,n/a,Terete hypothalmic nucleus,Te,,,
+947,Hypothalamus,n/a,n/a,n/a,Pareterete nucleus,PTe,,,
+948,Hypothalamus,797,Zona incerta,ZI,Zona incerta,ZI,,,included in CCFv3
+949,Hypothalamus,n/a,n/a,n/a,"Zona incerta, caudal part",ZIC,,,
+950,Hypothalamus,n/a,n/a,n/a,"Zona incerta, rostral part",ZIR,,,
+951,Hypothalamus,n/a,n/a,n/a,"Zona incerta, ventral part",ZIV,,,
+952,Hypothalamus,n/a,n/a,n/a,"Zona incerta, dorsal part",ZID,,,
+953,Hypothalamus,n/a,n/a,n/a,Subincertal nucleus ,SubI,,,
+954,Hypothalamus,796,Dopaminergic A13 group,A13,DA13 dopamine cells,DA13,,,not annotated in CCFv3
+955,Hypothalamus,804,Fields of Forel,FF,Fields of Forel,FF,,,included in CCFv3
+956,Hypothalamus,n/a,n/a,n/a,nucleus of the field of Forel,F,,,
+957,Hypothalamus,10671,Median eminence,ME,median eminence,ME,,,included in CCFv3
+958,Hypothalamus,n/a,n/a,n/a,"Medial eminence, external layer",MEE,,,
+959,Hypothalamus,n/a,n/a,n/a,"Medial eminence, internal layer",MEI,,,
+960,Hypothalamus,n/a,n/a,n/a,Anterior commissural nucleus,AC ,,,
+961,Hypothalamus,n/a,n/a,n/a,Stria1 part of the preoptic area,StA,,,
+962,Hypothalamus,n/a,n/a,n/a,Stigmoid hypothalamic nucleus,Stg,,,
+963,Hypothalamus,n/a,n/a,n/a,Magnocellular nucleus of the lateral hypothalamus,MCLH,,,
+964,Hypothalamus,n/a,n/a,n/a,Lateroanterior hypothalamic nucleus,LA,,,
+965,Hypothalamus,n/a,n/a,n/a,Gemini hypothalamic nucleus,Gem,,,
+966,Hypothalamus,n/a,n/a,n/a,Anterior lobe of pituitary,APit ,,,
+967,Hypothalamus,n/a,n/a,n/a,A11 dopamine cells,A11 ,,,
+968,Hypothalamus,n/a,n/a,n/a,A12 dopamine cells,A12 ,,,
+969,Hypothalamus,n/a,n/a,n/a,A14 dopamine cells,A14 ,,,
+970,Hypothalamus,n/a,n/a,n/a,Submammillothalamic nucleus,SMT,,,
+971,Hypothalamus,n/a,n/a,n/a,Juxtaparaventricular part of the lateral hypothalamus,JPLH,,,
+972,Hypothalamus,n/a,n/a,n/a,Dorsal hypothalamic area,DA,,,
+973,Hypothalamus,n/a,n/a,n/a,Accessory neurosecretory nuclei,ANS,,,
+974,Hypothalamus,n/a,n/a,n/a,Anteromedial preoptic nucleus,AMPO,,,
+975,Midbrain,313,Midbrain,MB,n/a,n/a,,,included in CCFv3
+976,Midbrain,339,"Midbrain, sensory related",MBsen,n/a,n/a,,,included in CCFv3
+977,Midbrain,302,"Superior colliculus, sensory related",SCs,Superior colliculus,SC,,,included in CCFv3
+978,Midbrain,851,"Superior colliculus, optic layer",SCop,Optic nerve layer of the superior colliculus ,Op,,,included in CCFv3
+979,Midbrain,842,"Superior colliculus, superficial gray layer",SCsg,Superficial gray layer of the superior colliculus ,SuG,,,included in CCFv3
+980,Midbrain,834,"Superior colliculus, zonal layer",SCzo,Zonal layer of the superior colliculus,Zo ,,,included in CCFv3
+981,Midbrain,4,Inferior colliculus,IC,Inferior colliculus,IC,,,included in CCFv3
+982,Midbrain,811,"Inferior colliculus, central nucleus",ICc,Central nucleus of the inferior colliculus,CIC,,,included in CCFv3
+983,Midbrain,820,"Inferior colliculus, dorsal nucleus",ICd,Dorsal cortex of the inferior colliculus,DCIC,,,included in CCFv3
+984,Midbrain,n/a,n/a,n/a,"Dorsal cortex of the inferior colliculus, layer 1",DCIC1,,,
+985,Midbrain,n/a,n/a,n/a,"Dorsal cortex of the inferior colliculus, layer 2",DCIC2,,,
+986,Midbrain,n/a,n/a,n/a,"Dorsal cortex of the inferior colliculus, layer 3",DCIC3,,,
+987,Midbrain,828,"Inferior colliculus, external nucleus",ICe,External cortex of the inferior colliculus,ECIC,,,included in CCFv3
+988,Midbrain,n/a,n/a,n/a,"External cortex of the inferior colliculus, layer 1",ECIC1,,,
+989,Midbrain,n/a,n/a,n/a,"External cortex of the inferior colliculus, layer 2",ECIC2,,,
+990,Midbrain,n/a,n/a,n/a,"External cortex of the inferior colliculus, layer 3",ECIC3,,,
+991,Midbrain,580,Nucleus of the brachium of the inferior colliculus,NB,Nucleus of the brachiurn of the inferior colliculus,BIC,,,included in CCFv3
+992,Midbrain,271,Nucleus sagulum,SAG,Sagulum nucleus,Sag,,,included in CCFv3
+993,Midbrain,874,Parabigeminal nucleus,PBG,Parabigeminal nucleus,PBG,,,included in CCFv3
+994,Midbrain,460,Midbrain trigeminal nucleus,MEV,Mesencephalic trigeminal nucleus,Me5,,,included in CCFv3
+995,Midbrain,599626923,Subcommissural organ,SCO,Subcommissural organ,SCO,,new in CCFv3,included in CCFv3
+996,Midbrain,n/a,n/a,n/a,Subbrachial nucleus ,SubB,,,
+997,Midbrain,n/a,n/a,n/a,Retrolemniscal nucleus,RL,,,
+998,Midbrain,323,"Midbrain, motor related",MBmot,n/a,n/a,,,included in CCFv3
+999,Midbrain,381,"Substantia nigra, reticular part",SNr,"Substantia nigra, reticular part",SNR,,,included in CCFv3
+1000,Midbrain,749,Ventral tegmental area,VTA,Ventral tegmental area ,VTA ,,,included in CCFv3
+1001,Midbrain,n/a,n/a,n/a,"Ventral tegmental area, caudal part",VTAC,,,
+1002,Midbrain,n/a,n/a,n/a,"Ventral tegmental area, rostral part",VTAR,,,
+1003,Midbrain,n/a,n/a,n/a,Parabrachial pigmented nucleus of the ventral tegmental area,PBP,,,
+1004,Midbrain,n/a,n/a,n/a,Parainterfascicular nucleus of the ventral tegmental area,PIF,,,
+1005,Midbrain,607344830,Paranigral nucleus,PN,Paranigral nucleus of the ventral tegmental area,PN,,new in CCFv3,included in CCFv3
+1006,Midbrain,246,Retrorubral area,RR,Retrorubral field,RRF,,,included in CCFv3
+1007,Midbrain,n/a,n/a,n/a,Retrorubral field and DA8 dopamine cells,RRF/DA8,,,
+1008,Midbrain,128,Midbrain reticular nucleus,MRN,Mesencephalic reticular formation,mRt,,,included in CCFv3
+1009,Midbrain,539,"Midbrain reticular nucleus, magnocellular part",MRNm,n/a,n/a,,,not annotated in CCFv3
+1010,Midbrain,548,"Midbrain reticular nucleus, magnocellular part, general",MRNmg,n/a,n/a,,,not annotated in CCFv3
+1011,Midbrain,555,"Midbrain reticular nucleus, parvicellular part",MRNp,n/a,n/a,,,not annotated in CCFv3
+1012,Midbrain,n/a,n/a,n/a,Isthmic reticular formation,isRt,,,
+1013,Midbrain,n/a,n/a,n/a,Prosomere 1 reticular formation,p1Rt,,,
+1014,Midbrain,294,"Superior colliculus, motor related",SCm,Superior colliculus,SC,,,included in CCFv3
+1015,Midbrain,26,"Superior colliculus, motor related, deep gray layer",SCdg,Deep gray layer of the superior colliculus,DpG,,,included in CCFv3
+1016,Midbrain,42,"Superior colliculus, motor related, deep white layer",SCdw,Deep white layer of the superior colliculus,DpWh,,,included in CCFv3
+1017,Midbrain,17,"Superior colliculus, motor related, intermediate white layer",SCiw,Intermediate white layer of the superior colliculus,InWh,,,included in CCFv3
+1018,Midbrain,10,"Superior colliculus, motor related, intermediate gray layer",SCig,Intermediate gray layer of the superior colliculus,InG,,,included in CCFv3
+1019,Midbrain,494,"Superior colliculus, motor related, intermediate gray layer, sublayer a",SCig-a,n/a,n/a,,,not annotated in CCFv3
+1020,Midbrain,503,"Superior colliculus, motor related, intermediate gray layer, sublayer b",SCig-b,n/a,n/a,,,not annotated in CCFv3
+1021,Midbrain,511,"Superior colliculus, motor related, intermediate gray layer, sublayer c",SCig-c,n/a,n/a,,,not annotated in CCFv3
+1022,Midbrain,n/a,n/a,n/a,Rrecess of the inferior colliculus,ReIC,,,
+1023,Midbrain,n/a,n/a,n/a,Mesencephalic periaqueductal gray,mPAG,,,
+1024,Midbrain,795,Periaqueductal gray,PAG,Periaqueductal gray,PAG,,,included in CCFv3
+1025,Midbrain,n/a,n/a,n/a,Dorsolateral periaqueductal gray,DLPAG,,,
+1026,Midbrain,n/a,n/a,n/a,Dorsomedial periaqueductal gray,DMPAG,,,
+1027,Midbrain,n/a,n/a,n/a,Lateral periaqueductal gray,LPAG,,,
+1028,Midbrain,n/a,n/a,n/a,Ventrolateral periaqueductal gray,VLPAG ,,,
+1029,Midbrain,n/a,n/a,n/a,Pleioglia periaqueductal gray,PlPAG,,,
+1030,Midbrain,n/a,n/a,n/a,Prosomere 1 periaqueductal gray,p1PAG,,,
+1031,Midbrain,50,Precommissural nucleus,PRC,Precommissural nucleus,PrC,,,included in CCFv3
+1032,Midbrain,67,Interstitial nucleus of Cajal,INC,Interstitial nucleus of Cajal,InC,,,included in CCFv3
+1033,Midbrain,n/a,n/a,n/a,"Interstitial nucleus of Cajal, shell region",InCSh,,,
+1034,Midbrain,n/a,n/a,n/a,Rostral interstitial nucleus of medial longitudinal fasciculus,RI,,,
+1035,Midbrain,587,Nucleus of Darkschewitsch,ND,Nucleus of Darkschewitsch,Dk,,,included in CCFv3
+1036,Midbrain,614454277,Supraoculomotor periaqueductal gray,Su3,Supraoculomotor periaqueductal gray,Su3,,new in CCFv3,included in CCFv3
+1037,Midbrain,1100,Pretectal region,PRT,n/a,n/a,,,included in CCFv3
+1038,Midbrain,215,Anterior pretectal nucleus,APN,Anterior pretectal nucleus,APT ,,,included in CCFv3
+1039,Midbrain,n/a,n/a,n/a,"Anterior pretectal nucleus, dorsal part",APTD ,,,
+1040,Midbrain,n/a,n/a,n/a,"Anterior pretectal nucleus, ventral part",APTV ,,,
+1041,Midbrain,531,Medial pretectal area,MPT,Medial pretectal nucleus ,MPT,,,included in CCFv3
+1042,Midbrain,628,Nucleus of the optic tract,NOT,Nucleus of the optic tract ,OT,,,included in CCFv3
+1043,Midbrain,634,Nucleus of the posterior commissure,NPC,Nucleus of the posterior commissure,PCom,,,included in CCFv3
+1044,Midbrain,n/a,n/a,n/a,Commissural nucleus of the inferior colliculus,Com,,,
+1045,Midbrain,706,Olivary pretectal nucleus,OP,Olivary pretectal nucleus ,OPT,,,included in CCFv3
+1046,Midbrain,1061,Posterior pretectal nucleus,PPT,Posterior pretectal nucleus,PPT,,,included in CCFv3
+1047,Midbrain,549009203,Retroparafascicular nucleus,RPF,Retroparafascicular nucleus,RPF,,,included in CCFv3
+1048,Midbrain,549009207,Intercollicular nucleus,InCo,n/a,n/a,,,not annotated in CCFv3
+1049,Midbrain,616,Cuneiform nucleus,CUN,Cuneiform nucleus,CnF,,,included in CCFv3
+1050,Midbrain,n/a,n/a,n/a,"Cuneiform nucleus, ventral part",CnFV,,,
+1051,Midbrain,n/a,n/a,n/a,Precuneiform area,PrCnF,,,
+1052,Midbrain,214,Red nucleus,RN,Red nucleus,R,,,included in CCFv3
+1053,Midbrain,n/a,n/a,n/a,"Red nucleus, parvicellular part",RPC,,,
+1054,Midbrain,n/a,n/a,n/a,"Red nucleus, magnocellular part",RMC,,,
+1055,Midbrain,n/a,n/a,n/a,Pararubral nucleus,PaR,,,
+1056,Midbrain,n/a,n/a,n/a,Prerubral field,PR,,,
+1057,Midbrain,35,Oculomotor nucleus,III,Oculomotor nucleus,3N ,,,included in CCFv3
+1058,Midbrain,549009211,Medial accesory oculomotor nucleus,MA3,Medial accessory oculomotor nucleus,MA3,,new in CCFv3,included in CCFv3
+1059,Midbrain,n/a,n/a,n/a,"Oculomotor nucleus, parvicellular part",3PC ,,,
+1060,Midbrain,n/a,n/a,n/a,Interoculomotor nucleus,I3,,,
+1061,Midbrain,n/a,n/a,n/a,Supraoculomotor cap,Su3C,,,
+1062,Midbrain,975,Edinger-Westphal nucleus,EW,Edinger-Westphal nucleus,EW,,,included in CCFv3
+1063,Midbrain,n/a,n/a,n/a,Pre-Edinger-Westphal nucleus,PrEW,,,
+1064,Midbrain,115,Trochlear nucleus,IV,Trochlear nucleus,4N ,,,included in CCFv3
+1065,Midbrain,n/a,n/a,n/a,Trochlear nucleus shell region,4Sh,,,
+1066,Midbrain,606826663,Paratrochlear nucleus,Pa4,Paratrochlear nucleus,Pa4,,new in CCFv3,included in CCFv3
+1067,Midbrain,n/a,n/a,n/a,Microcellular tegmental nucleus,MiTg,,,
+1068,Midbrain,757,Ventral tegmental nucleus,VTN,Ventral tegmental nucleus ,VTg ,,,included in CCFv3
+1069,Midbrain,231,Anterior tegmental nucleus,AT,Anterior tegmental nucleus,ATg,,,included in CCFv3
+1070,Midbrain,66,Lateral terminal nucleus of the accessory optic tract,LT,Lateral terminal nucleus of the accessory optic tract,LT,,,included in CCFv3
+1071,Midbrain,75,Dorsal terminal nucleus of the accessory optic tract,DT,Dorsal terminal nucleus of the accessory optic tract,DT,,,included in CCFv3
+1072,Midbrain,58,Medial terminal nucleus of the accessory optic tract,MT,Medial terminal nucleus of the accessory optic tract ,MT,,,included in CCFv3
+1073,Midbrain,615,"Substantia nigra, lateral part",SNl,"Substantia nigra, lateral part",SNL,,,not annotated in CCFv3
+1074,Midbrain,348,"Midbrain, behavioral state related",MBsta,n/a,n/a,,,included in CCFv3
+1075,Midbrain,374,"Substantia nigra, compact part",SNc,"Substantia nigra, compact part",SNC,,,included in CCFv3
+1076,Midbrain,n/a,n/a,n/a,"Substantia nigra, compact part, dorsal tier",SNCD,,,
+1077,Midbrain,n/a,n/a,n/a,"Substantia nigra, compact part, medial tier",SNCM,,,
+1078,Midbrain,n/a,n/a,n/a,"Subtantia nigra, compact part, ventral tier",SNCV,,,
+1079,Midbrain,n/a,n/a,n/a,"Substantia nigra, compact part, ventrolateral division",SNCVL,,,
+1080,Midbrain,n/a,n/a,n/a,"Substantia nigra, compact part, ventromedial division",SNCVM,,,
+1081,Midbrain,1052,Pedunculopontine nucleus,PPN,Pedunculotegmental nucleus,PTg,,,included in CCFv3
+1082,Midbrain,165,Midbrain raphe nuclei,RAmb,n/a,n/a,,,included in CCFv3
+1083,Midbrain,12,Interfascicular nucleus raphe,IF,Interfascicular nucleus,IF,,,included in CCFv3
+1084,Midbrain,100,Interpeduncular nucleus,IPN,Interpeduncular nucleus,IP,,,included in CCFv3
+1085,Midbrain,607344834,"Interpeduncular nucleus, rostral",IPR,"Interpeduncular nucleus, apical subnucleus",IPA,,new in CCFv3,included in CCFv3
+1086,Midbrain,607344838,"Interpeduncular nucleus, caudal",IPC,"Interpeduncular nucleus, rostra1 subnucleus",IPR,,new in CCFv3,included in CCFv3
+1087,Midbrain,607344842,"Interpeduncular nucleus, apical",IPA,"Interpeduncular nucleus, caudal subnucleus",IPC,,new in CCFv3,included in CCFv3
+1088,Midbrain,607344846,"Interpeduncular nucleus, lateral",IPL,"Interpeduncular nucleus, lateral subnucleus",IPL,,new in CCFv3,included in CCFv3
+1089,Midbrain,607344850,"Interpeduncular nucleus, intermediate",IPI,"Interpeduncular nucleus, intermediate subnucleus",IPI,,new in CCFv3,included in CCFv3
+1090,Midbrain,607344854,"Interpeduncular nucleus, dorsomedial",IPDM,"Interpeduncular nucleus, dorsolateral subnucleus",IPDL,,new in CCFv3,included in CCFv3
+1091,Midbrain,607344858,"Interpeduncular nucleus, dorsolateral",IPDL,"Interpeduncular nucleus, dorsomedial subnucleus",IPDM,,new in CCFv3,included in CCFv3
+1092,Midbrain,607344862,"Interpeduncular nucleus, rostrolateral",IPRL,n/a,n/a,,new in CCFv3,included in CCFv3
+1093,Midbrain,197,Rostral linear nucleus raphe,RL,Rostral linear nucleus of the raphe,RLi,,,included in CCFv3
+1094,Midbrain,591,Central linear nucleus raphe,CLI,Caudal linear nucleus of the raphe,CLi,,,included in CCFv3
+1095,Midbrain,872,Dorsal nucleus raphe,DR,Dorsal raphe nucleus,DR,,,included in CCFv3
+1096,Midbrain,n/a,n/a,n/a,"Dorsal raphe nucleus, caudal part",DRC,,,
+1097,Midbrain,n/a,n/a,n/a,"Dorsal raphe nucleus, dorsal part",DRD,,,
+1098,Midbrain,n/a,n/a,n/a,"dorsal raphe nucleus, lateral part",DRL,,,
+1099,Midbrain,n/a,n/a,n/a,"Dorsal raphe nucleus, interfascicular part",DRI,,,
+1100,Midbrain,n/a,n/a,n/a,Compact interfascicular nucleus,CIF,,,
+1101,Midbrain,n/a,n/a,n/a,"Dorsal raphe nucleus, ventral part",DRV,,,
+1102,Midbrain,n/a,n/a,n/a,"Dorsal raphe nucleus, ventrolateral part",DRVL,,,
+1103,Midbrain,n/a,n/a,n/a,Epimicrocellular nucleus,EMi,,,
+1104,Midbrain,n/a,n/a,n/a,Paracollicular tegmentum,PCTg,,,
+1105,Midbrain,n/a,n/a,n/a,Subcommissural nucleus,SCom,,,
+1106,Midbrain,n/a,n/a,n/a,Posterodorsal raphe nucleus,PDR,,,
+1107,Midbrain,n/a,n/a,n/a,Magnocellular nucleus of the posterior commissure,MCPC,,,
+1108,Midbrain,n/a,n/a,n/a,Retroisthmic nucleus,RIs,,,
+1109,Midbrain,n/a,n/a,n/a,Lithoid nucleus,Lth,,,
+1110,Midbrain,n/a,n/a,n/a,Rhombomere 1 reticular formation,r1Rt,,,
+1111,Hindbrain,1065,Hindbrain,HB,n/a,n/a,,,included in CCFv3
+1112,Pons,771,Pons,P,n/a,n/a,,,included in CCFv3
+1113,Pons,1132,"Pons, sensory related",P-sen,n/a,n/a,,,included in CCFv3
+1114,Pons,612,Nucleus of the lateral lemniscus,NLL,n/a,n/a,,,included in CCFv3
+1115,Pons,82,"Nucleus of the lateral lemniscus, dorsal part",NLLd,Dorsal nucleus of the lateral lemniscus,DLL,,,not annotated in CCFv3
+1116,Pons,90,"Nucleus of the lateral lemniscus, horizontal part",NLLh,Intermediate nucleus of the lateral lemniscus,ILL,,,not annotated in CCFv3
+1117,Pons,99,"Nucleus of the lateral lemniscus, ventral part",NLLv,Ventral nucleus of the lateral lemniscus,VLL ,,,not annotated in CCFv3
+1118,Pons,n/a,n/a,n/a,Triangular nucleus of the lateral lemniscus,TrLL,,,
+1119,Pons,n/a,n/a,n/a,Epirubrospinal nucleus,ERS,,,
+1120,Pons,n/a,n/a,n/a,Paralemniscal nucleus,PL,,,
+1121,Pons,n/a,n/a,n/a,Medial paralemniscial nucleus,MPL,,,
+1122,Pons,n/a,n/a,n/a,"Perilemniscal nucleus, ventral part",PLV,,,
+1123,Pons,n/a,n/a,n/a,Supralemniscal nucleus,SuL,,,
+1124,Pons,7,Principal sensory nucleus of the trigeminal,PSV,Principal sensory trigeminal nucleus,Pr5,,,included in CCFv3
+1125,Pons,n/a,n/a,n/a,"Principal sensory trigeminal nucleus, dorsomedial part",Pr5DM,,,
+1126,Pons,n/a,n/a,n/a,"Principal sensory trigeminal nucleus, ventrolateral part",Pr5VL,,,
+1127,Pons,867,Parabrachial nucleus,PB,Parabrachial nucleus,PB,,,included in CCFv3
+1128,Pons,123,Koelliker-Fuse subnucleus,KF,Kolliker-Fuse nucleus,KF,,,included in CCFv3
+1129,Pons,881,"Parabrachial nucleus, lateral division",PBl,Lateral parabrachial nucleus,LPB,,,not annotated in CCFv3
+1130,Pons,860,"Parabrachial nucleus, lateral division, central lateral part",PBlc,"Lateral parabrachial nucleus, central part",LPBC,,,not annotated in CCFv3
+1131,Pons,868,"Parabrachial nucleus, lateral division, dorsal lateral part",PBld,"Lateral parabrachial nucleus, dorsal part",LPBD,,,not annotated in CCFv3
+1132,Pons,875,"Parabrachial nucleus, lateral division, external lateral part",PBle,"Lateral parabrachial nucleus, external part",LPBE,,,not annotated in CCFv3
+1133,Pons,883,"Parabrachial nucleus, lateral division, superior lateral part",PBls,"Lateral parabrachial nucleus, superior part",LPBS,,,not annotated in CCFv3
+1134,Pons,891,"Parabrachial nucleus, lateral division, ventral lateral part",PBlv,"Lateral parabrachial nucleus, ventral part",LPBV,,,not annotated in CCFv3
+1135,Pons,n/a,n/a,n/a,"Lateral parabrachial nucleus, internal part",LPBI,,,
+1136,Pons,n/a,n/a,n/a,"Lateral parabrachial nucleus, crescent part",LPBCr,,,
+1137,Pons,890,"Parabrachial nucleus, medial division",PBm,n/a,n/a,,,not annotated in CCFv3
+1138,Pons,899,"Parabrachial nucleus, medial division, external medial part",PBme,Medial parabrachial nucleus external part,MPBE,,,not annotated in CCFv3
+1139,Pons,915,"Parabrachial nucleus, medial division, medial medial part",PBmm,Medial parabrachial nucleus ,MPB,,,not annotated in CCFv3
+1140,Pons,923,"Parabrachial nucleus, medial division, ventral medial part",PBmv,n/a,n/a,,,not annotated in CCFv3
+1141,Pons,398,Superior olivary complex,SOC,Superior olive,SOl,,,included in CCFv3
+1142,Pons,122,"Superior olivary complex, periolivary region",POR,Dorsal periolivary region,DPO,,,included in CCFv3
+1143,Pons,105,"Superior olivary complex, medial part",SOCm,Medial superior olive ,MSO,,,included in CCFv3
+1144,Pons,114,"Superior olivary complex, lateral part",SOCl,Lateral superior olive,LSO,,,included in CCFv3
+1145,Pons,n/a,n/a,n/a,Superior paraolivary nucleus,SPO,,,
+1146,Pons,n/a,n/a,n/a,Caudal periolivary nucleus,CPO,,,
+1147,Pons,n/a,n/a,n/a,Lateroventral periolivary nucleus,LVPO,,,
+1148,Pons,n/a,n/a,n/a,Medioventral periolivary nucleus,MVPO,,,
+1149,Pons,n/a,n/a,n/a,Nucleus of the central acoustic tract,CAT,,,
+1150,Pons,987,"Pons, motor related",P-mot,n/a,n/a,,,included in CCFv3
+1151,Pons,280,Barrington's nucleus,B,Barrington's nucleus,Bar,,,included in CCFv3
+1152,Pons,880,Dorsal tegmental nucleus,DTN,Dorsal tegmental nucleus,DTg,,,included in CCFv3
+1153,Pons,n/a,n/a,n/a,"Dorsal tegmental nucleus, central part",DTgC,,,
+1154,Pons,n/a,n/a,n/a,"Dorsal tegmental nucleus, pericentral part",DTgP,,,
+1155,Pons,283,Lateral tegmental nucleus,LTN,Laterodorsal tegmental nucleus,LDTg,,,not annotated in CCFv3
+1156,Pons,n/a,n/a,n/a,"Laterodorsal tegmental nucleus, ventral part",LDTgV,,,
+1157,Pons,599626927,Posterodorsal tegmental nucleus,PDTg,Posterodorsal tegmental nucleus,PDTg,,new in CCFv3,included in CCFv3
+1158,Pons,n/a,n/a,n/a,Sphenoid nucleus,Sph,,,
+1159,Pons,n/a,n/a,n/a,Dorsomedial tegmental area,DMTg,,,
+1160,Pons,898,Pontine central gray,PCG,Central gray of the pons,CGPn,,,included in CCFv3
+1161,Pons,931,Pontine gray,PG,Pontine nuclei,Pn,,,included in CCFv3
+1162,Pons,1093,"Pontine reticular nucleus, caudal part",PRNc,"Pontine reticular nucleus, caudal part",PnC,,,included in CCFv3
+1163,Pons,552,"Pontine reticular nucleus, ventral part",PRNv,"Pontine reticular nucleus, ventral part",PnV,,,not annotated in CCFv3
+1164,Pons,318,Supragenual nucleus,SG,Supragenual nucleus,SGe,,,included in CCFv3
+1165,Pons,462,Superior salivatory nucleus,SSN,Superior salivatory nucleus,SuS,,,not annotated in CCFv3
+1166,Pons,534,Supratrigeminal nucleus,SUT,Supratrigeminal nucleus,Su5,,,included in CCFv3
+1167,Pons,574,Tegmental reticular nucleus,TRN,Reticulotegmental nucleus of the pons,RtTg,,,included in CCFv3
+1168,Pons,n/a,n/a,n/a,"Reticulotegmental nucleus of the pons, pericentral part",RtTgP,,,
+1169,Pons,n/a,n/a,n/a,"Reticulotegmental nucleus of the pons, lateral part",RtTgL,,,
+1170,Pons,n/a,n/a,n/a,Subpeduncular tegmental nucleus,SPTg,,,
+1171,Pons,621,Motor nucleus of trigeminal,V,Motor trigeminal nucleus ,5N,,,included in CCFv3
+1172,Pons,549009215,Peritrigeminal zone,P5,Peritrigeminal zone,P5,,new in CCFv3,included in CCFv3
+1173,Pons,549009219,Accessory trigeminal nucleus,Acs5,"Motor trigeminal nucleus, anterior digastric part",5ADi,,new in CCFv3,included in CCFv3
+1174,Pons,549009223,Parvicellular motor 5 nucleus,PC5,Interfascicular trigeminar nucleus,IF5,,new in CCFv3,included in CCFv3
+1175,Pons,549009227,Intertrigeminal nucleus,I5,Intertrigeminal nucleus,I5,,new in CCFv3,included in CCFv3
+1176,Pons,n/a,n/a,n/a,"Motor trigeminal nucleus, masseter part",5Ma,,,
+1177,Pons,n/a,n/a,n/a,"Motor trigeminal nucleus, medial pterygoid part",5MPt,,,
+1178,Pons,n/a,n/a,n/a,"Motor trigeminal nucleus, temporalis part",5Te,,,
+1179,Pons,n/a,n/a,n/a,Trigeminal transition zone,5Tr,,,
+1180,Pons,n/a,n/a,n/a,Trigeminal-solitary transition zone,5Sol,,,
+1181,Pons,n/a,n/a,n/a,Paratrigeminal nucleus,Pa5,,,
+1182,Pons,n/a,n/a,n/a,"Motor trigeminal nucleus, lateral pterygoid part",5LPtg,,,
+1183,Pons,n/a,n/a,n/a,"Motor trigeminal  nucleus, mylohyoid part",5MHy,,,
+1184,Pons,1117,"Pons, behavioral state related",P-sat,n/a,n/a,,,included in CCFv3
+1185,Pons,679,Superior central nucleus raphe,CS,n/a,n/a,,,included in CCFv3
+1186,Pons,137,"Superior central nucleus raphe, lateral part",CSl,Paramedian raphe nucleus,PMnR,,,not annotated in CCFv3
+1187,Pons,130,"Superior central nucleus raphe, medial part",CSm,Median raphe nucleus ,MnR,,,not annotated in CCFv3
+1188,Pons,n/a,n/a,n/a,Raphe interpositus nucleus,RIP,,,
+1189,Pons,n/a,n/a,n/a,Raphe cap,RC,,,
+1190,Pons,147,Locus ceruleus,LC,Locus coeruleus,LC,,,included in CCFv3
+1191,Pons,162,Laterodorsal tegmental nucleus,LDT,Laterodorsal tegmental nucleus,LDTg,,,included in CCFv3
+1192,Pons,n/a,n/a,n/a,"Laterodorsal tegmental nucleus, ventral part",LDTgV,,,
+1193,Pons,n/a,n/a,n/a,Ventrolateral tegmental area ,VLTg ,,,
+1194,Pons,604,Nucleus incertus,NI,"Central gray, beta part",CGB,,,included in CCFv3
+1195,Pons,n/a,n/a,n/a,"Central gray, alpha part",CGA,,,
+1196,Pons,n/a,n/a,n/a,"Central gray, gamma ",CGG,,,
+1197,Pons,n/a,n/a,n/a,"Central gray, nucleus O",CGO,,,
+1198,Pons,146,"Pontine reticular nucleus, rostral part ",PRNr,"Pontine reticular nucleus, oral part",PnO,,,included in CCFv3
+1199,Pons,238,Nucleus raphe pontis,RPO,Pontine raphe nucleus,PnR,,,included in CCFv3
+1200,Pons,350,Subceruleus nucleus,SLC,"Subcoeruleus nucleus, alpha part",SubCA,,,included in CCFv3
+1201,Pons,n/a,n/a,n/a,"Subcoeruleus nucleus, dorsal part ",SubCD,,,
+1202,Pons,n/a,n/a,n/a,"Subcoeruleus nucleus, ventral part ",SubCV,,,
+1203,Pons,358,Sublaterodorsal nucleus,SLD,,,,,included in CCFv3
+1204,Pons,n/a,n/a,n/a,NA5 noradrenalin cells,NA5,,,
+1205,Pons,n/a,n/a,n/a,NA7 noradrenalin cells,NA7,,,
+1206,Pons,n/a,n/a,n/a,B9 serotonin cells,B9,,,
+1207,Pons,n/a,n/a,n/a,Rhabdoid nucleus,Rbd,,,
+1208,Pons,n/a,n/a,n/a,Retrocommissural nucleus,ReC,,,
+1209,Medulla,354,Medulla,MY,n/a,n/a,,,included in CCFv3
+1210,Medulla,386,"Medulla, sensory related",MY-sen,n/a,n/a,,,included in CCFv3
+1211,Medulla,207,Area postrema,AP,Area postrema,AP ,,,included in CCFv3
+1212,Medulla,n/a,n/a,n/a,Area subpostrema,SubP,,,
+1213,Medulla,607,Cochlear nuclei,CN,n/a,n/a,,,included in CCFv3
+1214,Medulla,112,Granular lamina of the cochlear nuclei,CNlam,Granular layer of the cochlear nuclei,GrC,,,not annotated in CCFv3
+1215,Medulla,560,"Cochlear nucleus, subpedunclular granular region",CNspg,Superficial glial zone of the cochlear nuclei,SGl,,,not annotated in CCFv3
+1216,Medulla,96,Dorsal cochlear nucleus,DCO,Dorsal cochlear nucleus,DC,,,included in CCFv3
+1217,Medulla,n/a,n/a,n/a,"Dorsal cochlear nucleus, deep layer",DCDp,,,
+1218,Medulla,n/a,n/a,n/a,"Dorsal cochlear nucleus, fusiform layer",DCFu,,,
+1219,Medulla,n/a,n/a,n/a,"Dorsal cochlear nucleus, molecular layer",DCMo,,,
+1220,Medulla,n/a,n/a,n/a,"Dorsal cochlear nucleus, granular layer",DCGr,,,
+1221,Medulla,n/a,n/a,n/a,Molecular layer of the dorsal cochlear nucleus,MoDC,,,
+1222,Medulla,101,Ventral cochlear nucleus,VCO,"Ventral cochlear nucleus, anterior part ",VCA ,,,included in CCFv3
+1223,Medulla,n/a,n/a,n/a,"Ventral cochlear nucleus, posterior part ",VCP ,,,
+1224,Medulla,n/a,n/a,n/a,"Ventral cochlear nucleus, posterior part, octopus cell area",VCPO,,,
+1225,Medulla,n/a,n/a,n/a,Paracochlear glial substance,PCGS,,,
+1226,Medulla,720,Dorsal column nuclei,DCN,n/a,n/a,,,included in CCFv3
+1227,Medulla,711,Cuneate nucleus,CU,Cuneate nucleus,Cu,,,included in CCFv3
+1228,Medulla,n/a,n/a,n/a,"Cuneate nucleus, rotundus part",CuR,,,
+1229,Medulla,n/a,n/a,n/a,"Cuneate nucleus, triangular part",CuT,,,
+1230,Medulla,n/a,n/a,n/a,Pericuneate matrix,PCuMx,,,
+1231,Medulla,n/a,n/a,n/a,Lateral pericuneate nucleus,LPCu,,,
+1232,Medulla,1039,Gracile nucleus,GR,Gracile nucleus,Gr,,,included in CCFv3
+1233,Medulla,903,External cuneate nucleus,ECU,External cuneate nucleus,ECu,,,included in CCFv3
+1234,Medulla,642,Nucleus of the trapezoid body,NTB,Nucleus of the trapezoid body,Tz,,,included in CCFv3
+1235,Medulla,n/a,n/a,n/a,Retrotrapezoid nucleus,RTz,,,
+1236,Medulla,651,Nucleus of the solitary tract,NTS,Nucleus of the solitary tract,Sol,,,included in CCFv3
+1237,Medulla,659,"Nucleus of the solitary tract, central part",NTSce,"Nucleus of the solitary tract, central part",SolCe,,,not annotated in CCFv3
+1238,Medulla,666,"Nucleus of the solitary tract, commissural part",NTSco,"Nucleus of the solitary tract, commissural part",SolC,,,not annotated in CCFv3
+1239,Medulla,674,"Nucleus of the solitary tract, gelatinous part",NTSge,"Nucleus of the solitary tract, gelatinous part",SolG ,,,not annotated in CCFv3
+1240,Medulla,682,"Nucleus of the solitary tract, lateral part",NTSl,"Solitary nucleus, dorsolateral part",SolDL,,,not annotated in CCFv3
+1241,Medulla,691,"Nucleus of the solitary tract, medial part",NTSm,"Nucleus of the solitary tract, medial part",SolM,,,not annotated in CCFv3
+1242,Medulla,n/a,n/a,n/a,"Nucleus of the solitary tract, ventrolateral part",SolVL,,,
+1243,Medulla,n/a,n/a,n/a,"Nucleus of the solitary tract, dorsomedial part",SolDM,,,
+1244,Medulla,n/a,n/a,n/a,"Nucleus of the solitary tract, interstitial part",SolI ,,,
+1245,Medulla,n/a,n/a,n/a,"Nucleus of the solitary tract, intermediate part",SolIM,,,
+1246,Medulla,n/a,n/a,n/a,"Solitary nucleus, ventral part",SolV,,,
+1247,Medulla,n/a,n/a,n/a,"Solitary nucleus, rostrolateral part",SolRL,,,
+1248,Medulla,n/a,n/a,n/a,"Solitary nucleus, lateral part",SolL,,,
+1249,Medulla,n/a,n/a,n/a,"Solitary nucleus, ventral intermediate part",SolVI,,,
+1250,Medulla,n/a,n/a,n/a,"Solitary nucleus, retrocentral part",SolRC,,,
+1251,Medulla,n/a,n/a,n/a,"Solitary nucleus, dorsal part",SolD,,,
+1252,Medulla,429,"Spinal nucleus of the trigeminal, caudal part",SPVC,"Spinal trigeminal nucleus, caudal part",Sp5C,,,included in CCFv3
+1253,Medulla,437,"Spinal nucleus of the trigeminal, interpolar part",SPVI,"Spinal trigeminal nucleus, interpolar part",Sp5I,,,included in CCFv3
+1254,Medulla,n/a,n/a,n/a,Dorsomedial spinal trigeminal nucleus,DMSp5,,,
+1255,Medulla,445,"Spinal nucleus of the trigeminal, oral part",SPVO,"Spinal trigeminal nucleus, oral part",Sp5O,,,included in CCFv3
+1256,Medulla,77,"Spinal nucleus of the trigeminal, oral part, caudal dorsomedial part",SPVOcdm,"Spinal trigeminal nucleus, oral part, dorsomedial division",Sp5ODM,"3rd edition, but not 4th edition, MBSC ",,not annotated in CCFv3
+1257,Medulla,53,"Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, dorsal zone",SPVOmdmd,n/a,n/a,,,not annotated in CCFv3
+1258,Medulla,61,"Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone",SPVOmdmv,n/a,n/a,,,not annotated in CCFv3
+1259,Medulla,45,"Spinal nucleus of the trigeminal, oral part, rostral dorsomedial part",SPVOrdm,n/a,n/a,,,not annotated in CCFv3
+1260,Medulla,69,"Spinal nucleus of the trigeminal, oral part, ventrolateral part",SPVOvl,"Spinal trigeminal nucleus, oral part, ventrolateral division",Sp5OVL,"3rd edition, but not 4th edition, MBSC ",,not annotated in CCFv3
+1261,Medulla,589508451,Paratrigeminal nucleus,Pa5,Paratrigeminal nucleus,Pa5,,new in CCFv3,included in CCFv3
+1262,Medulla,n/a,n/a,n/a,Marginal zone of the caudal spinal trigeminal nucleus,MZ5,,,
+1263,Medulla,789,Nucleus z,z,n/a,n/a,,,not annotated in CCFv3
+1264,Medulla,370,"Medulla, motor related",MY-mot,n/a,n/a,,,included in CCFv3
+1265,Medulla,653,Abducens nucleus,VI,Abducens nucleus,6N ,,,included in CCFv3
+1266,Medulla,568,Accessory abducens nucleus,ACVI,Paraabducens nucleus,Pa6,,,not annotated in CCFv3
+1267,Medulla,n/a,n/a,n/a,"Abducens nucleus, retractor bulbi part",6RB,,,
+1268,Medulla,661,Facial motor nucleus,VII,Facial nucleus,7N ,,,included in CCFv3
+1269,Medulla,n/a,n/a,n/a,"Facial nucleus, dorsal subnucleus",7D,,,
+1270,Medulla,n/a,n/a,n/a,"Facial nucleus, dorsal intermediate subnucleus",7DI ,,,
+1271,Medulla,n/a,n/a,n/a,"Facial nucleus, dorsolateral subnucleus",7DL ,,,
+1272,Medulla,n/a,n/a,n/a,"Facial nucleus, dorsomedial subnucleus",7DM ,,,
+1273,Medulla,n/a,n/a,n/a,"Facial nucleus, lateral subnucleus",7L ,,,
+1274,Medulla,n/a,n/a,n/a,"Facial nucleus, ventral intermediate subnucleus",7VI ,,,
+1275,Medulla,n/a,n/a,n/a,"Facial nucleus, ventromedial subnucleus",7VM ,,,
+1276,Medulla,576,Accessory facial motor nucleus,ACVII,"Facial motor nucleus, stylohyoid part",7SH,,,included in CCFv3
+1277,Medulla,n/a,n/a,n/a,Perifacial zone,P7,,,
+1278,Medulla,640,Efferent vestibular nucleus,EV,Nucleus of origin of efferents of the vestibular nerve,EVe,,,not annotated in CCFv3
+1279,Medulla,135,Nucleus ambiguus,AMB,Ambiguus nucleus,Amb ,,,included in CCFv3
+1280,Medulla,939,"Nucleus ambiguus, dorsal division",AMBd,"Ambiguus nucleus, compact part",AmbC,,,included in CCFv3
+1281,Medulla,143,"Nucleus ambiguus, ventral division",AMBv,"Ambiguus nucleus, loose part",AmbL,,,included in CCFv3
+1282,Medulla,n/a,n/a,n/a,Retroambiguus nucleus,RAmb,,,
+1283,Medulla,n/a,n/a,n/a,"Ambiguus nucleus, semicompact part",AmbSC,,,
+1284,Medulla,839,Dorsal motor nucleus of the vagus nerve,DMX,Vagus nerve nucleus,10N ,,,included in CCFv3
+1285,Medulla,887,Efferent cochlear group,ECO,n/a,n/a,,,not annotated in CCFv3
+1286,Medulla,1048,Gigantocellular reticular nucleus,GRN,Gigantocellular reticular nucleus,Gi,,,included in CCFv3
+1287,Medulla,372,Infracerebellar nucleus,ICB,n/a,n/a,,,included in CCFv3
+1288,Medulla,83,Inferior olivary complex,IO,Inferior olive,IO,,,included in CCFv3
+1289,Medulla,n/a,n/a,n/a,"Inferior olive, subnucleus A of medial nucleus",IOA,,,
+1290,Medulla,n/a,n/a,n/a,"Inferior olive, subnucleus B of medial nucleus",IOB,,,
+1291,Medulla,n/a,n/a,n/a,"Inferior olive, beta subnucleus",IOBe,,,
+1292,Medulla,n/a,n/a,n/a,"Inferior olive, subnucleus C of medial nucleus",IOC,,,
+1293,Medulla,n/a,n/a,n/a,"Inferior olive, dorsal nucleus",IOD,,,
+1294,Medulla,n/a,n/a,n/a,"Inferior olive, dorsomedial cell group",IODM,,,
+1295,Medulla,n/a,n/a,n/a,"Inferior olive, dorsomedial cell column",IODMC,,,
+1296,Medulla,n/a,n/a,n/a,"Inferior olive, cap of Kooy of the medial nucleus",IOK,,,
+1297,Medulla,n/a,n/a,n/a,"Inferior olive, medial nucleus",IOM,,,
+1298,Medulla,n/a,n/a,n/a,"Inferior olive, principal nucleus",IOPr,,,
+1299,Medulla,n/a,n/a,n/a,"Inferior olive, ventrolateral protrusion",IOVL,,,
+1300,Medulla,136,Intermediate reticular nucleus,IRN,Intermediate reticular nucleus,IRt,,,included in CCFv3
+1301,Medulla,n/a,n/a,n/a,"Intermediate reticular nucleus, alpha part",IRtA,,,
+1302,Medulla,106,Inferior salivatory nucleus,ISN,Inferior salivatory nucleus,IS,,,included in CCFv3
+1303,Medulla,203,Linear nucleus of the medulla,LIN,Linear nucleus of the medulla,Li,,,included in CCFv3
+1304,Medulla,235,Lateral reticular nucleus,LRN,Lateral reticular nucleus,LRt,,,included in CCFv3
+1305,Medulla,955,"Lateral reticular nucleus, magnocellular part",LRNm,"Lateral reticular nucleus, subtrigeminal part",LRtS5,,,included in CCFv3
+1306,Medulla,963,"Lateral reticular nucleus, parvicellular part",LRNp,"Lateral reticular nucleus, parvicellular part",LRtPC,,,included in CCFv3
+1307,Medulla,307,Magnocellular reticular nucleus,MARN,"Gigantocellular reticular nucleus, alpha part",GiA,,,included in CCFv3
+1308,Medulla,n/a,n/a,n/a,"Gigantocellular reticular nucleus, ventral part",GiV,,,
+1309,Medulla,395,Medullary reticular nucleus,MDRN,,,,,included in CCFv3
+1310,Medulla,1098,"Medullary reticular nucleus, dorsal part",MDRNd,"Medullary reticular nucleus, dorsal part",MdD,,,included in CCFv3
+1311,Medulla,1107,"Medullary reticular nucleus, ventral part",MDRNv,"Medullary reticular nucleus, ventral part",MdV,,,included in CCFv3
+1312,Medulla,852,Parvicellular reticular nucleus,PARN,Parvicellular reticular nucleus,PCRt,,,included in CCFv3
+1313,Medulla,n/a,n/a,n/a,"Parvicellular reticular nucleus, alpha part",PCRtA,,,
+1314,Medulla,859,Parasolitary nucleus,PAS,Parasolitary nucleus,PSol,,,included in CCFv3
+1315,Medulla,938,Paragigantocellular reticular nucleus,PGRN,,,,,included in CCFv3
+1316,Medulla,970,"Paragigantocellular reticular nucleus, dorsal part",PGRNd,Dorsal paragigantocellular nucleus,DPGi,,,included in CCFv3
+1317,Medulla,978,"Paragigantocellular reticular nucleus, lateral part",PGRNl,Lateral paragigantocellular nucleus,LPGi,,,included in CCFv3
+1318,Medulla,n/a,n/a,n/a,"Lateral paragigantocellular nucleus, alpha part",LPGiA,,,
+1319,Medulla,n/a,n/a,n/a,"Lateral paragigantocellular nucleus, external part",LPGiE,,,
+1320,Medulla,n/a,n/a,n/a,Caudoventrolateral reticular nucleus,CVL,,,
+1321,Medulla,154,Perihypoglossal nuclei,PHY,Rostral ventral respiratory group,RVRG,,,included in CCFv3
+1322,Medulla,161,Nucleus intercalatus,NIS,n/a,n/a,,,not annotated in CCFv3
+1323,Medulla,177,Nucleus of Roller,NR,Nucleus of Roller,Ro,,,included in CCFv3
+1324,Medulla,169,Nucleus prepositus,PRP,Prepositus nucleus,Pr,,,included in CCFv3
+1325,Medulla,n/a,n/a,n/a,"Prepositus nucleus, magnocellular part",PrMC,,,
+1326,Medulla,995,Paramedian reticular nucleus,PMR,Paramedian reticular nucleus,PMn,,,not annotated in CCFv3
+1327,Medulla,1069,Parapyramidal nucleus,PPY,Parapyramidal nucleus,PPy,,,included in CCFv3
+1328,Medulla,185,"Parapyramidal nucleus, deep part",PPYd,n/a,n/a,,,not annotated in CCFv3
+1329,Medulla,193,"Parapyramidal nucleus, superficial part",PPYs,n/a,n/a,,,not annotated in CCFv3
+1330,Medulla,701,Vestibular nuclei,VNC,n/a,n/a,,,included in CCFv3
+1331,Medulla,209,Lateral vestibular nucleus,LAV,Lateral vestibular nucleus,LVe,,,included in CCFv3
+1332,Medulla,202,Medial vestibular nucleus,MV,Medial vestibular nucleus ,MVe,,,included in CCFv3
+1333,Medulla,n/a,n/a,n/a,"medial vestibular nucleus, magnocellular part",MVeMC,,,
+1334,Medulla,n/a,n/a,n/a,"medial vestibular nucleus, parvicellular part",MVePC,,,
+1335,Medulla,225,Spinal vestibular nucleus,SPIV,Spinal vestibular nucleus,SpVe,,,included in CCFv3
+1336,Medulla,n/a,n/a,n/a,F cell group of the vestibular complex,FVe,,,
+1337,Medulla,n/a,n/a,n/a,Interstitial nucleus of the vestibular part of the 8th nerve,I8,,,
+1338,Medulla,217,Superior vestibular nucleus,SUV,Superior vestibular nucleus,SuVe,,,included in CCFv3
+1339,Medulla,765,Nucleus x,x,Nucleus X,X ,,,included in CCFv3
+1340,Medulla,n/a,n/a,n/a,Accessory nerve nucleus,11N,,,
+1341,Medulla,773,Hypoglossal nucleus,XII,Hypoglossal nucleus,12N ,,,included in CCFv3
+1342,Medulla,n/a,n/a,n/a,"Hypoglossal nucleus, geniohyoid part",12GH,,,
+1343,Medulla,781,Nucleus y,y,Nucleus Y of the vestibular complex,Y,,,included in CCFv3
+1344,Medulla,76,Interstitial nucleus of the vestibular nerve,INV,n/a,n/a,,,not annotated in CCFv3
+1345,Medulla,379,"Medulla, behavioral state related",MY-sat,n/a,n/a,,,included in CCFv3
+1346,Medulla,206,Nucleus raphe magnus,RM,Raphe magnus nucleus,RMg,,,included in CCFv3
+1347,Medulla,230,Nucleus raphe pallidus,RPA,Raphe pallidus nucleus,RPa,,,included in CCFv3
+1348,Medulla,222,Nucleus raphe obscurus,RO,Raphe obscurus nucleus,ROb,,,included in CCFv3
+1349,Medulla,n/a,n/a,n/a,Median accessory nucleus of the medulla,MnA,,,
+1350,Medulla,n/a,n/a,n/a,Ad1 adrenalin cells,Ad1,,,
+1351,Medulla,n/a,n/a,n/a,Ad2 adrenalin cells,Ad2,,,
+1352,Medulla,n/a,n/a,n/a,B4 serotonin cells,B4,,,
+1353,Medulla,n/a,n/a,n/a,Caudal interstitial nucleus of the medial longitudinal fasciculus,CI,,,
+1354,Medulla,n/a,n/a,n/a,C1 adrenaline cells,C1,,,
+1355,Medulla,n/a,n/a,n/a,C2 adrenaline cells,C2,,,
+1356,Medulla,n/a,n/a,n/a,C3 adrenaline cells,C3,,,
+1357,Medulla,n/a,n/a,n/a,NA1 noradrenalin cells,NA1,,,
+1358,Medulla,n/a,n/a,n/a,NA2 noradrenalin cells,NA2,,,
+1359,Medulla,n/a,n/a,n/a,Botzinger complex,Bo,,,
+1360,Medulla,n/a,n/a,n/a,Pre-Botzinger complex,PrBo,,,
+1361,Medulla,n/a,n/a,n/a,Intermedius nucleus of the medulla,InM,,,
+1362,Medulla,n/a,n/a,n/a,Superior medullary velum,SMV,,,
+1363,Medulla,n/a,n/a,n/a,Matrix region of the medulla,Mx,,,
+1364,Medulla,n/a,n/a,n/a,Rostroventrolateral reticular nucleus,RVL,,,
+1365,Medulla,n/a,n/a,n/a,Intercalated nucleus,In,,,
+1366,Medulla,n/a,n/a,n/a,Epifascicular nucleus,EF,,,
+1367,Medulla,n/a,n/a,n/a,Inferior medullary velum,IMV,,,
+1368,Medulla,n/a,n/a,n/a,Paravestibular nucleus,PaVe,,,
+1369,Medulla,n/a,n/a,n/a,Central cervical nucleus,CeCv,,,
+1370,Cerebellum,512,Cerebellum,CB,n/a,n/a,,,included in CCFv3
+1371,Cerebellum,528,Cerebellar cortex,CBX,n/a,n/a,,,included in CCFv3
+1372,Cerebellum,1144,"Cerebellar cortex, molecular layer",CBXmo,n/a,n/a,,,not annotated in CCFv3
+1373,Cerebellum,1145,"Cerebellar cortex, Purkinje layer",CBXpu,n/a,n/a,,,not annotated in CCFv3
+1374,Cerebellum,1143,"Cerebellar cortex, granular layer",CBXgr,n/a,n/a,,,not annotated in CCFv3
+1375,Cerebellum,645,Vermal regions,VERM,n/a,n/a,,,included in CCFv3
+1376,Cerebellum,912,Lingula (I),LING,1st Cerebellar lobule,1Cb ,,,included in CCFv3
+1377,Cerebellum,10707,"Lingula (I), molecular layer",LINGmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1378,Cerebellum,10706,"Lingula (I), Purkinje layer",LINGpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1379,Cerebellum,10705,"Lingula (I), granular layer",LINGgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1380,Cerebellum,920,Central lobule,CENT,n/a,n/a,,,included in CCFv3
+1381,Cerebellum,976,Lobule II,CENT2,2nd Cerebellar lobule,2Cb ,,,included in CCFv3
+1382,Cerebellum,10710,"Lobule II, molecular layer",CENT2mo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1383,Cerebellum,10709,"Lobule II, Purkinje layer",CENT2pu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1384,Cerebellum,10708,"Lobule II, granular layer",CENT2gr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1385,Cerebellum,984,Lobule III,CENT3,3rd Cerebellar lobule,3Cb ,,,included in CCFv3
+1386,Cerebellum,10713,"Lobule III, molecular layer",CENT3mo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1387,Cerebellum,10712,"Lobule III, Purkinje layer",CENT3pu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1388,Cerebellum,10711,"Lobule III, granular layer",CENT3gr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1389,Cerebellum,n/a,n/a,n/a,lobules 2 and 3 of the cerebellar vermis,2_3Cb,,,
+1390,Cerebellum,928,Culmen,CUL,n/a,n/a,,,included in CCFv3
+1391,Cerebellum,992,Lobule IV,CUL4,lobule 4 of the cerebellar vermis,4Cb,,,not annotated in CCFv3
+1392,Cerebellum,10716,"Lobule IV, molecular layer",CUL4mo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1393,Cerebellum,10715,"Lobule IV, Purkinje layer",CUL4pu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1394,Cerebellum,10714,"Lobule IV, granular layer",CUL4gr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1395,Cerebellum,1001,Lobule V,CUL5,lobule 5 of the cerebellar vermis,5Cb,,,not annotated in CCFv3
+1396,Cerebellum,10719,"Lobule V, molecular layer",CUL5mo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1397,Cerebellum,10718,"Lobule V, Purkinje layer",CUL5pu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1398,Cerebellum,10717,"Lobule V, granular layer",CUL5gr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1399,Cerebellum,1091,Lobules IV-V,"CUL4, 5",lobules 4 and 5 of the cerebellar vermis,4/5Cb,,,included in CCFv3
+1400,Cerebellum,10722,"Lobules IV-V, molecular layer","CUL4, 5mo",Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1401,Cerebellum,10721,"Lobules IV-V, Purkinje layer","CUL4, 5pu",Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1402,Cerebellum,10720,"Lobules IV-V, granular layer","CUL4, 5gr",Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1403,Cerebellum,936,Declive (VI),DEC,6th Cerebellar lobule,6Cb ,,,included in CCFv3
+1404,Cerebellum,10725,"Declive (VI), molecular layer",DECmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1405,Cerebellum,10724,"Declive (VI), Purkinje layer",DECpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1406,Cerebellum,10723,"Declive (VI), granular layer",DECgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1407,Cerebellum,944,Folium-tuber vermis (VII),FOTU,7th Cerebellar lobule,7Cb ,,,included in CCFv3
+1408,Cerebellum,10728,"Folium-tuber vermis (VII), molecular layer",FOTUmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1409,Cerebellum,10727,"Folium-tuber vermis (VII), Purkinje layer",FOTUpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1410,Cerebellum,10726,"Folium-tuber vermis (VII), granular layer",FOTUgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1411,Cerebellum,951,Pyramus (VIII),PYR,8th Cerebellar lobule,8Cb ,,,included in CCFv3
+1412,Cerebellum,10731,"Pyramus (VIII), molecular layer",PYRmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1413,Cerebellum,10730,"Pyramus (VIII), Purkinje layer",PYRpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1414,Cerebellum,10729,"Pyramus (VIII), granular layer",PYRgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1415,Cerebellum,957,Uvula (IX),UVU,9th Cerebellar lobule,9Cb ,,,included in CCFv3
+1416,Cerebellum,10734,"Uvula (IX), molecular layer",UVUmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1417,Cerebellum,10733,"Uvula (IX), Purkinje layer",UVUpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1418,Cerebellum,10732,"Uvula (IX), granular layer",UVUgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1419,Cerebellum,968,Nodulus (X),NOD,10th Cerebellar lobule,10Cb ,,,included in CCFv3
+1420,Cerebellum,10737,"Nodulus (X), molecular layer",NODmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1421,Cerebellum,10736,"Nodulus (X), Purkinje layer",NODpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1422,Cerebellum,10735,"Nodulus (X), granular layer",NODgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1423,Cerebellum,1073,Hemispheric regions,HEM,n/a,n/a,,,included in CCFv3
+1424,Cerebellum,1007,Simple lobule,SIM,Simple lobule,Sim,,,included in CCFv3
+1425,Cerebellum,10674,"Simple lobule, molecular layer",SIMmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1426,Cerebellum,10673,"Simple lobule, Purkinje layer",SIMpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1427,Cerebellum,10672,"Simple lobule, granular layer",SIMgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1428,Cerebellum,1017,Ansiform lobule,AN,Ansiform lobule of the cerebellum,Ans,,,included in CCFv3
+1429,Cerebellum,1056,Crus 1,ANcr1,Crus 1 of the ansiform lobule,Crus1,,,included in CCFv3
+1430,Cerebellum,10677,"Crus 1, molecular layer",ANcr1mo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1431,Cerebellum,10676,"Crus 1, Purkinje layer",ANcr1pu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1432,Cerebellum,10675,"Crus 1, granular layer",ANcr1gr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1433,Cerebellum,1064,Crus 2,ANcr2,Crus 2 of the ansiform lobule,Crus2,,,included in CCFv3
+1434,Cerebellum,10680,"Crus 2, molecular layer",ANcr2mo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1435,Cerebellum,10679,"Crus 2, Purkinje layer",ANcr2pu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1436,Cerebellum,10678,"Crus 2, granular layer",ANcr2gr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1437,Cerebellum,1025,Paramedian lobule,PRM,Paramedian lobule,PM,,,included in CCFv3
+1438,Cerebellum,10683,"Paramedian lobule, molecular layer",PRMmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1439,Cerebellum,10682,"Paramedian lobule, Purkinje layer",PRMpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1440,Cerebellum,10681,"Paramedian lobule, granular layer",PRMgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1441,Cerebellum,1033,Copula pyramidis,COPY,Copula of the pyramis,Cop,,,included in CCFv3
+1442,Cerebellum,10686,"Copula pyramidis, molecular layer",COPYmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1443,Cerebellum,10685,"Copula pyramidis, Purkinje layer",COPYpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1444,Cerebellum,10684,"Copula pyramidis, granular layer",COPYgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1445,Cerebellum,1041,Paraflocculus,PFL,Paraflocculus,PFl,,,included in CCFv3
+1446,Cerebellum,10689,"Paraflocculus, molecular layer",PFLmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1447,Cerebellum,10688,"Paraflocculus, Purkinje layer",PFLpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1448,Cerebellum,10687,"Paraflocculus, granular layer",PFLgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1449,Cerebellum,n/a,n/a,n/a,ventral paraflocculus,VPFl,,,
+1450,Cerebellum,n/a,n/a,n/a,posterior paraflocculus,PPFl,,,
+1451,Cerebellum,1049,Flocculus,FL,Flocculus,Fl,,,included in CCFv3
+1452,Cerebellum,10692,"Flocculus, molecular layer",FLmo,Molecular layer of the cerebellum,MoCb,,,not annotated in CCFv3
+1453,Cerebellum,10691,"Flocculus, Purkinje layer",FLpu,Purkinje cell layer of the cerebellum,Pk,,,not annotated in CCFv3
+1454,Cerebellum,10690,"Flocculus, granular layer",FLgr,Granule cell layer of cerebellum,GrCb,,,not annotated in CCFv3
+1455,Cerebellum,519,Cerebellar nuclei,CBN,,,,,included in CCFv3
+1456,Cerebellum,989,Fastigial nucleus,FN,Medial (fastigial) cerebellar nucleus,Med,,,included in CCFv3
+1457,Cerebellum,n/a,n/a,n/a,"Medial cerebellar nucleus, dorsolateral protuberance",MedDL,,,
+1458,Cerebellum,n/a,n/a,n/a,"Medial cerebellar nucleus, lateral part",MedL,,,
+1459,Cerebellum,91,Interposed nucleus,IP,Interpositus nucleus,IPo,,,included in CCFv3
+1460,Cerebellum,n/a,n/a,n/a,"Interposed cerebellar nucleus, anterior part",IntA,,,
+1461,Cerebellum,n/a,n/a,n/a,"Interposed cerebellar nucleus, dorsolateral hump",IntDL,,,
+1462,Cerebellum,n/a,n/a,n/a,"Interposed cerebellar nucleus, posterior parvicellular",IntPPC,,,
+1463,Cerebellum,n/a,n/a,n/a,"Interposed cerebellar nucleus, posterior part",IntP,,,
+1464,Cerebellum,846,Dentate nucleus,DN,Lateral (dentate) cerebellar nucleus,Lat,,,included in CCFv3
+1465,Cerebellum,n/a,n/a,n/a,Lateral cervical nucleus,LatC,,,
+1466,Cerebellum,n/a,n/a,n/a,"Lateral cerebellar nucleus, parvicellular part",LatPC,,,
+1467,Cerebellum,589508455,Vestibulocerebellar nucleus,VeCB,Vestibulocerebellar nucleus ,VeCb ,,new in CCFv3,included in CCFv3
+1468,Cerebellum,n/a,n/a,n/a,Basal interstitial nucleus,BI,,,
+1469,fiber tracts,1009,fiber tracts,fiber tracts,n/a,n/a,,,included in CCFv3
+1470,fiber tracts,967,cranial nerves,cm,n/a,n/a,,,included in CCFv3
+1471,fiber tracts,885,terminal nerve,tn,n/a,n/a,,,not annotated in CCFv3
+1472,fiber tracts,949,vomeronasal nerve,von,vomeronasal nerve,vn,,,included in CCFv3
+1473,fiber tracts,840,olfactory nerve,In,n/a,n/a,,,included in CCFv3
+1474,fiber tracts,1016,olfactory nerve layer of main olfactory bulb,onl,olfactory nerve layer,ON,,,included in CCFv3
+1475,fiber tracts,21,"lateral olfactory tract, general",lotg,n/a,n/a,,,included in CCFv3
+1476,fiber tracts,665,"lateral olfactory tract, body",lot,lateral olfactory tract,lo,,,included in CCFv3
+1477,fiber tracts,538,dorsal limb,lotd,dorsal lateral olfactory tract,dlo,,,included in CCFv3
+1478,fiber tracts,459,accessory olfactory tract,aolt,n/a,n/a,,,not annotated in CCFv3
+1479,fiber tracts,n/a,n/a,n/a,anterior commissure,ac,anterior commissure is aco+act in CCFv3,,
+1480,fiber tracts,900,"anterior commissure, olfactory limb",aco,"anterior commissure, olfactory limb",aco,,,included in CCFv3
+1481,fiber tracts,n/a,n/a,n/a,"anterior commissure, intrabulbar part",aci,,,
+1482,fiber tracts,n/a,n/a,n/a,"anterior commissure, anterior part",aca,,,
+1483,fiber tracts,848,optic nerve,IIn,optic nerve,2n,,,included in CCFv3
+1484,fiber tracts,876,accessory optic tract,aot,accessory olfactory tract,aot,,,not annotated in CCFv3
+1485,fiber tracts,916,brachium of the superior colliculus,bsc,brachium of the superior colliculus,bsc,,,included in CCFv3
+1486,fiber tracts,336,superior colliculus commissure,csc,commissure of superior colliculi,csc,,,included in CCFv3
+1487,fiber tracts,117,optic chiasm,och,optic chiasm,och,,,included in CCFv3
+1488,fiber tracts,125,optic tract,opt,optic tract,opt,,,included in CCFv3
+1489,fiber tracts,357,tectothalamic pathway,ttp,n/a,n/a,,,not annotated in CCFv3
+1490,fiber tracts,832,oculomotor nerve,IIIn,oculomotor nerve,3n,,,included in CCFv3
+1491,fiber tracts,62,medial longitudinal fascicle,mlf,medial longitudinal fasciculus,mlf,,,included in CCFv3
+1492,fiber tracts,158,posterior commissure,pc,posterior commissure,pc,,,included in CCFv3
+1493,fiber tracts,911,trochlear nerve,IVn,trochlear nerve,4n,,,included in CCFv3
+1494,fiber tracts,384,trochlear nerve decussation,IVd,trochlear decussation,4x,,,not annotated in CCFv3
+1495,fiber tracts,710,abducens nerve,VIn,abducens nerve,6n,,,not annotated in CCFv3
+1496,fiber tracts,901,trigeminal nerve,Vn,trigeminal nerve,5n,,,included in CCFv3
+1497,fiber tracts,93,motor root of the trigeminal nerve,moV,motor root of the trigeminal nerve,m5,,,included in CCFv3
+1498,fiber tracts,229,sensory root of the trigeminal nerve,sV,sensory root of the trigeminal nerve,s5,,,included in CCFv3
+1499,fiber tracts,705,midbrain tract of the trigeminal nerve,mtV,mesencephalic trigeminal tract,me5,,,not annotated in CCFv3
+1500,fiber tracts,794,spinal tract of the trigeminal nerve,sptV,spinal trigeminal tract,sp5,,,included in CCFv3
+1501,fiber tracts,798,facial nerve,VIIn,facial nerve,7n,,,included in CCFv3
+1502,fiber tracts,1131,intermediate nerve,iVIIn,nervus intermedius component of facial nerve,7ni,,,not annotated in CCFv3
+1503,fiber tracts,1116,genu of the facial nerve,gVIIn,genu of the facial nerve,g7,,,included in CCFv3
+1504,fiber tracts,933,vestibulocochlear nerve,VIIIn,accessory facial nerve,acs7,,,included in CCFv3
+1505,fiber tracts,n/a,n/a,n/a,ascending fibers of the facial nerve,asc7,,,
+1506,fiber tracts,1076,efferent cochleovestibular bundle,cvb,vestibulocochlear nerve,8n,,,not annotated in CCFv3
+1507,fiber tracts,413,vestibular nerve,vVIIIn,vestibular root of the vestibulocochlear nerve,8vn,,,included in CCFv3
+1508,fiber tracts,948,cochlear nerve,cVIIIn,cochlear root of the vestibulocochlear nerve,8cn,,,included in CCFv3
+1509,fiber tracts,841,trapezoid body,tb,trapezoid body,tz,,,included in CCFv3
+1510,fiber tracts,641,intermediate acoustic stria,ias,internal acoustic stria,ias,,,not annotated in CCFv3
+1511,fiber tracts,506,dorsal acoustic stria,das,dorsal acoustic stria,das,,,included in CCFv3
+1512,fiber tracts,658,lateral lemniscus,ll,lateral lemniscus,ll,,,included in CCFv3
+1513,fiber tracts,633,inferior colliculus commissure,cic,commissure of the inferior colliculus,cic,,,included in CCFv3
+1514,fiber tracts,482,brachium of the inferior colliculus,bic,brachium of the inferior colliculus,bic,,,included in CCFv3
+1515,fiber tracts,808,glossopharyngeal nerve,IXn,glossopharyngeal nerve,9n,,,not annotated in CCFv3
+1516,fiber tracts,917,vagus nerve,Xn,vagus nerve,10n,,,included in CCFv3
+1517,fiber tracts,237,solitary tract,ts,solitary tract,sol,,,included in CCFv3
+1518,fiber tracts,717,accessory spinal nerve,XIn,accessory nerve,11n,,,not annotated in CCFv3
+1519,fiber tracts,813,hypoglossal nerve,XIIn,hypoglossal nerve,12n,,,not annotated in CCFv3
+1520,fiber tracts,925,ventral roots,vrt,,,,,not annotated in CCFv3
+1521,fiber tracts,792,dorsal roots,drt,,,,,included in CCFv3
+1522,fiber tracts,932,cervicothalamic tract,cett,,,,,included in CCFv3
+1523,fiber tracts,570,dorsolateral fascicle,dl,,,,,not annotated in CCFv3
+1524,fiber tracts,522,dorsal commissure of the spinal cord,dcm,,,,,not annotated in CCFv3
+1525,fiber tracts,858,ventral commissure of the spinal cord,vc,,,,,not annotated in CCFv3
+1526,fiber tracts,586,fasciculus proprius,fpr,,,,,not annotated in CCFv3
+1527,fiber tracts,514,dorsal column,dc,,,,,included in CCFv3
+1528,fiber tracts,380,cuneate fascicle,cuf,cuneate fasciculus,cu,,,included in CCFv3
+1529,fiber tracts,388,gracile fascicle,grf,gracile fasciculus,gr,,,not annotated in CCFv3
+1530,fiber tracts,396,internal arcuate fibers,iaf,internal arcuate fibers,ia,,,not annotated in CCFv3
+1531,fiber tracts,697,medial lemniscus,ml,medial lemniscus,ml,,,included in CCFv3
+1532,fiber tracts,871,spinothalamic tract,sst,spinothalamic tract,spth,,,not annotated in CCFv3
+1533,fiber tracts,29,lateral spinothalamic tract,sttl,,,,,not annotated in CCFv3
+1534,fiber tracts,389,ventral spinothalamic tract,sttv,,,,,not annotated in CCFv3
+1535,fiber tracts,245,spinocervical tract,scrt,,,,,not annotated in CCFv3
+1536,fiber tracts,261,spino-olivary pathway,sop,,,,,not annotated in CCFv3
+1537,fiber tracts,270,spinoreticular pathway,srp,,,,,not annotated in CCFv3
+1538,fiber tracts,293,spinovestibular pathway,svp,lateral vestibulospinal tract,lvsp,,,not annotated in CCFv3
+1539,fiber tracts,277,spinotectal pathway,stp,,,,,not annotated in CCFv3
+1540,fiber tracts,253,spinohypothalamic pathway,shp,,,,,not annotated in CCFv3
+1541,fiber tracts,285,spinotelenchephalic pathway,step,,,,,not annotated in CCFv3
+1542,fiber tracts,627,hypothalamohypophysial tract,hht,,,,,not annotated in CCFv3
+1543,fiber tracts,960,cerebellum related fiber tracts,cbf,,,,,included in CCFv3
+1544,fiber tracts,744,cerebellar commissure,cbc,cerebellar commissure,cbc,,,included in CCFv3
+1545,fiber tracts,752,cerebellar peduncles,cbp,,,,,included in CCFv3
+1546,fiber tracts,326,superior cerebelar peduncles,scp,superior cerebellar peduncle,scp,,,included in CCFv3
+1547,fiber tracts,812,superior cerebellar peduncle decussation,dscp,decussation of the superior cerebellar peduncle,xscp,,,included in CCFv3
+1548,fiber tracts,85,spinocerebellar tract,sct,,,,,not annotated in CCFv3
+1549,fiber tracts,850,uncinate fascicle,uf,uncinate fasciculus of the cerebellum,un,,,included in CCFv3
+1550,fiber tracts,866,ventral spinocerebellar tract,sctv,ventral spinocerebellar tract,vsc,,,included in CCFv3
+1551,fiber tracts,78,middle cerebellar peduncle,mcp,middle cerebellar peduncle,mcp,,,included in CCFv3
+1552,fiber tracts,1123,inferior cerebellar peduncle,icp,inferior cerebellar peduncle,icp,,,included in CCFv3
+1553,fiber tracts,553,dorsal spinocerebellar tract,sctd,dorsal spinocerebellar tract,dsc,,,included in CCFv3
+1554,fiber tracts,n/a,n/a,n/a,dorsal spinocerebellar tract and olivocerebellar track,dsc/oc,,,
+1555,fiber tracts,499,cuneocerebellar tract,cct,n/a,n/a,,,not annotated in CCFv3
+1556,fiber tracts,650,juxtarestiform body,jrb,n/a,n/a,,,not annotated in CCFv3
+1557,fiber tracts,490,bulbocerebellar tract,bct,n/a,n/a,,,not annotated in CCFv3
+1558,fiber tracts,404,olivocerebellar tract,oct,olivocerebellar tract,oc,,,not annotated in CCFv3
+1559,fiber tracts,410,reticulocerebellar tract,rct,n/a,n/a,,,not annotated in CCFv3
+1560,fiber tracts,373,trigeminocerebellar tract,tct,n/a,n/a,,,not annotated in CCFv3
+1561,fiber tracts,728,arbor vitae,arb,cerebellar white matter,cbw,,,included in CCFv3
+1562,fiber tracts,484682512,supra-callosal cerebral white matter,scwm,n/a,n/a,,new in CCFv3,included in CCFv3
+1563,fiber tracts,983,lateral forebrain bundle system,lfbs,n/a,n/a,,,included in CCFv3
+1564,fiber tracts,776,corpus callosum,cc,corpus callosum,cc,,,included in CCFv3
+1565,fiber tracts,956,"corpus callosum, anterior forceps",fa,forceps minor of the corpus callosum,fmi,,,included in CCFv3
+1566,fiber tracts,579,external capsule,ec,external capsule,ec,,,included in CCFv3
+1567,fiber tracts,964,"corpus callosum, extreme capsule",ee,extreme capsule,ex,,,included in CCFv3
+1568,fiber tracts,1108,genu of corpus callosum,ccg,genu of the corpus callosum,gcc,,,included in CCFv3
+1569,fiber tracts,971,"corpus callosum, posterior forceps",fp,forceps major of the corpus callosum,fmj,,,included in CCFv3
+1570,fiber tracts,979,"corpus callosum, rostrum",ccr,rostrum of the corpus callosum,rcc,,,not annotated in CCFv3
+1571,fiber tracts,484682516,"corpus callosum, body",ccb,n/a,n/a,,new in CCFv3,included in CCFv3
+1572,fiber tracts,986,"corpus callosum, splenium",ccs,splenium of the corpus callosum,scc,,,included in CCFv3
+1573,fiber tracts,784,corticospinal tract,cst,lateral corticospinal tract,lcs,,,included in CCFv3
+1574,fiber tracts,6,internal capsule,int,internal capsule,ic,,,included in CCFv3
+1575,fiber tracts,924,cerebal peduncle,cpd,cerebral peduncle,cp,,,included in CCFv3
+1576,fiber tracts,1036,corticotectal tract,cte,n/a,n/a,,,not annotated in CCFv3
+1577,fiber tracts,1012,corticorubral tract,crt,n/a,n/a,,,not annotated in CCFv3
+1578,fiber tracts,1003,corticopontine tract,cpt,n/a,n/a,,,not annotated in CCFv3
+1579,fiber tracts,994,corticobulbar tract,cbt,n/a,n/a,,,not annotated in CCFv3
+1580,fiber tracts,190,pyramid,py,pyramidal tract,py,,,included in CCFv3
+1581,fiber tracts,198,pyramidal decussation,pyd,pyramidal decussation,pyx,,,included in CCFv3
+1582,fiber tracts,1019,"corticospinal tract, crossed",cstc,n/a,n/a,,,not annotated in CCFv3
+1583,fiber tracts,1028,"corticospinal tract, uncrossed",cstu,ventral corticospinal tract,vcsp,,,not annotated in CCFv3
+1584,fiber tracts,896,thalamus related,lfbst,n/a,n/a,,,included in CCFv3
+1585,fiber tracts,1092,external medullary lamina of the thalamus,em,external medullary lamina,eml,,,included in CCFv3
+1586,fiber tracts,14,internal medullary lamina of the thalamus,im,internal medullary lamina,iml,,,not annotated in CCFv3
+1587,fiber tracts,86,middle thalamic commissure,mtc,n/a,n/a,,,not annotated in CCFv3
+1588,fiber tracts,365,thalamic peduncles,tp,inferior thalamic peduncle,ithp,,,not annotated in CCFv3
+1589,fiber tracts,484682520,optic radiation,or,n/a,n/a,,new in CCFv3,included in CCFv3
+1590,fiber tracts,484682524,auditory radiation,ar,n/a,n/a,,new in CCFv3,included in CCFv3
+1591,fiber tracts,1000,extrapyramidal fiber systems,eps,n/a,n/a,,,included in CCFv3
+1592,fiber tracts,760,cerebral nuclei related,epsc,n/a,n/a,,,included in CCFv3
+1593,fiber tracts,142,pallidothalamic pathway,pap,n/a,n/a,,,not annotated in CCFv3
+1594,fiber tracts,102,nigrostriatal tract,nst,nigrostriatal bundle,ns,,,included in CCFv3
+1595,fiber tracts,109,nigrothalamic fibers,ntt,n/a,n/a,,,not annotated in CCFv3
+1596,fiber tracts,134,pallidotegmental fascicle,ptf,n/a,n/a,,,not annotated in CCFv3
+1597,fiber tracts,309,striatonigral pathway,snp,n/a,n/a,,,not annotated in CCFv3
+1598,fiber tracts,317,subthalamic fascicle,stf,n/a,n/a,,,not annotated in CCFv3
+1599,fiber tracts,877,tectospinal pathway,tsp,n/a,n/a,,,included in CCFv3
+1600,fiber tracts,1051,direct tectospinal pathway,tspd,tectospinal tract,ts,,,included in CCFv3
+1601,fiber tracts,1060,doral tegmental decussation,dtd,dorsal tegmental decussation,dtgx,,,included in CCFv3
+1602,fiber tracts,1043,crossed tectospinal pathway,tspc,n/a,n/a,,,included in CCFv3
+1603,fiber tracts,863,rubrospinal tract,rust,rubrospinal tract,rs,,,included in CCFv3
+1604,fiber tracts,397,ventral tegmental decussation,vtd,ventral tegmental decussation,vtgx,,,included in CCFv3
+1605,fiber tracts,221,rubroreticular tract,rrt,n/a,n/a,,,not annotated in CCFv3
+1606,fiber tracts,736,central tegmental bundle,ctb,central tegmetal tract,ctg,,,not annotated in CCFv3
+1607,fiber tracts,855,retriculospinal tract,rst,n/a,n/a,,,not annotated in CCFv3
+1608,fiber tracts,205,"retriculospinal tract, lateral part",rstl,n/a,n/a,,,not annotated in CCFv3
+1609,fiber tracts,213,"retriculospinal tract, medial part",rstm,n/a,n/a,,,not annotated in CCFv3
+1610,fiber tracts,941,vestibulospinal pathway,vsp,vestibulospinal tract,vesp,,,not annotated in CCFv3
+1611,fiber tracts,991,medial forebrain bundle system,mfbs,n/a,n/a,,,included in CCFv3
+1612,fiber tracts,768,cerebrum related,mfbc,n/a,n/a,,,included in CCFv3
+1613,fiber tracts,884,amygdalar capsule,amc,n/a,n/a,,,included in CCFv3
+1614,fiber tracts,892,ansa peduncularis,apd,ansa lenticularis,al,,,not annotated in CCFv3
+1615,fiber tracts,908,"anterior commissure, temporal limb",act,"anterior commissure, posterior limb",acp,,,included in CCFv3
+1616,fiber tracts,940,cingulum bundle,cing,cingulum,cg,,,included in CCFv3
+1617,fiber tracts,1099,fornix system,fxs,n/a,n/a,,,included in CCFv3
+1618,fiber tracts,466,alveus,alv,alveus of the hippocampus,alv,,,included in CCFv3
+1619,fiber tracts,530,dorsal fornix,df,dorsal fornix,df,,,included in CCFv3
+1620,fiber tracts,603,fimbria,fi,fimbria of the hippocampus,fi,,,included in CCFv3
+1621,fiber tracts,745,"precommissural fornix, general",fxprg,n/a,n/a,,,not annotated in CCFv3
+1622,fiber tracts,420,precommissural fornix diagonal band,db,n/a,n/a,,,not annotated in CCFv3
+1623,fiber tracts,737,postcommissural fornix,fxpo,n/a,n/a,,,included in CCFv3
+1624,fiber tracts,428,medial corticohypothalamic tract,mct,n/a,n/a,,,included in CCFv3
+1625,fiber tracts,436,columns of the fornix,fx,fornix,f,,,included in CCFv3
+1626,fiber tracts,618,hippocampal commissures,hc,n/a,n/a,,,included in CCFv3
+1627,fiber tracts,443,dorsal hippocampal commissure,dhc,dorsal hippocampal commissure,dhc,,,included in CCFv3
+1628,fiber tracts,449,ventral hippocampal commissure,vhc,ventral hippocampal commissure,vhc,,,included in CCFv3
+1629,fiber tracts,713,perforant path,per,n/a,n/a,,,not annotated in CCFv3
+1630,fiber tracts,474,angular path,ab,n/a,n/a,,,not annotated in CCFv3
+1631,fiber tracts,37,longitudinal association bundle,lab,longitidinal association bundle,lab,,,not annotated in CCFv3
+1632,fiber tracts,301,stria terminalis,st,stria terminalis,st,,,included in CCFv3
+1633,fiber tracts,484682528,commissural branch of stria terminalis,stc,commissural stria terminalis,cst,,new in CCFv3,included in CCFv3
+1634,fiber tracts,824,hypothalamus related,mfsbshy,n/a,n/a,,,included in CCFv3
+1635,fiber tracts,54,medial forebrain bundle,mfb,medial forebrain bundle,mfb,,,included in CCFv3
+1636,fiber tracts,405,ventrolateral hypothalamic tract,vlt,n/a,n/a,,,not annotated in CCFv3
+1637,fiber tracts,174,preoptic commissure,poc,n/a,n/a,,,not annotated in CCFv3
+1638,fiber tracts,349,supraoptic commissures,sup,supraoptic decussation,sox,,,included in CCFv3
+1639,fiber tracts,817,"supraoptic commissures, anterior",supa,n/a,n/a,,,not annotated in CCFv3
+1640,fiber tracts,825,"supraoptic commissures, dorsal",supd,n/a,n/a,,,not annotated in CCFv3
+1641,fiber tracts,833,"supraoptic commissures, ventral",supv,n/a,n/a,,,not annotated in CCFv3
+1642,fiber tracts,166,premammillary commissure,pmx,n/a,n/a,,,not annotated in CCFv3
+1643,fiber tracts,341,supramammillary decussation,smd,n/a,n/a,,,
+1644,fiber tracts,182,propriohypothalamic pathways,php,n/a,n/a,,,not annotated in CCFv3
+1645,fiber tracts,762,"propriohypothalamic pathways, dorsal",phpd,n/a,n/a,,,not annotated in CCFv3
+1646,fiber tracts,770,"propriohypothalamic pathways, lateral",phpl,n/a,n/a,,,not annotated in CCFv3
+1647,fiber tracts,779,"propriohypothalamic pathways, medial",phpm,n/a,n/a,,,not annotated in CCFv3
+1648,fiber tracts,787,"propriohypothalamic pathways, ventral",phpv,n/a,n/a,,,not annotated in CCFv3
+1649,fiber tracts,150,periventricular bundle of the hypothalamus,pvbh,n/a,n/a,,,not annotated in CCFv3
+1650,fiber tracts,46,mammillary related,mfbsma,n/a,n/a,,,included in CCFv3
+1651,fiber tracts,753,principal mammillary tract,pm,principal mammillary tract,pm,,,included in CCFv3
+1652,fiber tracts,690,mammillothalamic tract,mtt,mamillothalamic tract,mt,,,included in CCFv3
+1653,fiber tracts,681,mammillotegmental tract,mtg,mamillotegmental tract,mtg,,,included in CCFv3
+1654,fiber tracts,673,mammillary peduncle,mp,mamillary peduncle,mp,,,included in CCFv3
+1655,fiber tracts,n/a,n/a,n/a,retromamillary decussation,rmx,,,
+1656,fiber tracts,1068,dorsal thalamus related,mfbst,n/a,n/a,,,not annotated in CCFv3
+1657,fiber tracts,722,periventricular bundle of the thalamus,pvbt,n/a,n/a,,,not annotated in CCFv3
+1658,fiber tracts,1083,epithalamus related,mfbse,n/a,n/a,,,included in CCFv3
+1659,fiber tracts,802,stria medullaris,sm,stria medullaris,sm,,,included in CCFv3
+1660,fiber tracts,595,fasciculus retroflexus,fr,fasciculus retroflexus,fr,,,included in CCFv3
+1661,fiber tracts,611,habenular commissure,hbc,habenular commissure,hbc,,,included in CCFv3
+1662,fiber tracts,730,pineal stalk,PIS,n/a,n/a,,,not annotated in CCFv3
+1663,fiber tracts,70,midbrain related,mfbsm,n/a,n/a,,,not annotated in CCFv3
+1664,fiber tracts,547,dorsal longitudinal fascicle,dlf,longitudinal fasciculus of the pons,lfp,,,not annotated in CCFv3
+1665,fiber tracts,563,dorsal tegmental tract,dtt,n/a,n/a,,,not annotated in CCFv3
+1666,ventricular systems,73,ventricular systems,VS,n/a,n/a,,,included in CCFv3
+1667,ventricular systems,81,lateral ventricle,VL,lateral ventricle,LV,,,included in CCFv3
+1668,ventricular systems,89,rhinocele,RC,ependymal and subendymal layer/olfactory ventricle,E/OV,,,not annotated in CCFv3
+1669,ventricular systems,n/a,n/a,n/a,olfactory ventricle,OV,,,
+1670,ventricular systems,98,subependymal zone,SEZ,ependyma and subependymal layer,E,,,included in CCFv3
+1671,ventricular systems,108,choroid plexus,chpl,choroid plexus,chp,,,included in CCFv3
+1672,ventricular systems,116,choroid fissure,chfl,,,,,not annotated in CCFv3
+1673,ventricular systems,124,interventricular foramen,IVF,interventricular foramen,IVF,,,not annotated in CCFv3
+1674,ventricular systems,129,third ventricle,V3,3rd ventricle,3V,,,included in CCFv3
+1675,ventricular systems,n/a,n/a,n/a,dorsal 3rd ventricle,D3V,,,
+1676,ventricular systems,140,cerebral aqueduct,AQ,aqueduct,Aq,,,included in CCFv3
+1677,ventricular systems,145,fourth ventricle,V4,4th ventricle,4V,,,included in CCFv3
+1678,ventricular systems,153,lateral recess,V4r,lateral recess of the 4th ventricle,LR4V,,,included in CCFv3
+1679,ventricular systems,164,"central canal, spinal cord/medulla",c,central canal,CC,,,included in CCFv3
+1680,grooves,1024,grooves,grv,n/a,n/a,,,not annotated in CCFv3
+1681,grooves,1032,grooves of the cerebral cortex,grv of CTX,n/a,n/a,,,not annotated in CCFv3
+1682,grooves,1055,endorhinal groove,eg,n/a,n/a,,,not annotated in CCFv3
+1683,grooves,1063,hippocampal fissure,hf,hippocampal fissure,hif,,,not annotated in CCFv3
+1684,grooves,1071,rhinal fissure,rf,rhinal fissure,rf,,,not annotated in CCFv3
+1685,grooves,1078,rhinal incisure,ri,n/a,n/a,,,not annotated in CCFv3
+1686,grooves,n/a,n/a,n/a,intraparietal sulcus,ips,,,
+1687,grooves,n/a,n/a,n/a,orbital sulcus,orbs,,,
+1688,grooves,n/a,n/a,n/a,occipitotemporal sulcus,ots,,,
+1689,grooves,n/a,n/a,n/a,superior calcarine sulcus,scal,,,
+1690,grooves,n/a,n/a,n/a,superior temporal sulcus,sts,,,
+1691,grooves,1040,grooves of the cerebellar cortex,grv of CBX,n/a,n/a,,,not annotated in CCFv3
+1692,grooves,1087,precentral fissure,pce,n/a,n/a,,,not annotated in CCFv3
+1693,grooves,1095,preculminate fissure,pcf,preculminate fissure,pcuf,,,not annotated in CCFv3
+1694,grooves,1103,primary fissure,pri,primary fissure,prf,,,not annotated in CCFv3
+1695,grooves,1112,posterior superior fissure,psf,post superior fissure,psf,,,not annotated in CCFv3
+1696,grooves,1119,prepyramidal fissure,ppf,prepyramidal fissure,ppf,,,not annotated in CCFv3
+1697,grooves,3,secondary fissure,sec,secondary fissure,sf,,,not annotated in CCFv3
+1698,grooves,11,posterolateral fissure,plf,posterolateral fissure,plf,,,not annotated in CCFv3
+1699,grooves,18,nodular fissure,nf,n/a,n/a,,,not annotated in CCFv3
+1700,grooves,25,simple fissure,sif,simplex fissure,simf,,,not annotated in CCFv3
+1701,grooves,34,intercrural fissure,icf,intercrural fissure,icf,,,not annotated in CCFv3
+1702,grooves,43,ansoparamedian fissure,apf,ansoparamedian fissure,apmf,,,not annotated in CCFv3
+1703,grooves,49,intraparafloccular fissure,ipf,n/a,n/a,,,not annotated in CCFv3
+1704,grooves,57,paramedian sulcus,pms,parafloccular sulcus,pfs,,,not annotated in CCFv3
+1705,grooves,65,parafloccular sulcus,pfs,lateral fissure,lf,,,not annotated in CCFv3
+1706,grooves,624,Interpeduncular fossa,IPF,interpeduncular fossa,IPF,,,not annotated in CCFv3
+1707,retina,304325711,retina,retina,n/a,n/a,,new in CCFv3,not annotated in CCFv3
+1708,fiber tracts,n/a,n/a,n/a,transverse fibers of the pons,tfp,,,
+1709,fiber tracts,n/a,n/a,n/a,superior thalamic radiation,str,,,
+1710,fiber tracts,n/a,n/a,n/a,lamina 2 of the spinal gray,2Sp,,,
+1711,fiber tracts,n/a,n/a,n/a,lamina 3 of the spinal gray,3Sp,,,
+1712,fiber tracts,n/a,n/a,n/a,lamina 9 of the spinal gray,9Sp,,,
+1713,fiber tracts,n/a,n/a,n/a,commissure of lateral lemniscus,cll,,,
+1714,fiber tracts,n/a,n/a,n/a,external arcuate fibers,ear,,,
+1715,fiber tracts,n/a,n/a,n/a,gelatinous layer of the caudal spinal trigeminal nucleus,Ge5,,,
+1716,fiber tracts,n/a,n/a,n/a,infundibulum,Inf,,,
+1717,fiber tracts,n/a,n/a,n/a,infundibular stem,InfS,,,
+1718,fiber tracts,n/a,n/a,n/a,lateral spinal nucleus,LSp,,,
+1719,fiber tracts,n/a,n/a,n/a,lenticular fasciculus,lenf,,,
+1720,fiber tracts,n/a,n/a,n/a,lamina terminalis,LTer,,,
+1721,fiber tracts,n/a,n/a,n/a,"medial forebrain bundle, 'a' component",mfba,,,
+1722,fiber tracts,n/a,n/a,n/a,medial medullar lamina,mml,,,
+1723,fiber tracts,n/a,n/a,n/a,olivocochlear bundle,ocb,,,
+1724,fiber tracts,n/a,n/a,n/a,"parainsular cortex, lateral part",PaIL,,,
+1725,fiber tracts,n/a,n/a,n/a,"parainsular cortex, medial part",PaIM,,,
+1726,fiber tracts,n/a,n/a,n/a,sulcus limitans,sl,,,
+1727,fiber tracts,n/a,n/a,n/a,trigeminothalamic tract,tth,,,
+1728,fiber tracts,n/a,n/a,n/a,vestibulomesencephalic tract,veme,,,
+1729,fiber tracts,n/a,n/a,n/a,ventral horn,VH,,,
+1730,fiber tracts,n/a,n/a,n/a,ventromedian fissure,vmf,,,
+1731,fiber tracts,n/a,n/a,n/a,decussation of the medial lemniscus,xml,,,
+1732,n/a,n/a,n/a,n/a,artery,a,,,
+1733,n/a,n/a,n/a,n/a,basilar artery,bas,,,
+1734,n/a,n/a,n/a,n/a,internal carotid artery,ictd,,,
+1735,n/a,n/a,n/a,n/a,middle cerebral artery,mcer,,,
+1736,n/a,n/a,n/a,n/a,posterior inferior cerebel artery,pica,,,
+1737,n/a,n/a,n/a,n/a,superior cerebellar artery,scba,,,
+1738,n/a,n/a,n/a,n/a,vertebral artery,vert,,,
+1739,n/a,n/a,n/a,n/a,vein,v,,,
