@@ -1,6 +1,0 @@
-label,description,name,parcellation_terminology_label,term_set_order,parent_term_set_label
-AllenCCF-Ontology-2017-ORGA,organ,organ,AllenCCF-Ontology-2017,0,
-AllenCCF-Ontology-2017-CATE,mouse brain anatomical catergories,category,AllenCCF-Ontology-2017,1,AllenCCF-Ontology-2017-ORGA
-AllenCCF-Ontology-2017-DIVI,mouse brain divisions,division,AllenCCF-Ontology-2017,2,AllenCCF-Ontology-2017-CATE
-AllenCCF-Ontology-2017-STRU,mouse brain structures,structure,AllenCCF-Ontology-2017,3,AllenCCF-Ontology-2017-DIVI
-AllenCCF-Ontology-2017-SUBS,mouse brain substructures,substructure,AllenCCF-Ontology-2017,4,AllenCCF-Ontology-2017-STRU
