@@ -80,7 +80,7 @@ GPSseq is currently validated on **Windows with Python 3.9**.
 
 You should have:
 
-- Windows 10/11 or another supported Python 3.9 environment;
+- Python 3.9 environment;
 - Conda or Miniconda;
 - Git (recommended);
 - sufficient disk space for the Allen atlas data and model weights.
