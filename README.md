@@ -8,7 +8,6 @@
 
 This repository provides the Python-based brain-registration software and supporting resources for the GPS-seq workflow. The instructions below cover **environment setup and preparation of the public Allen Mouse Brain Atlas reference data**. Instructions for downloading trained model weights and running the registration software will be added separately.
 
-**Associated manuscript:** *GPS-seq maps brain-wide transcriptional networks to guide schizophrenia therapeutic strategy* (bibliographic information to be added when available).
 
 ## Overview
 
