@@ -13,7 +13,6 @@ tensorflow==2.16.1
 tensorflow-intel==2.16.1
 keras==3.9.0
 h5py==3.13.0
-voxelmorph==0.2
 neurite==0.2
 pystrum==0.4
 imageio==2.37.0
