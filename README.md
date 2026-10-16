@@ -14,12 +14,6 @@ This repository provides the Python implementation of the GPS-seq brain-registra
 
 ---
 
-## Associated paper
-
-**GPS-seq maps brain-wide transcriptional networks to guide schizophrenia therapeutic strategy**
-
-The manuscript describes the GPS-seq framework and its application to a mouse model of schizophrenia-related transcriptional responses.
-
 ### GPS-seq workflow
 
 ![GPS-seq brain registration model: style transfer, spatial localization, and affine/nonlinear registration](assets/Fig1.png)
