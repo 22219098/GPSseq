@@ -16,7 +16,7 @@ This repository provides the Python implementation of the GPS-seq brain-registra
 
 ### GPS-seq workflow
 
-![GPS-seq brain registration model: style transfer, spatial localization, and affine/nonlinear registration](assets/Fig1.png)
+![GPS-seq brain registration model: style transfer, spatial localization, and affine/nonlinear registration](assets/Fig2.png)
 
 **Figure 1.** Overview of the GPS-seq framework and the deep-learning-based brain-registration module.
 
@@ -30,7 +30,7 @@ The resulting anatomical annotation is then used to guide ROI selection and down
 
 ### Software workflow
 
-![GPS-seq software workflow: landmark selection, spatial calibration, ROI selection, and LCM export](docs/workflow.png)
+![GPS-seq software workflow: landmark selection, spatial calibration, ROI selection, and LCM export](assets/Fig1.png)
 
 **Figure 2.** GPS-seq software workflow from anatomical registration and landmark-based calibration to ROI selection and LCM-compatible XML generation.
 
