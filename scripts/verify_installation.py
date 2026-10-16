@@ -1,171 +1,65 @@
-"""
-Verify the GPSseq TensorFlow / Neurite / VoxelMorph
-compatibility environment.
-"""
+"""Validate the GPSseq legacy Neurite and VoxelMorph environment.
 
-from __future__ import annotations
-
+Run this in a fresh Python process, e.g. `python scripts/verify_installation.py`.
+This checks network construction, not pretrained weight loading or inference.
+"""
 import importlib.metadata as md
 import inspect
 import sys
-
 
 EXPECTED = {
     "tensorflow": "2.16.1",
     "keras": "3.9.0",
     "neurite": "0.2",
+    "voxelmorph": "0.2",
 }
 
 
-print(
-    "=== GPSseq environment verification ==="
-)
+def fail(message):
+    raise SystemExit("FAIL: " + message)
 
+
+print("=== GPSseq installation verification ===")
+print("Python:", sys.version.split()[0])
+print("Executable:", sys.executable)
 if sys.version_info[:2] != (3, 9):
-    raise SystemExit(f"FAIL: GPSseq expects Python 3.9, got {sys.version.split()[0]}")
+    fail("GPSseq requires Python 3.9")
 
-print(
-    "Python:",
-    sys.version
-)
-
-print(
-    "Executable:",
-    sys.executable
-)
-
-print()
-
-
-for package, expected in EXPECTED.items():
-
+for pkg, expected in EXPECTED.items():
     try:
-        actual = md.version(package)
-
+        actual = md.version(pkg)
     except md.PackageNotFoundError:
-
-        raise SystemExit(
-            f"FAIL: {package} is not installed"
-        )
-
+        fail(f"{pkg} is not installed")
+    print(f"{pkg}: {actual}")
     if actual != expected:
-        raise SystemExit(
-            f"FAIL: {package}=={actual}, but GPSseq expects {expected}. "
-            "Please verify requirements.txt and the selected Python interpreter."
-        )
-    print(f"{package}: {actual} [OK]")
-
+        fail(f"{pkg} must be {expected}; found {actual}")
 
 try:
-    voxelmorph_version = md.version(
-        "voxelmorph"
-    )
-
-except md.PackageNotFoundError:
-
-    raise SystemExit(
-        "FAIL: voxelmorph is not installed"
-    )
-
-
-print(
-    f"voxelmorph: {voxelmorph_version}"
-)
-
-print()
-
-
-# Import in this fresh Python process.
-try:
-
-    import neurite
-
+    import neurite as ne
 except Exception as exc:
-
-    raise SystemExit(
-        "FAIL: Neurite import failed.\n"
-        f"{type(exc).__name__}: {exc}"
-    )
-
+    fail(f"Neurite import failed: {type(exc).__name__}: {exc}")
+print("Neurite:", ne.__file__)
+constant_cls = getattr(ne.layers, "Constant", None)
+if constant_cls is None:
+    fail("neurite.layers.Constant is missing. Install third_party/neurite-gpsseq-legacy.zip")
+print("PASS: neurite.layers.Constant exists")
+print("Signature:", inspect.signature(constant_cls))
 
 try:
-
     import voxelmorph as vxm
-
 except Exception as exc:
-
-    raise SystemExit(
-        "FAIL: VoxelMorph import failed.\n"
-        f"{type(exc).__name__}: {exc}"
-    )
-
-
-print(
-    "Neurite:",
-    neurite.__file__
-)
-
-print(
-    "VoxelMorph:",
-    vxm.__file__
-)
-
-
-# Check GPSseq-required network.
-cls = getattr(
-    vxm.networks,
-    "VxmAffineFeatureDetector",
-    None
-)
-
-
+    fail(f"VoxelMorph import failed: {type(exc).__name__}: {exc}")
+print("VoxelMorph:", vxm.__file__)
+cls = getattr(vxm.networks, "VxmAffineFeatureDetector", None)
 if cls is None:
+    fail("VxmAffineFeatureDetector is missing. Install third_party/voxelmorph-gpsseq-legacy.zip")
+print("PASS: VxmAffineFeatureDetector exists")
+print("Signature:", inspect.signature(cls))
 
-    raise SystemExit(
-        "FAIL: VxmAffineFeatureDetector "
-        "is missing.\n"
-        "Make sure the GPSseq legacy "
-        "VoxelMorph archive was installed."
-    )
-
-
-print(
-    "PASS: VxmAffineFeatureDetector exists"
-)
-
-print(
-    "Signature:",
-    inspect.signature(cls)
-)
-
-
-# Actually instantiate the model.
 try:
-
-    model = cls(
-        (256, 256)
-    )
-
+    affine = cls((256, 256))
 except Exception as exc:
-
-    raise SystemExit(
-        "FAIL: VxmAffineFeatureDetector "
-        "could not be instantiated.\n"
-        f"{type(exc).__name__}: {exc}"
-    )
-
-
-print(
-    "PASS: VxmAffineFeatureDetector "
-    "initialized successfully"
-)
-
-print()
-
-print(
-    "=== GPSseq compatibility setup PASSED ==="
-)
-
-print(
-    "Model weights will be tested separately."
-)
+    fail(f"Affine network initialization failed: {type(exc).__name__}: {exc}")
+print("PASS: VxmAffineFeatureDetector initialized successfully")
+print("=== GPSseq compatibility setup PASSED ===")
+print("Pretrained model weights and inference are not checked by this script.")
