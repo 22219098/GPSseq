@@ -1,7 +1,7 @@
 # GPSseq
 
 ### GPS-seq maps brain-wide transcriptional networks to guide schizophrenia therapeutic strategy
-
+[![Python 3.9](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 [![Allen Mouse Brain Atlas](https://img.shields.io/badge/Reference-Allen%20CCF-informational)](https://atlas.brain-map.org/)
 
 **GPS-seq** (*Global-brain Position System coupled with RNA sequencing*) is an anatomically guided framework for brain-region-resolved transcriptomic profiling. The associated study combines deep learning-based brain atlas registration, region-of-interest (ROI) selection, laser capture microdissection (LCM), and spatially barcoded transcriptome recovery to characterize molecular responses across the mouse brain.
