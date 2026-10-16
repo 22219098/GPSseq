@@ -151,47 +151,36 @@ def main() -> int:
 
         return 2
 
-    changed = False
-    recognized = 0
-
+    # Preflight both files before modifying either one. The known Neurite 0.2
+    # source must contain the expected l1 symbol in both files and l2 in
+    # metrics.py, either as the old import or as the patched Keras 3 alias.
+    expected_imports = {
+        "metrics.py": ("l1", "l2"),
+        "losses.py": ("l1",),
+    }
+    candidates = []
     for filename in TARGET_FILES:
-
         path = root / filename
-
         if not path.is_file():
-
-            print(
-                f"ERROR: missing file: {path}"
-            )
-
+            print(f"ERROR: missing file: {path}")
             return 2
+        source = path.read_text(encoding="utf-8")
+        for alias in expected_imports[filename]:
+            alternatives = [
+                (old, new) for old, new in REPLACEMENTS.items()
+                if old.endswith(f" as {alias}")
+            ]
+            if not any(old in source or new in source for old, new in alternatives):
+                print(
+                    f"ERROR: expected {alias} Keras import not found in {path}. "
+                    "This Neurite source may differ from the validated 0.2 snapshot."
+                )
+                return 2
+        candidates.append(path)
 
-        text = path.read_text(
-            encoding="utf-8"
-        )
-
-        if any(
-            old in text or new in text
-            for old, new in REPLACEMENTS.items()
-        ):
-            recognized += 1
-
-        changed = (
-            patch_file(
-                path,
-                args.apply
-            )
-            or changed
-        )
-
-    if recognized == 0:
-
-        print(
-            "ERROR: expected Neurite "
-            "imports were not found."
-        )
-
-        return 2
+    changed = False
+    for path in candidates:
+        changed = patch_file(path, args.apply) or changed
 
     if not changed:
 

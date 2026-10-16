@@ -21,6 +21,9 @@ print(
     "=== GPSseq environment verification ==="
 )
 
+if sys.version_info[:2] != (3, 9):
+    raise SystemExit(f"FAIL: GPSseq expects Python 3.9, got {sys.version.split()[0]}")
+
 print(
     "Python:",
     sys.version
@@ -45,15 +48,12 @@ for package, expected in EXPECTED.items():
             f"FAIL: {package} is not installed"
         )
 
-    status = (
-        "OK"
-        if actual == expected
-        else f"WARNING: expected {expected}"
-    )
-
-    print(
-        f"{package}: {actual} [{status}]"
-    )
+    if actual != expected:
+        raise SystemExit(
+            f"FAIL: {package}=={actual}, but GPSseq expects {expected}. "
+            "Please verify requirements.txt and the selected Python interpreter."
+        )
+    print(f"{package}: {actual} [OK]")
 
 
 try:
