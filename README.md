@@ -22,7 +22,7 @@ This repository provides the GPS-seq brain-registration software, installation t
 
 ## Quick start
 
-The validated environment uses **Python 3.9**, **TensorFlow 2.16.1**, **Keras 3.9.0**, **Neurite 0.2**, and the GPSseq-compatible VoxelMorph source in `third_party/`. The current setup has been validated on Windows.
+The GPSseq development environment uses **Python 3.9**, **TensorFlow 2.16.1**, **Keras 3.9.0**, and the GPSseq-compatible Neurite and VoxelMorph sources in `third_party/`. The current setup targets Windows.
 
 ### 1. Create a Python environment
 
@@ -50,17 +50,17 @@ Run from the GPSseq repository root:
 python -m pip install -r requirements.txt
 ```
 
-### 4. Install GPSseq-compatible VoxelMorph and configure Neurite
+### 4. Install GPSseq-compatible Neurite and VoxelMorph
 
 Open [`tutorials/01_install_environment.ipynb`](tutorials/01_install_environment.ipynb) using the `gpsseq` Python environment and run the cells in order.
 
-The notebook installs the bundled `third_party/voxelmorph-gpsseq-legacy.zip`, applies the Neurite compatibility patch, and verifies that `VxmAffineFeatureDetector` can be initialized.
+The notebook installs `third_party/neurite-gpsseq-legacy.zip` and `third_party/voxelmorph-gpsseq-legacy.zip`, then checks `neurite.layers.Constant` and `VxmAffineFeatureDetector`.
 
 Alternatively, run from the repository root:
 
 ```bash
+python -m pip install --no-deps --force-reinstall ./third_party/neurite-gpsseq-legacy.zip
 python -m pip install --no-deps --force-reinstall ./third_party/voxelmorph-gpsseq-legacy.zip
-python scripts/patch_neurite.py --apply
 python scripts/verify_installation.py
 ```
 
@@ -146,7 +146,7 @@ The build output is normally placed in `dist/`. Keep the external atlas data and
 
 Allen atlas data, trained weights, Python caches, and PyInstaller build output should not be committed to the source repository. Keep the corresponding entries in `.gitignore`.
 
-If you encounter Neurite or VoxelMorph import errors, rerun `tutorials/01_install_environment.ipynb` and check the verification output.
+If Neurite or VoxelMorph installation fails, rerun `tutorials/01_install_environment.ipynb` and check the verification output.
 
 ## Citation
 
