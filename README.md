@@ -16,7 +16,7 @@ This repository provides the Python-based brain-registration software and suppor
 
 The GPS-seq brain-registration model integrates three stages: **(1) ResNet-based style transfer** to generate an atlas-like representation of the input histological image; **(2) ConvNeXt-based spatial localization** within the Allen brain atlas; and **(3) VoxelMorph-based affine and nonlinear registration** to align the reference image and transfer anatomical annotations.
 
-![GPS-seq brain registration model: style transfer, vector identification, and affine/nonlinear registration](docs/model.png)
+![GPS-seq brain registration model: style transfer, vector identification, and affine/nonlinear registration](assets/Fig2.png)
 
 *Figure 1. Overview of the GPS-seq brain-registration model.*
 
@@ -24,7 +24,7 @@ The GPS-seq brain-registration model integrates three stages: **(1) ResNet-based
 
 The software uses registered anatomical annotations to select ROIs, supports landmark-based spatial calibration, and prepares ROI information for **LCM-compatible XML export**.
 
-![GPS-seq software workflow: landmark selection, spatial calibration, ROI selection, and XML generation for laser capture microdissection](docs/workflow.png)
+![GPS-seq software workflow: landmark selection, spatial calibration, ROI selection, and XML generation for laser capture microdissection](assets/Fig1.png)
 
 *Figure 2. Registration-guided ROI selection, landmark calibration, and LCM export workflow.*
 
