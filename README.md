@@ -128,51 +128,6 @@ With the `gpsseq` environment activated:
 python -m pip install -r requirements.txt
 ```
 
-The `requirements.txt` file contains the versions validated for GPSseq, including:
-
-```text
-Python       3.9.x
-TensorFlow   2.16.1
-Keras        3.9.0
-Neurite      0.2
-```
-
-### Important: VoxelMorph is intentionally not installed here
-
-Do **not** add:
-
-```text
-voxelmorph
-```
-
-to `requirements.txt`, and do not run:
-
-```bash
-pip install voxelmorph
-```
-
-GPSseq depends on a specific historical VoxelMorph source snapshot that contains:
-
-```text
-voxelmorph.tf.networks.VxmAffineFeatureDetector
-```
-
-The public PyPI package labelled `voxelmorph==0.2` is not the exact source snapshot used by GPSseq.
-
-The validated source is bundled in:
-
-```text
-third_party/voxelmorph-gpsseq-legacy.zip
-```
-
-The associated attribution and source information are provided in:
-
-```text
-third_party/SOURCE_INFORMATION.md
-```
-
----
-
 # 4. Complete the VoxelMorph + Neurite compatibility setup
 
 After Step 3, open:
