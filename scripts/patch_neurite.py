@@ -1,101 +1,221 @@
-"""GPSseq compatibility patch for Neurite 0.2 and TensorFlow 2.16 / Keras 3.
+"""
+Patch Neurite 0.2 for the GPSseq TensorFlow/Keras environment.
 
 Usage:
-    python scripts/patch_neurite.py          # preview, no changes
-    python scripts/patch_neurite.py --apply  # patch current environment, backing up files
+    python scripts/patch_neurite.py
+    python scripts/patch_neurite.py --apply
 
-The script edits *only* the selected Python environment's neurite/tf/metrics.py
-and neurite/tf/losses.py; it does not affect the GPSseq source or weights.
+Only these installed Neurite files are modified:
+
+    neurite/tf/metrics.py
+    neurite/tf/losses.py
+
+A backup is created before modification.
 """
 
 from __future__ import annotations
 
 import argparse
 import ast
+import importlib.metadata as md
 from pathlib import Path
 import shutil
 import sys
 import sysconfig
 
-OLD_TO_NEW = {
+
+REPLACEMENTS = {
     "from tensorflow.keras.losses import mean_absolute_error as l1":
         "from tensorflow.keras.losses import MAE as l1",
+
     "from tensorflow.keras.losses import mean_squared_error as l2":
         "from tensorflow.keras.losses import MSE as l2",
 }
-TARGETS = ("metrics.py", "losses.py")
+
+TARGET_FILES = (
+    "metrics.py",
+    "losses.py",
+)
 
 
-def run(site_packages: Path, apply: bool) -> int:
-    root = site_packages / "neurite" / "tf"
-    if not root.is_dir():
-        print(f"ERROR: neurite/tf not found in current environment: {root}")
-        print("Install neurite==0.2 first and use the intended conda environment.")
-        return 2
+def get_neurite_tf_dir() -> Path:
+    site_packages = Path(sysconfig.get_path("purelib"))
+    return site_packages / "neurite" / "tf"
 
-    pending = []
-    discovered = 0
-    for name in TARGETS:
-        path = root / name
-        if not path.is_file():
-            print(f"ERROR: expected Neurite source missing: {path}")
-            return 2
-        original = path.read_text(encoding="utf-8")
-        updated = original
-        for old, new in OLD_TO_NEW.items():
-            if old in original or new in original:
-                discovered += 1
-            updated = updated.replace(old, new)
-        ast.parse(updated, filename=str(path))  # refuse to write invalid syntax
-        if updated != original:
-            pending.append((path, original, updated))
-            print(f"PATCH NEEDED: {path} ({sum(original.count(old) for old in OLD_TO_NEW)} replacements)")
-        else:
-            print(f"ALREADY COMPATIBLE / UNCHANGED: {path}")
 
-    if not discovered:
-        print("ERROR: No recognized legacy import or patched alias was found in expected files.")
-        print("Your Neurite source may differ; inspect it manually instead of guessing.")
-        return 2
+def patch_file(path: Path, apply: bool) -> bool:
 
-    # Do not claim success when unsupported old usages remain inside the two files.
-    for path, _, updated in pending:
-        for line_no, line in enumerate(updated.splitlines(), 1):
-            if line.lstrip().startswith("from tensorflow.keras.losses import ") and (
-                "mean_absolute_error" in line or "mean_squared_error" in line
-            ):
-                print(f"ERROR: unhandled import at {path}:{line_no}: {line.strip()}")
-                return 2
+    original = path.read_text(encoding="utf-8")
+    updated = original
+
+    for old, new in REPLACEMENTS.items():
+        updated = updated.replace(old, new)
+
+    # Check syntax before modifying anything.
+    ast.parse(
+        updated,
+        filename=str(path)
+    )
+
+    if updated == original:
+        print(
+            f"OK: {path.name} is already patched "
+            f"or requires no change"
+        )
+        return False
+
+    old_count = sum(
+        original.count(old)
+        for old in REPLACEMENTS
+    )
+
+    print(
+        f"PATCH NEEDED: {path} "
+        f"({old_count} legacy import(s))"
+    )
 
     if not apply:
-        print("\nDRY RUN: no changes made. To apply: python scripts/patch_neurite.py --apply")
-        return 0
+        return True
 
-    for path, original, updated in pending:
-        backup = path.with_name(path.name + ".gpsseq-original.bak")
-        if not backup.exists():
-            shutil.copy2(path, backup)
-        path.write_text(updated, encoding="utf-8")
-        print(f"PATCHED: {path} (backup: {backup.name})")
+    backup = path.with_name(
+        path.name + ".gpsseq-original.bak"
+    )
 
-    print("\nFinished. Test in a fresh Python process:")
-    print("python -c \"import neurite, voxelmorph; print(\'Imports OK\')\"")
-    print("Note: reinstalling neurite with pip may overwrite this patch.")
-    return 0
+    if not backup.exists():
+        shutil.copy2(path, backup)
+
+    path.write_text(
+        updated,
+        encoding="utf-8"
+    )
+
+    print(f"PATCHED: {path}")
+    print(f"BACKUP:  {backup}")
+
+    return True
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--apply", action="store_true", help="Make the changes (default: dry run)")
-    parser.add_argument("--site-packages", type=Path, default=None,
-                        help="For diagnostics/tests only; defaults to the active Python environment")
+
+    parser = argparse.ArgumentParser(
+        description=__doc__
+    )
+
+    parser.add_argument(
+        "--apply",
+        action="store_true",
+        help="apply the patch"
+    )
+
     args = parser.parse_args()
-    site = args.site_packages or Path(sysconfig.get_path("purelib"))
-    print(f"Active Python: {sys.executable}")
-    print(f"Target site-packages: {site}")
-    if args.site_packages is not None:
-        print("WARNING: explicit site-packages override in use")
-    return run(site, args.apply)
+
+    print("Python:", sys.executable)
+
+    try:
+        neurite_version = md.version("neurite")
+    except md.PackageNotFoundError:
+
+        print(
+            "ERROR: neurite is not installed."
+        )
+
+        return 2
+
+    print(
+        "Neurite version:",
+        neurite_version
+    )
+
+    if neurite_version != "0.2":
+
+        print(
+            "ERROR: GPSseq expects "
+            "neurite==0.2."
+        )
+
+        return 2
+
+    root = get_neurite_tf_dir()
+
+    print(
+        "Target:",
+        root
+    )
+
+    if not root.is_dir():
+
+        print(
+            f"ERROR: Neurite directory "
+            f"not found: {root}"
+        )
+
+        return 2
+
+    changed = False
+    recognized = 0
+
+    for filename in TARGET_FILES:
+
+        path = root / filename
+
+        if not path.is_file():
+
+            print(
+                f"ERROR: missing file: {path}"
+            )
+
+            return 2
+
+        text = path.read_text(
+            encoding="utf-8"
+        )
+
+        if any(
+            old in text or new in text
+            for old, new in REPLACEMENTS.items()
+        ):
+            recognized += 1
+
+        changed = (
+            patch_file(
+                path,
+                args.apply
+            )
+            or changed
+        )
+
+    if recognized == 0:
+
+        print(
+            "ERROR: expected Neurite "
+            "imports were not found."
+        )
+
+        return 2
+
+    if not changed:
+
+        print(
+            "No patch was necessary."
+        )
+
+    elif not args.apply:
+
+        print(
+            "\nDRY RUN: no files changed."
+        )
+
+        print(
+            "Run with --apply to apply."
+        )
+
+    if args.apply:
+
+        print(
+            "\nNeurite patch completed."
+        )
+
+    return 0
 
 
 if __name__ == "__main__":
