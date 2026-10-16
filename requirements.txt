@@ -14,7 +14,6 @@ tensorflow-intel==2.16.1
 keras==3.9.0
 ipykernel==6.29.5
 h5py==3.13.0
-neurite==0.2
 pystrum==0.4
 imageio==2.37.0
 tqdm==4.67.1
