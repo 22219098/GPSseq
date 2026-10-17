@@ -124,8 +124,6 @@ Place the downloaded files at the paths required by `brain_registration/initiali
 
 ### 7. Run GPSseq
 
-7. Run GPSseq
-
 GPSseq provides a graphical interface for users. After completing the environment setup, preparing the Allen atlas data, and downloading the pretrained model weights, launch the application from the GPSseq repository root:
 
 conda activate gpsseq
