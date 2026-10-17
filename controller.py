@@ -3714,3 +3714,8 @@ class Shape:
     def update_points(self, new_points):
         """更新形状的点坐标"""
         self.points = new_points
+        
+if __name__ == "__main__":
+    root = tk.Tk()
+    app = MainApp(root)
+    root.mainloop()

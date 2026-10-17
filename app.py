@@ -2,7 +2,7 @@ import sys
 import os
 import threading
 import tkinter as tk
-from controller import MainApp
+
 
 # 👉 防止 PyInstaller 无控制台时报错（保留你原来的）
 if sys.stdout is None:
@@ -11,6 +11,8 @@ if sys.stderr is None:
     sys.stderr = open(os.devnull, "w", encoding="utf-8")
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+
+from controller import MainApp
 
 
 def main():
