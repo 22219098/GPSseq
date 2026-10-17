@@ -124,19 +124,28 @@ Place the downloaded files at the paths required by `brain_registration/initiali
 
 ### 7. Run GPSseq
 
-GPSseq provides a graphical interface for users. After completing the environment setup, preparing the Allen atlas data, and downloading the pretrained model weights, launch the application from the GPSseq repository root:
+GPSseq provides a graphical interface for users. After completing the environment setup,
+preparing the Allen atlas data, and downloading the pretrained model
+weights, launch the application from the GPSseq repository root:
 
+``` powershell
 conda activate gpsseq
 python app.py
+```
 
-app.py launches the interface defined in controller.py.
+`app.py` launches the interface defined in `controller.py`.
 
 From the home screen:
 
-Enter BrainRegistration: run the brain-registration workflow, including automatic registration and manual refinement.
-Enter Combined Workflow: select calibration points, process ROIs/shapes, and generate LCM-compatible XML files.
+-   **Enter BrainRegistration**: run the brain-registration workflow,
+    including automatic registration and manual refinement.
+-   **Enter Combined Workflow**: select calibration points, process
+    ROIs/shapes, and generate LCM-compatible XML files.
 
-Select the required input files and output folders in the interface, then follow the on-screen steps. Ensure the Allen atlas data, pretrained model weights, and application assets are available at the paths expected by GPSseq before launching.
+Select the required input files and output folders in the interface,
+then follow the on-screen steps. Ensure the Allen atlas data, pretrained
+model weights, and application assets are available at the paths
+expected by GPSseq before launching.
 
 ### 8. Optional: Build a Windows executable
 
